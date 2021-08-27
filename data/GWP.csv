@@ -1,0 +1,389 @@
+﻿ID,Subsector,Total t CO2e,CO2 t CO2e,CH4 t CO2e,N2O t CO2e,Other GHGs t CO2e
+1121A0,Cattle Ranches And Feedlots,6380000,550000,2420000,3410000,0
+1111B0,"Fresh Wheat, Corn, Rice, And Other Grains",4480000,1380000,2870000,226000,0
+221100,Electricity,3280000,3240000,30300,1130,8220
+484000,Truck Transport,1490000,1440000,4030,367,46100
+311111,Dog And Cat Food,1250000,1220000,653,572,26200
+221200,Natural Gas,1190000,954000,5820,227000,1790
+112A00,Animal Farms And Aquaculture Ponds (Except Cattle And Poultry),747000,63900,50200,633000,4.77
+33131A,Aluminum,728000,487000,130,108,240000
+325310,Fertilizers,692000,458000,200000,33800,80
+311221,Corn Products,642000,637000,3300,1360,123
+211000,Unrefined Oil And Gas,636000,295000,272,341000,94.9
+1111A0,"Fresh Soybeans, Canola, Flaxseeds, And Other Oilseeds",442000,166000,276000,330,0
+331110,"Primary Iron, Steel, And Ferroalloy Products",390000,386000,104,3540,98
+212100,Coal,327000,39300,682,287000,0
+324110,"Gasoline, Fuels, And By-Products Of Petroleum Refining",291000,278000,71.9,12400,10.3
+482000,Rail Transport,283000,265000,1910,637,15600
+322120,Paper,194000,125000,484,69200,26.1
+112120,Dairies,193000,11700,44800,136000,0
+562000,Waste Management And Remediation,183000,19400,435,162000,1140
+486000,Pipeline Transport,165000,586,0,162000,2050
+111900,"Tobacco, Cotton, Sugarcane, Peanuts, Sugar Beets, Herbs And Spices, And Other Crops",165000,49600,115000,103,0
+322130,Cardboard,155000,127000,2750,24500,20.3
+33131B,Aluminum Products,147000,140000,81.1,61.2,6530
+31161A,Packaged Meat (Except Poultry),143000,143000,72.6,65.8,182
+325190,Other Basic Organic Chemicals,134000,125000,7700,400,583
+332430,"Light Gauge Metal Cans, Boxes, And Containers",134000,133000,77.1,63.9,184
+481000,Air Transport,116000,115000,1140,0.389,0.002
+325180,Other Basic Inorganic Chemicals,107000,106000,771,156,707
+483000,"Water Transport (Boats, Ships, Ferries)",106000,103000,2770,0,0.739
+115000,Agriculture And Forestry Support,92400,23700,35700,33000,34.6
+325110,Petrochemicals,89200,88800,294,156,17.9
+325211,Plastics,85800,85000,615,68,127
+322220,Paper Bags And Coated Paper,72700,67000,63.6,5600,71.9
+2123A0,"Sand, Gravel, Clay, Phosphate, Other Nonmetallic Minerals",53900,53300,293,289,1.84
+31122A,Vegetable Oils And By-Products,53300,53000,121,63,128
+311225,"Refined Vegetable, Olive, And Seed Oils",43300,42800,90.3,51.1,333
+312140,Distilleries And Spirits,38200,36200,1970,64,7.57
+327310,Cement,38200,38100,48.8,24.5,0.008
+2122A0,"Iron, Gold, Silver, And Other Metal Ores",34300,33800,465,90.4,0
+230301,Nonresidential Building Repair And Maintanence,33800,27400,31.1,17.1,6400
+311210,Flours And Malts,30500,30300,132,37.2,3.03
+322110,Wood Pulp,30400,19400,661,10400,1.71
+322210,Cardboard Containers,29000,28600,25.7,16,283
+331419,Other Primary Nonferrous Metals,27500,23900,6.03,8.7,3670
+327400,Lime And Gypsum Products,27300,27300,39.4,20.2,0
+325411,Medicinal And Botanical Ingredients,26500,26000,283,19.7,172
+212230,"Copper, Nickel, Lead, And Zinc",26400,26200,218,46.3,0
+221300,Drinking Water And Wastewater Treatment,26100,91.2,6390,19600,2.09
+326110,"Plastic Bags, Films, And Sheets",24500,24000,52.5,14.2,369
+531Ore,Other Real Estate,23500,23400,13.6,49,29.9
+325120,Compressed Gases,23200,12600,23.5,68.1,10500
+325320,Pesticides,22900,22600,225,20.1,76.6
+325130,Synthetic Dyes And Pigments,22700,22600,42.3,16.4,2.9
+311300,"Sugar, Candy, And Chocolate",22200,21700,93.3,47.5,330
+324190,Other Petroleum And Coal Products,20700,20600,35.4,36.9,8.69
+325520,Adhesives,20600,20400,27,14.5,164
+212310,Dimensional Stone,18700,18500,189,39.4,1.07
+327200,Glass And Glass Products,18700,18600,6.74,6.72,68
+114000,Wild-Caught Fish And Game,15500,15500,50.8,22,3.78
+112300,Poultry Farms,14700,9570,1710,3400,0
+420000,Wholesale Trade,14300,11500,12.9,26.8,2790
+3259A0,"Chemicals (Except Basic Chemicals, Agrichemicals, Polymers, Paints, Pharmaceuticals,Soaps, Cleaning Compounds)",13500,12500,31.5,8.51,945
+550000,Company And Enterprise Management,9670,9580,7.7,21.6,61.2
+311514,"Dry, Condensed, And Evaporated Dairy",9540,9360,5.21,4.51,173
+325510,Paints And Coatings,9110,9070,11.3,6.48,21.4
+332800,"Metal Coatings, Engravings, And Heat Treatments",9090,9070,6.23,4.6,7.72
+333415,"Air Conditioning, Refrigeration, And Warm Air Heating Equipment",9030,303,0.185,0.147,8730
+113000,Timber And Raw Forest Products,8980,6720,1880,373,0
+325910,Ink And Ink Cartridges,7910,7890,9.61,5.1,3.62
+325610,Soap And Cleaning Compounds,7840,7650,32.5,6.04,155
+111400,"Greenhouse Crops, Mushrooms, Nurseries, And Flowers",7830,5740,2080,6.36,0
+3252A0,Synthetic Rubber And Artificial And Synthetic Fibers,7740,7650,84,6.2,3.5
+485000,Passenger Ground Transport,7640,7470,1.86,2.05,166
+334413,Semiconductors,7480,1910,260,0.933,5310
+311700,Seafood,7450,7310,3.96,3.44,129
+322299,All Other Converted Paper Products,6680,6410,6.05,9.63,252
+311119,Other Animal Food,5990,5930,32,7.02,21
+541800,Advertising And Public Relations,5990,5560,6.08,5.22,418
+323110,"Books, Newspapers, Magazines, And Other Print Media",5900,5880,6.85,4.2,10.3
+311940,Seasonings And Dressings,5750,5430,4.37,3.14,310
+331490,Other Secondary Nonferrous Metal Products,5700,4090,1.56,1.39,1610
+331200,Secondary Steel Products,5230,5180,1.75,35.3,6.62
+532100,Vehicle Rental And Leasing,4670,4640,3.47,10.5,15.2
+21311A,Other Support Activities For Mining,4550,4500,5.05,40,0
+491000,Postal Service,4200,4190,3.71,9.63,0
+111300,Fresh Fruits And Tree Nuts,3790,1490,2300,2.97,0
+313300,Finished And Coated Fabric,3560,3550,2.34,2.85,0.812
+327100,Clay And Ceramic Products,3400,3390,6.59,3.74,5.76
+3219A0,"Veneer, Plywood, And Engineered Wood",3320,2660,19.8,1.13,639
+492000,Couriers And Messengers,3300,3210,5.72,0.52,82.7
+561700,Buildings And Dwellings Services,2950,1460,3.67,3.75,1490
+326190,Other Plastic Products,2950,2630,2.35,2.85,311
+522A00,Nondepository Credit Intermediation And Related Activities,2850,2840,2.31,6.49,0.887
+332710,Machine Shops,2770,2730,2.46,1.51,37.2
+327992,Ground Or Treated Minerals And Earth,2470,2460,4.77,2.62,0.032
+811300,Commercial Machinery Repair,2340,553,0.431,1.25,1790
+311615,Packaged Poultry,2220,2220,1.12,1.02,4.48
+321100,Lumber And Treated Lumber,2140,2040,2.37,15.6,82.4
+324122,Asphalt Shingles,2130,2120,3.25,1.66,0.722
+332600,Springs And Wires,2060,2010,1.13,2.5,52.3
+52A000,Monetary Authorities And Depository Credit Intermediation,1940,1930,1.55,4.39,5.21
+326210,Rubber Tires,1940,1920,1.14,0.926,17.6
+722110,Full-Service Restaurants,1850,1550,1.11,3.46,295
+332114,Custom Metal Rolls,1830,1800,1.06,0.868,29.1
+33299B,"Metal Pipe Fittings, Ball And Roller Bearings, Industrial Patterns, Metal Bath Fixtures, Other Misc. Fabricated Metals",1830,1750,1.24,0.898,73.7
+312120,Breweries And Beer,1690,1600,1.01,0.789,90.4
+331420,Secondary Copper Products,1690,1690,0.85,0.774,0.254
+111200,"Fresh Vegetables, Melons, And Potatoes",1680,389,1290,1.01,0
+335991,Carbon And Graphite Products,1630,1630,0.905,0.772,0.009
+324121,Asphalt Pavement,1580,1570,3.29,1.58,4.57
+331520,Nonferrous Metal Casts,1520,1040,0.566,0.488,480
+33211A,"All Other Forging, Stamping, And Sintering",1480,1470,0.667,5.56,9.63
+S00203,State And Local Government Enterprises,1480,1.63,364,1110,0
+722211,Limited-Service Restaurants,1460,1080,0.825,2.42,374
+721000,Hotels And Campgrounds,1450,1390,1,3.14,57.5
+332320,"Metal Windows, Doors, And Architectural Products",1350,1140,0.678,0.548,201
+331510,Cast Iron And Steel,1310,1290,0.774,0.625,15.8
+493000,Warehousing,1290,1280,1.37,2.97,1.86
+336390,Other Vehicle Parts,1230,873,0.408,0.334,355
+321200,Plywood And Veneer,1050,1040,0.985,0.596,2.45
+311420,Fruit And Vegetable Preservation,1040,799,0.46,0.391,239
+713900,"Golf Courses, Marinas, Ski Resorts, Fitness And Other Rec Centers And Industries",962,446,256,238,21.9
+332200,Cutlery And Handtools,956,944,0.581,0.462,10.9
+313200,Fabric,944,922,0.679,21.7,0.093
+541300,"Architectural, Engineering, And Related Services",926,502,0.687,1.15,423
+326150,Urethane And Other Foam Products,885,565,0.684,0.363,319
+325414,Vaccines And Other Biological Medical Products,868,859,0.688,0.462,8.41
+332310,Metal Structural Products,791,746,0.449,0.362,44.2
+532400,Commercial Equipment Rental,785,485,0.452,1.11,298
+332720,"Screws, Nuts, And Bolts",755,746,0.453,0.363,8.69
+327320,Ready-Mix Concrete,724,719,1.48,0.788,2.28
+811100,Vehicle Repair,708,672,0.508,1.52,34.2
+326120,"Plastic Pipe, Fittings, And Sausage Casings",661,652,0.426,0.326,8.43
+334210,Telephones,632,603,0.365,0.293,28.4
+561900,Other Support Services,630,382,0.301,0.867,247
+335911,Storage Batteries,613,612,0.342,0.29,0.004
+327993,Mineral Wool,603,603,0.355,0.29,0
+326140,Polystyrene Foam Products,578,562,0.415,0.298,15.9
+333111,Farm Machinery And Equipment,578,551,0.351,0.272,26.5
+31151A,Fluid Milk And Butter,566,552,0.296,0.26,12.6
+813B00,"Civic, Social, Professional, And Similar Organizations",559,546,0.423,1.24,11.1
+326160,Plastic Bottles,553,493,0.329,0.251,58.8
+518200,Data Processing And Hosting,543,58.3,0.106,0.143,484
+561400,Business Support,535,491,0.571,0.734,42
+611A00,"Colleges, Universities, Junior Colleges, And Professional Schools",529,501,0.348,1.14,26
+33211B,"Lids, Jars, Bottle Caps, Other Metal Closures And Crowns",523,483,0.279,0.23,38.9
+331411,Primary Copper,493,476,0.239,0.218,16
+33411A,Computer Terminals And Other Computer Peripheral Equipment,482,477,0.466,0.259,3.94
+333313,Office Machinery,476,430,0.574,0.291,45.1
+811200,Electronic Equipment Repair And Maintenance,467,446,0.329,1.01,19.2
+812300,Dry-Cleaning And Laundry,463,459,0.332,1.04,2.9
+332991,Ball And Roller Bearings,462,461,0.262,0.22,0.04
+5419A0,"Marketing Research And All Other Miscellaneous Professional, Scientific, And Technical Services",439,414,0.309,0.939,23.5
+321910,"Wooden Windows, Door, And Flooring",436,297,0.295,0.175,138
+48A000,Scenic And Sightseeing Transportation And Support Activities For Transportation,427,360,0.313,0,66.7
+561200,Facilities Support,405,388,0.288,0.879,15.4
+33441A,"Electronic Capacitors, Resistors, Coils, Transformers, Connectors And Other Components (Except Semiconductors And Printed Circuit Assemblies)",396,332,2.27,0.163,61.3
+326290,Other Rubber Products,394,391,0.267,0.2,2.69
+33291A,Valve And Fittings (Except For Plumbing),387,381,0.233,0.188,5.52
+327999,Other Nonmetallic Mineral Products,385,384,0.498,0.272,0.02
+335314,Relay And Industrial Controls,380,371,0.231,0.182,9
+333618,Other Engine Equipment,378,323,0.105,0.083,54.8
+333920,Material Handling Equipment,361,344,0.225,0.172,16.6
+314900,Other Textiles,359,356,0.318,0.199,2.45
+326130,Laminated Plastic Plates And Shapes,336,335,0.2,0.161,0.268
+533000,Lessors Of Nonfinancial Intangible Assets,328,320,0.206,0.723,7.29
+541400,Specialized Design,322,205,0.166,0.469,116
+336320,Vehicle Electrical And Electronic Equipment,318,310,0.183,0.148,7.58
+327910,Abrasive Products,316,314,0.54,0.308,0.88
+4A0000,Other Retail,307,267,0.221,0.612,39.2
+339990,"Gaskets, Seals, Musical Instruments, Fasteners, Brooms, Brushes, Mop And Other Misc. Goods",301,275,0.196,0.141,25.9
+334418,Printed Circuit And Electronic Assembly,301,214,2.95,0.105,83.8
+561600,Investigation And Security,295,279,0.284,0.647,14.3
+811400,Household Goods Repair,266,182,0.139,0.405,83.3
+33331A,"Vending, Commercial Laundry, And Other Commercial And Service Industry Machinery",260,232,0.309,0.157,27.1
+335920,Communication And Energy Wire And Cable,258,255,0.233,0.121,2.58
+325412,"Pharmaceutical Products (Pills, Powders, Solutions, Etc.)",257,246,0.203,0.13,10.6
+541512,Computer Systems Design,257,51,0.105,0.128,206
+313100,"Fiber, Yarn, And Thread",254,254,0.158,0.124,0.057
+33329A,"Machinery For The Paper, Textile, Food Or Other Industries (Except Semiconductor Machinery)",254,246,0.502,0.144,6.86
+323120,Printing Support,253,249,0.231,0.142,3.69
+722A00,All Other Food And Drinking Places,250,85.2,0.059,0.184,164
+333130,"Mining And Oil, Gas Field Machinery",247,244,0.168,0.124,2.92
+523A00,Securities And Commodities Brokerage And Exchanges,246,243,0.27,0.567,1.89
+336350,Transmission And Power Train Parts,239,226,0.13,0.107,12.8
+335312,Motors And Generators,237,211,0.118,0.1,25.5
+532A00,Consumer Goods And General Rental Centers,237,234,0.183,0.535,1.84
+541100,Legal Services,235,199,0.165,0.455,34.7
+327330,"Concrete Pipe, Bricks, And Blocks",230,229,0.455,0.255,0.026
+311513,Cheese,229,226,0.117,0.105,3.76
+333120,Construction Machinery,226,223,0.205,0.127,2.68
+332500,"Metal Hinges, Keys, Lock, And Other Hardware",216,212,0.13,0.104,3.46
+336500,Railroad Rolling Stock,211,207,0.125,0.1,3.93
+517110,Telecommunications,201,165,0.133,0.375,36.2
+326220,Rubber And Plastic Belts And Hoses,200,198,0.129,0.098,2.3
+3363A0,"Motor Vehicle Steering, Suspension Components (Except Spring), And Brake Systems",197,192,0.111,0.09,4.79
+311930,Flavored Drink Concentrates,191,183,0.109,0.089,7.79
+327390,Other Concrete Products,190,189,0.367,0.206,0.043
+335120,Light Fixtures,186,141,0.121,0.07,44.7
+336310,Vehicle Engines And Engine Parts,179,163,0.092,0.076,16.1
+541610,Management Consulting,173,95.8,0.099,0.223,76.6
+322291,"Sanitary Paper (Tissues, Napkins, Diapers, Etc.)",159,104,0.645,54.5,0.039
+33351B,"Cutting And Machine Tool Accessory, Rolling Mill, And Other Metalworking Machines",153,153,0.097,0.076,0.272
+333612,"Speed Changers, Industrial High-Speed Drives, And Gears",144,144,0.09,0.071,0.17
+311910,Snack Foods,143,136,0.089,0.071,6.38
+541200,"Accounting, Tax Preparation, Bookkeeping, And Payroll",140,114,0.114,0.265,25.2
+335311,Specialty Transformers,133,132,0.142,0.081,0.035
+311410,Frozen Food,132,129,0.067,0.06,2.97
+33399A,"Welding And Soldering Equipment, Scales And Balances, And Other General Purpose Machinery",128,118,0.08,0.192,9.4
+335110,Light Bulbs,123,123,0.068,0.058,0.328
+325620,Toiletries,115,111,0.143,0.084,3.8
+333613,Mechanical Power Transmission Equipment,113,111,0.066,0.053,1.92
+311990,All Other Foods,111,109,0.087,0.064,2.27
+524100,Insurance Carriers,109,109,0.069,0.246,0.007
+334610,"External Hard Drives, Cds, Other Storage Media",109,109,0.068,0.053,0.069
+524200,Insurance Agencies And Brokerages,108,98.9,0.075,0.223,8.9
+336370,Vehicle Metal Stamping,102,85.8,0.05,0.041,16.6
+33399B,"Hydraulic Pumps, Motors, Cylinders And Actuators",102,101,0.062,0.05,0.122
+337110,Wood Kitchen Cabinets And Countertops,96.9,95.3,0.076,0.051,1.46
+523900,"Investment Advice, Portfolio Management, And Other Financial Advising Services",92.5,84,0.076,0.193,8.19
+S00102,Federal Government Enterprises,91,90.7,0.051,0.204,0
+711A00,Promoters And Agents,90.7,88.8,0.07,0.203,1.6
+561500,Travel Arrangement And Reservation,83.8,74.3,0.054,0.167,9.31
+332420,Heavy Gauge Metal Tanks,82.4,78.4,0.047,0.038,3.87
+339113,Surgical Appliance And Supplies,82.2,78.6,0.026,0.015,3.58
+33341A,Air Purification And Ventilation Equipment,74.3,43.8,0.027,0.021,30.5
+441000,Vehicles And Parts Sales,74.1,69.9,0.054,0.159,4.04
+337215,Shelving And Lockers,72.9,64.3,0.046,0.033,8.51
+517210,Wireless Telecommunications,72.3,53,0.044,0.121,19.2
+335313,Switchgear And Switchboards,72,65.6,0.043,0.033,6.39
+312130,Wineries And Wine,71.6,71.5,0.046,0.035,0
+311810,Bread And Other Baked Goods,69.6,66.8,0.038,0.032,2.73
+5416A0,Environmental And Other Technical Consulting Services,67,57.5,0.049,0.132,9.37
+561100,Office Administration,64.8,61.9,0.047,0.14,2.69
+335930,Wiring Devices,62.6,59.8,0.036,0.029,2.81
+332996,Fabricated Pipe And Pipe Fittings,62.5,61.4,0.036,0.03,1.04
+515200,Cable And Subscription Programming,61.5,1.43,0.002,0.003,60
+311520,Ice Cream And Frozen Desserts,59.2,48.8,0.026,0.023,10.3
+33391A,Pumps And Pumping Equipment,51.6,46.2,0.03,0.023,5.33
+334220,Wireless Communications,50.1,43.6,0.051,0.022,6.34
+332410,Power Boilers And Heat Exchangers,48.5,39.2,0.022,0.019,9.32
+333414,Heating Equipment Other Than Warm Air Furnaces,48.4,37.7,0.025,0.019,10.6
+333511,Industrial Molds,45.3,43.6,0.027,0.021,1.67
+561300,Employment Services,45.2,21.9,0.025,0.051,23.2
+315000,Clothing,44,43.8,0.034,0.023,0.112
+54151A,"Other Computer Related Services, Including Facilities Management",43.3,36.2,0.053,0.087,6.93
+711200,Sports,42.3,39.5,0.032,0.09,2.73
+339940,Office Supplies (Not Paper),41.8,41.5,0.032,0.022,0.29
+333514,"Special Tools, Dies, Jigs, And Fixtures",41.8,40.5,0.025,0.02,1.28
+335222,Home Refrigerators And Freezers,38.2,3.82,0.002,0.002,34.4
+312110,"Soft Drinks, Bottled Water, And Ice",36.8,30.1,0.019,0.015,6.7
+336611,Ships And Ship Repair,35.7,35.1,0.023,0.018,0.485
+812900,"Pet Care, Photofinishing, Parking And Other Sundry Services",35.2,33.4,0.025,0.076,1.68
+336214,Travel Trailer And Campers,34.9,11.3,0.007,0.005,23.6
+336413,Other Aircraft Parts,33.7,33.6,0.027,0.018,0.117
+334513,Industrial Process Variable Instruments,32.3,32,0.023,0.016,0.264
+316000,Leather,30.8,27.9,0.016,0.013,2.92
+711500,"Independent Artists, Writers, And Performers",30.7,28,0.024,0.064,2.56
+711100,Performances,30.5,29.1,0.023,0.066,1.28
+541940,Veterinarians,29.8,26.6,0.022,0.061,3.21
+337122,"Home Furniture - Wood, Nonupholstered",29.8,20.4,0.015,0.011,9.35
+5191A0,"News Syndicates, Libraries, Archives, Internet Publishing And All Other Information Services",29.8,29,0.028,0.067,0.687
+322230,Stationery,29.3,29.2,0.02,0.015,0.034
+512100,Movies And Film,27.7,22.3,0.017,0.051,5.35
+336360,Vehicle Seating And Interior Trim (Upholstery),27.1,12.6,0.005,0.004,14.4
+334290,Communications Equipment,27,26.3,0.016,0.013,0.661
+337121,Home Furniture - Upholstered,25.9,4.12,0.003,0.002,21.7
+332913,"Metal Plumbing Drains, Faucets, Valves, And Other Fittings",24.2,24.1,0.014,0.012,0.08
+611B00,Other Educational Services,24.1,23.6,0.019,0.054,0.373
+311920,Coffee And Tea,23.2,23.1,0.013,0.011,0.011
+333112,Lawn And Garden Equipment,23.1,20.9,0.013,0.01,2.21
+3118A0,"Cookies, Crackers, Pastas, And Tortillas",23,21.4,0.017,0.013,1.57
+335221,Home Cooking Appliances,21.6,20.5,0.04,0.01,1.11
+334300,Audio And Video Equipment,21.6,16.1,0.011,0.008,5.46
+452000,General Merchandise Stores,21.6,20.5,0.015,0.047,1.06
+333912,Air And Gas Compressors,21.6,20.8,0.025,0.01,0.742
+33351A,Metal Cutting And Forming Machine Tools,21.1,20.1,0.013,0.01,1.06
+333991,Power Tools,20.7,20.4,0.014,0.01,0.258
+515100,Radio And Television,20.3,12,0.009,0.027,8.29
+327991,Cut Stone And Stone Products,18.9,18.8,0.065,0.024,0.022
+333220,Plastics And Rubber Industry Machinery,18.4,18.4,0.011,0.009,0.024
+541920,Photographers,15.7,14.5,0.012,0.033,1.16
+314120,Curtains And Linens,15.5,15.1,0.021,0.111,0.299
+333611,Turbines And Turbine Generator Sets,14.4,14,0.008,0.007,0.324
+335999,Other Miscellaneous Electrical Equipment And Components,13.5,13.3,0.009,0.006,0.124
+334514,Fluid Meters And Counting Devices,13,12.9,0.008,0.006,0.03
+334512,Automatic Controls For Hvac And Refrigeration Equipment,12.3,11.6,0.008,0.006,0.681
+541700,Scientific Research And Development,11.9,10.9,0.008,0.02,0.928
+517A00,"Satellite, Telecommunications Resellers, And All Other Telecommunications",11.3,9.6,0.01,0.022,1.71
+314110,Carpets And Rugs,11.1,10.2,0.008,0.005,0.883
+519130,Internet Publishing And Broadcasting,9.65,8.47,0.009,0.02,1.15
+333315,Photography And Photocopying Equipment,8.83,6.79,0.016,0.003,2.02
+339950,Signs,8.77,7.23,0.006,0.004,1.53
+333994,Industrial Process Furnaces And Ovens,8.23,6.86,0.004,0.003,1.36
+334112,Computer Storage Device Readers,8.12,8.11,0.005,0.004,0.007
+333295,Semiconductor Machinery,7.86,7.25,0.013,0.004,0.595
+445000,Food And Beverage Stores,7.68,6.46,0.006,0.015,1.2
+334517,Irradiation Apparatuses,7.6,6.98,0.01,0.004,0.604
+325413,"Blood Sugar, Pregnancy, And Other Diagnostic Test Kits",7.54,7.21,0.009,0.004,0.321
+33712A,"Home Furniture - Cabinets And Non-Wood, Nonupholstered",7.45,4.27,0.003,0.002,3.17
+5111A0,"Directory, Mailing List, And Other Publishers",7.28,4.51,0.005,0.011,2.76
+336412,Aircraft Engines And Parts,6.39,6.36,0.003,0.003,0.029
+512200,Sound Recording,6.32,6.28,0.006,0.015,0.016
+335210,Small Electrical Appliances,5.46,5.45,0.003,0.003,0.007
+333993,Packaging Machinery,5.43,5.42,0.004,0.003,0.008
+511200,Software,5.07,2.61,0.005,0.006,2.45
+511120,Magazines And Journals,5.03,4.41,0.008,0.011,0.601
+336120,Heavy Duty Trucks,4.96,1.49,0,0,3.46
+334516,Analytical Laboratory Instruments,4.93,4.7,0.003,0.002,0.227
+713100,Amusement Parks And Arcades,4.4,4.1,0.003,0.009,0.295
+335228,"Major Home Appliances (Except Ovens, Stoves, Refrigerators And Laundry Machines)",4.05,2.14,0.001,0.001,1.91
+339910,Jewelry And Silverware,3.93,3.92,0.003,0.002,0.009
+337900,"Mattresses, Blinds And Shades",3.92,0.579,0,0,3.35
+511110,Newspapers,3.79,3.58,0.003,0.008,0.191
+33299A,"Ammunition, Arms, Ordnance, And Related Accessories",3.65,3.56,0.002,0.002,0.079
+33641A,Propulsion Units And Parts For Space Vehicles And Guided Missiles,3.64,3.63,0.002,0.002,0.006
+336999,Other Transportation Equipment,3.46,3.23,0.002,0.002,0.222
+33451A,"Watches, Clocks, And Other Measuring And Controlling Devices",3.29,3.23,0.002,0.002,0.052
+334515,Signal Testing Instruments,3.04,2.71,0.009,0.001,0.323
+339930,"Dolls, Toys, And Games",2.59,1.53,0.001,0,1.06
+333314,Optical Instruments And Lenses,2.58,2.56,0.002,0.001,0.016
+334111,Computers,2.42,2.41,0.002,0.001,0.006
+335224,Home Laundry Machines,2.27,2.09,0.001,0.001,0.185
+337127,Institutional Furniture,2.23,1.73,0.001,0.011,0.486
+339112,Surgical And Medical Instruments,2.18,1.94,0.001,0.001,0.24
+336411,Aircraft,2.12,2.1,0.001,0.001,0.017
+541511,Custom Computer Programming,2.02,1.46,0.002,0.003,0.552
+339920,Sporting And Athletic Goods,1.64,1.49,0.001,0,0.147
+336211,Vehicle Bodies,1.62,1.5,0,0,0.111
+334511,Navigation Instruments,1.58,1.48,0.002,0,0.104
+621900,Ambulances,1.49,0.727,0,0.002,0.758
+336991,"Motorcycle, Bicycle, And Parts",1.39,1.36,0.001,0,0.025
+336992,Military Armored Vehicles And Tanks,1.34,1.34,0,0,0
+311230,Breakfast Cereals,1.28,1.24,0.003,0.001,0.032
+312200,Tobacco Products,1.18,1.11,0.001,0,0.069
+336612,Boats,1.17,1.16,0,0,0.009
+336212,Truck Trailers,1.03,0.245,0,0,0.787
+335912,Primary Batteries,0.836,0.759,0,0,0.077
+336112,"Pickup Trucks, Vans, And Suvs",0.521,0.255,0,0,0.266
+624400,Child Day Care,0.337,0.308,0,0,0.029
+334510,Electromedical Appartuses,0.3,0.28,0,0,0.019
+511130,Books,0.274,0.24,0,0,0.033
+33721A,Office Furniture And Custom Architectural Woodwork And Millwork,0.265,0.214,0,0,0.051
+336414,Guided Missiles And Space Vehicles,0.243,0.236,0,0,0.007
+813A00,"Grantmaking, Giving, And Social Advocacy Organizations",0.192,0.186,0,0,0.006
+525000,"Funds, Trusts, And Financial Vehicles",0.17,0.169,0,0,0
+623A00,Nursing And Community Care Facilities,0.163,0.147,0,0,0.015
+624100,Individual And Family Services,0.151,0.139,0,0,0.011
+621400,Outpatient Healthcare,0.144,0.121,0,0,0.022
+339115,Ophthalmic Goods,0.139,0.135,0,0,0.004
+621500,Medical Laboratories,0.108,0.087,0,0,0.021
+621300,Healthcare Practitioners (Except Physicians And Dentists),0.072,0.063,0,0,0.008
+623B00,"Residential Mental Retardation, Mental Health, Substance Abuse And Other Facilities",0.059,0.049,0,0,0.01
+336111,Automobiles,0.049,0.025,0,0,0.024
+339114,Dental Equipment And Supplies,0.045,0.044,0,0,0
+2334A0,Other Residential Structures,0.037,0.03,0,0,0.008
+230302,Residential Building Repair And Maintanence,0.036,0.027,0,0,0.009
+621100,Physicians,0.03,0.015,0,0,0.015
+624A00,"Community Food, Housing, And Other Relief Services, Including Rehabilitation Services",0.019,0.015,0,0,0.004
+339116,Dental Laboratories,0.013,0.013,0,0,0
+621200,Dentists,0.01,0.007,0,0,0.003
+812100,Salons And Barber Shops,0.003,0.003,0,0,0
+2332A0,"Commercial Structures, Including Farm Structures",0,0,0,0,0
+611100,Elementary And Secondary Schools,0,0,0,0,0
+S00500,Federal Government (Defense),0,0,0,0,0
+S00600,Federal Government (Nondefense),0,0,0,0,0
+812200,Funerary Services,0,0,0,0,0
+713200,Gambling Establishments (Except Casino Hotels),0,0,0,0,0
+233210,Health Care Buildings,0,0,0,0,0
+233293,"Highways, Streets, And Bridges",0,0,0,0,0
+621600,Home Healthcare,0,0,0,0,0
+622000,Hospitals,0,0,0,0,0
+814000,Household Employees,0,0,0,0,0
+5310Hs,Housing,0,0,0,0,0
+233230,Manufacturing Buildings,0,0,0,0,0
+336213,Motor Homes,0,0,0,0,0
+233412,Multifamily Homes,0,0,0,0,0
+712000,"Museums, Historical Sites, Zoos, And Parks",0,0,0,0,0
+S00300,Noncomparable Imports,0,0,0,0,0
+2332B0,Other Nonresidential Structures,0,0,0,0,0
+813100,Religious Organizations,0,0,0,0,0
+S00900,Rest Of The World Adjustment,0,0,0,0,0
+233262,Schools And Vocational Buildings,0,0,0,0,0
+233411,Single-Family Homes,0,0,0,0,0
+S00700,State And Local Government,0,0,0,0,0
+S00402,Used And Secondhand Goods,0,0,0,0,0
+233240,Utilities Buildings And Infrastructure,0,0,0,0,0
+213111,Well Drilling,0,0,0,0,0
