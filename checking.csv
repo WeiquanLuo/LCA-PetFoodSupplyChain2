@@ -1,0 +1,505 @@
+,ID,Subsector_x,CO t,NH3 t,NOx t,PM10 t,PM 2.5 t,SO2 t,VOC t,Subsector_y,CO2 t CO2e,CH4 t CO2e,N2O t CO2e,Other GHGs t CO2e
+0,484000,Truck Transport,18800.0,70.7,10700.0,196.0,445.0,24.1,1470.0,Truck transportation,4190000.0,0.0,0.0,0.0
+1,33131A,Aluminum,18800.0,10.5,261.0,125.0,477.0,2890.0,260.0,Alumina refining and primary aluminum production,226000.0,353000.0,0.0,0.0
+2,1111B0,"Fresh Wheat, Corn, Rice, And Other Grains",4730.0,22500.0,4420.0,43200.0,11200.0,12.5,3960.0,Grain farming,6080000.0,0.0,3360000.0,31800000.0
+3,211000,Unrefined Oil And Gas,3550.0,1.15,3900.0,6.86,98.7,306.0,11400.0,Oil and gas extraction,1200000.0,779000.0,2280000.0,0.0
+4,1121A0,Cattle Ranches And Feedlots,2580.0,18300.0,2770.0,275.0,271.0,6.37,252.0,Cattle ranching and farming,1250000.0,0.0,10800000.0,6980000.0
+5,331110,"Primary Iron, Steel, And Ferroalloy Products",1990.0,3.34,260.0,26.0,93.4,266.0,59.9,Iron and steel mills,967000.0,1580000.0,15600.0,0.0
+6,562000,Waste Management And Remediation,1530.0,38.3,150.0,34.6,212.0,21.8,162.0,Waste management and remediation services,28800.0,0.0,751000.0,8540.0
+7,221100,Electricity,1530.0,39.7,3080.0,124.0,319.0,6690.0,74.7,Power generation and supply,25800000.0,0.0,70900.0,160000.0
+8,311111,Dog And Cat Food,843.0,17.1,661.0,278.0,433.0,187.0,118.0,Dog and cat food manufacturing,8100000.0,0.0,0.0,0.0
+9,483000,"Water Transport (Boats, Ships, Ferries)",759.0,2.76,5360.0,23.7,301.0,1820.0,215.0,Water transportation,588000.0,0.0,0.0,0.0
+10,482000,Rail Transport,737.0,2.02,4590.0,12.3,140.0,48.7,253.0,Rail transportation,2110000.0,0.0,0.0,0.0
+11,48A000,Scenic And Sightseeing Transportation And Support Activities For Transportation,707.0,0.051,271.0,2.32,14.3,21.0,55.7,Scenic and sightseeing transportation and support activities for transportation,80500.0,0.0,0.0,0.0
+12,33131B,Aluminum Products,574.0,5.81,92.6,11.1,97.4,72.2,482.0,Aluminum product manufacturing from purchased aluminum,246000.0,0.0,0.0,0.0
+13,322120,Paper,510.0,16.1,475.0,22.7,92.2,706.0,179.0,Paper mills,966000.0,0.0,0.0,0.0
+14,111900,"Tobacco, Cotton, Sugarcane, Peanuts, Sugar Beets, Herbs And Spices, And Other Crops",479.0,388.0,232.0,4970.0,1280.0,3.05,260.0,,,,,
+15,322130,Cardboard,475.0,14.1,382.0,15.0,76.3,301.0,231.0,Paperboard Mills,671000.0,0.0,0.0,0.0
+16,1111A0,"Fresh Soybeans, Canola, Flaxseeds, And Other Oilseeds",463.0,1090.0,496.0,12400.0,3130.0,0.926,1470.0,Oilseed farming,2150000.0,0.0,66600.0,7800000.0
+17,325310,Fertilizers,454.0,323.0,411.0,15.6,64.6,646.0,130.0,Fertilizer Manufacturing,1400000.0,1890000.0,0.0,2360000.0
+18,221200,Natural Gas,394.0,43.2,832.0,27.6,72.7,1490.0,42.9,Natural gas distribution,57400.0,0.0,579000.0,0.0
+19,322110,Wood Pulp,391.0,11.4,288.0,15.5,57.6,205.0,158.0,Pulp mills,93700.0,0.0,0.0,0.0
+20,324110,"Gasoline, Fuels, And By-Products Of Petroleum Refining",385.0,4.74,303.0,4.7,40.2,89.6,490.0,Petroleum refineries,2320000.0,0.0,7210.0,0.0
+21,311221,Corn Products,371.0,12.1,426.0,135.0,118.0,1070.0,462.0,Wet corn milling,3000000.0,0.0,0.0,0.0
+22,325130,Synthetic Dyes And Pigments,357.0,0.149,19.8,1.11,5.26,23.2,16.0,Synthetic dye and pigment manufacturing,32400.0,25500.0,0.0,0.0
+23,325180,Other Basic Inorganic Chemicals,334.0,17.9,182.0,33.8,41.6,412.0,30.5,,,,,
+24,112A00,Animal Farms And Aquaculture Ponds (Except Cattle And Poultry),269.0,11300.0,286.0,1.3,23.4,0.818,26.2,"Animal production, except cattle and poultry and eggs",413000.0,0.0,1940000.0,785000.0
+25,113000,Timber And Raw Forest Products,252.0,11.8,46.9,76.5,26.0,0.179,26.2,,,,,
+26,324190,Other Petroleum And Coal Products,235.0,0.523,43.9,4.16,12.6,202.0,10.8,,,,,
+27,486000,Pipeline Transport,230.0,0.258,751.0,1.02,16.8,3.96,399.0,Pipeline transportation,524000.0,1440.0,621000.0,0.0
+28,311300,"Sugar, Candy, And Chocolate",222.0,7.28,70.3,12.5,82.2,43.8,23.1,,,,,
+29,420000,Wholesale Trade,210.0,0.331,18.1,8.88,5.61,1.62,384.0,Wholesale trade,363000.0,0.0,0.0,0.0
+30,325110,Petrochemicals,194.0,4.44,179.0,3.57,32.6,33.3,98.3,Petrochemical manufacturing,368000.0,50800.0,21000.0,0.0
+31,713900,"Golf Courses, Marinas, Ski Resorts, Fitness And Other Rec Centers And Industries",186.0,3.17,2.63,3.19,2.56,0.028,49.1,,,,,
+32,325190,Other Basic Organic Chemicals,175.0,5.83,141.0,9.29,27.4,113.0,90.1,Other basic organic chemical manufacturing,1170000.0,0.0,0.0,134000.0
+33,332430,"Light Gauge Metal Cans, Boxes, And Containers",151.0,2.34,139.0,10.9,27.7,1.26,7120.0,"Metal can, box, and other container manufacturing",347000.0,0.0,0.0,0.0
+34,115000,Agriculture And Forestry Support,148.0,440.0,130.0,455.0,127.0,2.79,60.7,Agriculture and forestry support activities,59800.0,0.0,0.0,0.0
+35,230301,Nonresidential Building Repair And Maintanence,127.0,0.108,103.0,226.0,35.3,0.271,11.8,Nonresidential maintenance and repair,304000.0,0.0,0.0,0.0
+36,325211,Plastics,125.0,1.61,71.2,2.69,12.1,35.2,60.8,Plastics material and resin manufacturing,573000.0,0.0,0.0,0.0
+37,331419,Other Primary Nonferrous Metals,113.0,2.47,8.38,1.46,6.29,61.8,4.11,Primary smelting and refining of nonferrous metal (except copper and aluminum),13600.0,19400.0,0.0,0.0
+38,322220,Paper Bags And Coated Paper,106.0,7.34,95.7,4.9,19.6,97.3,422.0,,,,,
+39,312140,Distilleries And Spirits,104.0,6.84,140.0,14.6,25.4,148.0,989.0,Distilleries,7380.0,0.0,0.0,0.0
+40,212100,Coal,95.1,0.187,110.0,667.0,127.0,6.6,5.05,Coal mining,135000.0,0.0,1060000.0,0.0
+41,31122A,Vegetable Oils And By-Products,92.5,1.45,109.0,58.6,59.6,126.0,434.0,Soybean and other oilseed processing,1080000.0,0.0,0.0,0.0
+42,561700,Buildings And Dwellings Services,89.4,0.013,4.41,0.028,0.336,0.019,4.02,Services to buildings and dwellings,50200.0,0.0,0.0,0.0
+43,31161A,Packaged Meat (Except Poultry),87.1,39.3,72.8,24.2,32.2,38.9,34.8,Animal (except poultry) slaughtering and processing,493000.0,0.0,0.0,0.0
+44,550000,Company And Enterprise Management,80.3,0.013,3.94,0.027,0.305,0.054,3.6,Management of companies and enterprises,164000.0,0.0,0.0,0.0
+45,331411,Primary Copper,79.9,7.93,10.1,2.33,10.1,127.0,2.77,Primary smelting and refining of copper,11500.0,0.0,0.0,0.0
+46,2123A0,"Sand, Gravel, Clay, Phosphate, Other Nonmetallic Minerals",76.0,1.66,69.1,216.0,58.2,37.9,36.3,,,,,
+47,331490,Other Secondary Nonferrous Metal Products,73.8,1.03,4.81,0.919,3.91,36.3,2.6,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",17300.0,0.0,0.0,0.0
+48,327310,Cement,72.1,0.852,104.0,7.79,8.3,51.4,4.14,Cement manufacturing,60700.0,84600.0,0.0,0.0
+49,321100,Lumber And Treated Lumber,71.8,0.53,20.6,7.32,15.9,2.03,60.8,Sawmills and wood preservation,10300.0,0.0,0.0,0.0
+50,112120,Dairies,70.1,773.0,75.1,0.279,6.01,0.146,7.5,Milk Production,16900.0,0.0,166000.0,29800.0
+51,485000,Passenger Ground Transport,69.5,0.102,46.0,0.786,2.62,0.092,5.46,Transit and ground passenger transportation,6420.0,0.0,0.0,0.0
+52,335991,Carbon And Graphite Products,54.9,0.127,5.02,0.381,3.4,12.0,2.33,Carbon and graphite product manufacturing,7590.0,0.0,0.0,0.0
+53,325520,Adhesives,48.3,0.06,12.2,0.189,0.964,0.578,9.12,Adhesive manufacturing,18600.0,0.0,0.0,0.0
+54,322210,Cardboard Containers,46.8,0.787,15.3,1.25,3.24,0.557,54.2,Paperboard container manufacturing,99400.0,0.0,0.0,0.0
+55,3259A0,"Chemicals (Except Basic Chemicals, Agrichemicals, Polymers, Paints, Pharmaceuticals,Soaps, Cleaning Compounds)",43.4,1.78,30.7,5.19,8.01,59.6,20.3,All other chemical product and preparation manufacturing,34200.0,0.0,0.0,0.0
+56,711A00,Promoters And Agents,43.1,0.004,0.505,0.036,0.41,0.006,11.3,Promoters of performing arts and sports and agents for public figures,622.0,0.0,0.0,0.0
+57,325320,Pesticides,40.2,1.06,54.5,1.41,7.76,73.3,16.8,Pesticide and other agricultural chemical manufacturing,56700.0,0.0,0.0,0.0
+58,327400,Lime And Gypsum Products,38.4,0.485,41.1,5.75,6.37,29.2,1.31,,,,,
+59,491000,Postal Service,36.3,0.005,1.75,0.007,0.134,0.006,1.9,Postal service,36300.0,0.0,0.0,0.0
+60,325411,Medicinal And Botanical Ingredients,30.9,0.625,33.2,1.18,3.08,42.5,25.6,Medicinal and botanical manufacturing,164000.0,0.0,0.0,0.0
+61,331200,Secondary Steel Products,29.8,0.076,5.91,0.482,2.21,3.46,3.75,"Iron, steel pipe and tube manufacturing from purchased steel",24100.0,0.0,0.0,0.0
+62,3252A0,Synthetic Rubber And Artificial And Synthetic Fibers,29.4,0.204,12.1,0.277,1.67,9.01,11.6,,,,,
+63,326110,"Plastic Bags, Films, And Sheets",29.2,0.783,19.9,1.01,5.09,11.4,106.0,"Plastics packaging materials, film and sheet",128000.0,0.0,0.0,0.0
+64,325120,Compressed Gases,28.8,0.587,9.86,0.082,1.69,5.4,4.81,Industrial gas manufacturing,29500.0,0.0,0.0,0.0
+65,532100,Vehicle Rental And Leasing,27.4,0.004,1.33,0.018,0.106,0.004,1.26,Automotive equipment rental and leasing,2120.0,0.0,0.0,0.0
+66,492000,Couriers And Messengers,26.8,0.1,15.3,0.279,0.649,0.043,2.52,Couriers and messengers,436000.0,0.0,0.0,0.0
+67,711200,Sports,26.6,0.003,0.313,0.022,0.254,0.003,7.0,Spectator sports,726.0,0.0,0.0,0.0
+68,221300,Drinking Water And Wastewater Treatment,25.9,4.4,23.9,0.696,3.8,29.7,5.18,"Water, sewage and other systems",4650.0,0.0,123000.0,22400.0
+69,311210,Flours And Malts,24.5,1.18,27.6,30.5,15.1,179.0,22.7,Flour milling and malt manufacturing,130000.0,0.0,0.0,0.0
+70,311225,"Refined Vegetable, Olive, And Seed Oils",24.4,2.09,31.6,19.3,12.1,28.4,97.3,Fats and oils refining and blending,200000.0,0.0,0.0,0.0
+71,331510,Cast Iron And Steel,24.2,0.209,3.73,3.01,12.0,1.61,11.2,Ferrous metal foundaries,19900.0,0.0,0.0,0.0
+72,531Ore,Other Real Estate,22.9,0.019,1.45,0.007,0.107,0.068,1.04,,,,,
+73,493000,Warehousing,22.7,0.007,2.11,0.198,0.303,0.089,14.2,Warehousing and storage,32700.0,0.0,0.0,0.0
+74,325910,Ink And Ink Cartridges,22.3,0.026,5.49,0.096,0.378,0.252,7.1,Printing ink manufacturing,12800.0,0.0,0.0,0.0
+75,711500,"Independent Artists, Writers, And Performers",21.4,0.002,0.246,0.018,0.204,0.002,5.66,"Independent artists, writers, and performers",372.0,0.0,0.0,0.0
+76,522A00,Nondepository Credit Intermediation And Related Activities,20.5,0.003,1.05,0.004,0.077,0.005,0.911,Nondepository credit intermediation and related activities,11500.0,0.0,0.0,0.0
+77,541800,Advertising And Public Relations,19.8,0.065,3.79,0.065,0.426,0.031,11.6,Advertising and related services,5150.0,0.0,0.0,0.0
+78,327200,Glass And Glass Products,19.4,0.285,132.0,4.65,17.9,34.7,8.67,,,,,
+79,321200,Plywood And Veneer,18.6,0.141,8.12,1.45,5.42,0.925,8.74,,,,,
+80,325510,Paints And Coatings,17.8,0.143,5.24,0.362,0.912,0.416,1130.0,Paint and coating manufacturing,6170.0,0.0,0.0,0.0
+81,711100,Performances,16.9,0.002,0.196,0.014,0.161,0.002,4.45,Performing arts companies,273.0,0.0,0.0,0.0
+82,541300,"Architectural, Engineering, And Related Services",16.3,0.009,2.47,0.155,0.202,0.226,1.29,Architectural and engineering services,30600.0,0.0,0.0,0.0
+83,111400,"Greenhouse Crops, Mushrooms, Nurseries, And Flowers",15.6,0.027,14.6,0.039,1.39,0.247,14.3,Greenhouse and nursery production,10800.0,0.0,0.0,5130.0
+84,323110,"Books, Newspapers, Magazines, And Other Print Media",15.6,0.064,4.24,0.069,0.317,0.04,13.4,Printing,16700.0,0.0,0.0,0.0
+85,311940,Seasonings And Dressings,15.4,2.26,13.9,3.83,5.33,74.9,7.12,Seasoning and dressing manufacturing,5440.0,0.0,0.0,0.0
+86,2122A0,"Iron, Gold, Silver, And Other Metal Ores",15.2,1.3,113.0,226.0,55.5,34.6,2.01,"Gold, silver, and other metal ore mining",21800.0,0.0,0.0,0.0
+87,327100,Clay And Ceramic Products,14.1,0.279,12.9,2.67,4.95,12.0,1.66,,,,,
+88,332800,"Metal Coatings, Engravings, And Heat Treatments",13.3,0.94,6.29,1.83,2.64,0.18,28.7,"Coating, engraving, heat treating and allied activities",38800.0,0.0,0.0,0.0
+89,52A000,Monetary Authorities And Depository Credit Intermediation,13.1,0.002,0.683,0.003,0.051,0.003,0.581,Monetary authorities and depository credit intermediation,17400.0,0.0,0.0,0.0
+90,112300,Poultry Farms,12.9,605.0,13.8,0.111,1.17,0.067,1.4,Poultry and egg production,19900.0,0.0,11200.0,7860.0
+91,111300,Fresh Fruits And Tree Nuts,12.2,22.6,7.24,27.2,7.67,0.993,16.5,,,,,
+92,212230,"Copper, Nickel, Lead, And Zinc",12.2,0.078,24.6,105.0,17.9,32.8,1.44,"Copper, nickel, lead, and zinc mining",13400.0,0.0,0.0,0.0
+93,212310,Dimensional Stone,12.0,0.229,18.8,140.0,27.1,3.76,1.82,Stone mining and quarrying,44500.0,0.0,0.0,0.0
+94,722110,Full-Service Restaurants,12.0,0.001,0.38,0.617,11.3,0.005,2.12,,,,,
+95,722211,Limited-Service Restaurants,11.7,0.001,0.339,0.686,12.6,0.003,2.29,,,,,
+96,3219A0,"Veneer, Plywood, And Engineered Wood",11.1,0.098,4.61,3.08,4.72,0.264,12.5,,,,,
+97,331420,Secondary Copper Products,10.7,0.009,0.736,0.287,0.672,0.04,1.78,"Copper rolling, drawing, extruding and alloying",9320.0,0.0,0.0,0.0
+98,325610,Soap And Cleaning Compounds,9.68,0.088,7.87,0.337,1.32,3.68,2.33,Soap and cleaning compound manufacturing,11700.0,0.0,0.0,0.0
+99,324121,Asphalt Pavement,8.32,0.008,2.42,0.498,0.403,0.543,0.789,Asphalt paving mixture and block manufacturing,4450.0,0.0,0.0,0.0
+100,322299,All Other Converted Paper Products,7.65,0.286,7.14,0.712,3.35,5.67,17.0,All other converted paper product manufacturing,27800.0,0.0,0.0,0.0
+101,311700,Seafood,7.53,0.246,20.3,0.122,0.882,2.63,0.945,Seafood product preparation and packaging,93400.0,0.0,0.0,0.0
+102,721000,Hotels And Campgrounds,7.34,0.001,0.51,0.008,0.049,0.022,0.34,,,,,
+103,311514,"Dry, Condensed, And Evaporated Dairy",6.67,0.248,4.41,3.17,3.88,0.688,1.26,"Dry, condensed, and evaporated dairy products",9210.0,0.0,0.0,0.0
+104,324122,Asphalt Shingles,6.49,0.008,1.65,0.057,0.31,0.311,1.27,Asphalt shingle and coating materials manufacturing,1940.0,0.0,0.0,0.0
+105,311119,Other Animal Food,6.37,0.348,5.21,7.07,4.43,3.38,5.12,Other animal food manufacturing,128000.0,0.0,0.0,0.0
+106,532400,Commercial Equipment Rental,6.23,0.002,0.439,0.022,0.082,0.004,0.672,Commercial and industrial machinery and equipment rental and leasing,15200.0,0.0,0.0,0.0
+107,327993,Mineral Wool,5.45,0.4,0.709,0.271,1.28,0.821,0.524,Mineral wool manufacturing,1730.0,0.0,0.0,0.0
+108,561400,Business Support,5.19,0.005,0.511,0.016,0.081,0.018,1.28,Business support services,4870.0,0.0,0.0,0.0
+109,33299B,"Metal Pipe Fittings, Ball And Roller Bearings, Industrial Patterns, Metal Bath Fixtures, Other Misc. Fabricated Metals",5.17,0.039,3.0,0.82,1.84,0.101,19.2,Ordnance and accessories manufacturing,45.8,0.0,0.0,0.0
+110,33211A,"All Other Forging, Stamping, And Sintering",4.81,0.038,1.27,0.087,0.322,0.595,1.55,"All other forging, stamping , and sintering",4270.0,0.0,0.0,0.0
+111,327992,Ground Or Treated Minerals And Earth,4.71,5.62,9.98,3.09,3.57,13.8,3.0,Ground or treated minerals and earths manufacturing,18600.0,0.0,0.0,0.0
+112,313300,Finished And Coated Fabric,4.2,0.228,4.27,0.964,1.01,5.09,15.7,,,,,
+113,21311A,Other Support Activities For Mining,4.0,0.013,4.8,0.453,0.296,0.818,1.96,Support activities for other mining,5290.0,0.0,0.0,0.0
+114,811100,Vehicle Repair,4.0,0.0,0.214,0.007,0.099,0.0,66.9,,,,,
+115,523A00,Securities And Commodities Brokerage And Exchanges,3.98,0.0,0.206,0.0,0.015,0.0,0.179,,,,,
+116,561600,Investigation And Security,3.85,0.0,0.2,0.004,0.018,0.012,0.176,Investigation and security services,1700.0,0.0,0.0,0.0
+117,811300,Commercial Machinery Repair,3.84,0.001,0.311,0.082,0.126,0.011,49.5,Commercial machinery repair and maintenance,7290.0,0.0,0.0,0.0
+118,813B00,"Civic, Social, Professional, And Similar Organizations",3.59,0.0,0.18,0.0,0.013,0.002,0.159,"Civic, social, professional and similar organizations",12300.0,0.0,0.0,0.0
+119,332710,Machine Shops,3.17,0.007,1.03,0.156,0.292,0.069,13.0,Machine shops,7440.0,0.0,0.0,0.0
+120,331520,Nonferrous Metal Casts,3.06,0.011,0.721,0.244,1.31,0.105,1.32,Nonferrous foundries,10100.0,0.0,0.0,0.0
+121,332600,Springs And Wires,3.04,0.013,1.09,0.167,0.546,0.231,7.26,Spring and wire product manufacturing,4880.0,0.0,0.0,0.0
+122,713100,Amusement Parks And Arcades,2.73,0.0,0.038,0.002,0.027,0.0,0.72,,,,,
+123,561900,Other Support Services,2.72,0.0,0.145,0.017,0.077,0.001,0.315,Other support services,4480.0,0.0,0.0,0.0
+124,326190,Other Plastic Products,2.59,0.274,1.65,0.334,0.874,0.446,18.9,,,,,
+125,518200,Data Processing And Hosting,2.54,0.0,0.327,0.0,0.019,0.013,0.123,"Data processing, hosting, and related services",2040.0,0.0,0.0,0.0
+126,321910,"Wooden Windows, Door, And Flooring",2.46,0.008,1.23,0.534,1.25,0.118,4.67,Wood windows and doors and millwork,1180.0,0.0,0.0,0.0
+127,811200,Electronic Equipment Repair And Maintenance,2.35,0.002,0.155,0.008,0.046,0.002,17.3,Electronic equipment repair and maintenance,1980.0,0.0,0.0,0.0
+128,4A0000,Other Retail,2.34,0.0,0.148,0.007,0.014,0.017,30.9,Retail trade,6010.0,0.0,0.0,0.0
+129,541512,Computer Systems Design,2.34,0.0,0.139,0.001,0.011,0.002,0.105,Computer systems design services,2580.0,0.0,0.0,0.0
+130,5419A0,"Marketing Research And All Other Miscellaneous Professional, Scientific, And Technical Services",2.33,0.0,0.121,0.0,0.011,0.008,0.152,All other miscellaneous professional and technical services,5540.0,0.0,0.0,0.0
+131,812300,Dry-Cleaning And Laundry,2.32,0.002,0.157,0.005,0.018,0.003,1.96,Drycleaning and laundry services,1330.0,0.0,0.0,0.0
+132,332200,Cutlery And Handtools,2.31,0.006,0.525,0.172,0.468,0.012,4.36,,,,,
+133,333313,Office Machinery,2.3,0.002,0.556,0.0,0.026,0.002,0.21,,,,,
+134,111200,"Fresh Vegetables, Melons, And Potatoes",2.29,13.0,2.46,10.7,2.87,0.006,4.69,Vegetable and melon farming,3980.0,0.0,0.0,5930.0
+135,611A00,"Colleges, Universities, Junior Colleges, And Professional Schools",2.16,0.004,0.445,0.018,0.05,0.664,0.109,"Colleges, universities, and junior colleges",22200.0,0.0,0.0,0.0
+136,312120,Breweries And Beer,2.15,0.265,3.91,0.162,0.671,8.51,5.1,Breweries,18600.0,0.0,0.0,0.0
+137,326210,Rubber Tires,2.04,0.018,2.75,0.356,0.889,0.165,11.8,Tire manufacturing,12400.0,0.0,0.0,0.0
+138,334413,Semiconductors,2.04,0.115,1.08,0.024,0.142,0.129,1.46,Semiconductor and related device manufacturing,7100.0,0.0,0.0,0.0
+139,561200,Facilities Support,2.0,0.002,0.157,0.0,0.013,0.001,0.1,Facilities support services,723.0,0.0,0.0,0.0
+140,541100,Legal Services,1.82,0.007,0.475,0.013,0.082,0.221,0.907,Legal services,6180.0,0.0,0.0,0.0
+141,326150,Urethane And Other Foam Products,1.82,0.003,0.464,0.015,0.067,0.006,2.04,Urethane and Other Foam Product (except Polystyrene) Manufacturing,1000.0,0.0,0.0,0.0
+142,114000,Wild-Caught Fish And Game,1.73,0.029,0.116,0.369,0.104,0.009,0.098,,,,,
+143,332310,Metal Structural Products,1.72,0.009,0.553,0.373,0.499,0.071,7.65,Plate work and fabricated structural product manufacturing,3200.0,0.0,0.0,0.0
+144,339990,"Gaskets, Seals, Musical Instruments, Fasteners, Brooms, Brushes, Mop And Other Misc. Goods",1.63,0.068,0.69,0.19,0.274,0.732,4.0,,,,,
+145,541400,Specialized Design,1.61,0.016,0.077,0.0,0.006,0.0,167.0,Specialized design services,1220.0,0.0,0.0,0.0
+146,541200,"Accounting, Tax Preparation, Bookkeeping, And Payroll",1.6,0.0,0.077,0.0,0.006,0.0,0.071,Accounting and bookkeeping services,6170.0,0.0,0.0,0.0
+147,532A00,Consumer Goods And General Rental Centers,1.54,0.0,0.074,0.0,0.006,0.0,0.069,General and consumer goods rental except video tapes and discs,2380.0,0.0,0.0,0.0
+148,541610,Management Consulting,1.46,0.0,0.096,0.002,0.01,0.003,0.073,Management consulting services,5630.0,0.0,0.0,0.0
+149,S00203,State And Local Government Enterprises,1.42,0.251,1.36,0.04,0.216,1.69,0.292,Other state and local government enterprises,168000.0,0.0,0.0,0.0
+150,325414,Vaccines And Other Biological Medical Products,1.35,0.165,0.533,0.023,0.062,0.053,0.294,Biological product (except diagnostic) Manufacturing,9080.0,0.0,0.0,0.0
+151,517110,Telecommunications,1.27,0.0,0.204,0.0,0.01,0.009,0.064,,,,,
+152,33411A,Computer Terminals And Other Computer Peripheral Equipment,1.18,0.005,0.361,0.011,0.03,0.119,0.239,Computer terminals and other computer peripheral equipment manufacturing,1280.0,0.0,0.0,0.0
+153,811400,Household Goods Repair,1.15,0.0,0.063,0.022,0.018,0.0,0.312,Household goods repair and maintenance,2590.0,0.0,0.0,0.0
+154,336390,Other Vehicle Parts,1.13,0.095,0.689,0.149,0.345,0.036,8.39,,,,,
+155,54151A,"Other Computer Related Services, Including Facilities Management",1.11,0.0,0.195,0.001,0.015,0.003,0.052,"Other computer related services, including facilities management",1960.0,0.0,0.0,0.0
+156,333111,Farm Machinery And Equipment,1.1,0.024,0.833,0.051,0.284,1.92,6.9,Farm machinery and equipment manufacturing,4100.0,0.0,0.0,0.0
+157,332114,Custom Metal Rolls,1.1,0.002,0.294,0.058,0.084,0.002,4.83,Custom roll forming,3250.0,0.0,0.0,0.0
+158,313200,Fabric,1.07,0.012,0.95,0.059,0.157,0.36,0.741,,,,,
+159,326120,"Plastic Pipe, Fittings, And Sausage Casings",1.06,0.1,0.728,0.112,0.328,0.753,9.55,,,,,
+160,332991,Ball And Roller Bearings,1.01,0.003,0.165,0.016,0.096,0.014,1.58,Ball and roller bearing manufacturing,1980.0,0.0,0.0,0.0
+161,332320,"Metal Windows, Doors, And Architectural Products",0.931,0.008,0.754,0.199,0.264,0.125,8.58,Ornamental and architectural metail products manufacturing,8270.0,0.0,0.0,0.0
+162,327910,Abrasive Products,0.871,0.01,0.894,0.429,0.347,1.98,0.778,Abrasive product manufacturing,3250.0,1350.0,0.0,0.0
+163,481000,Air Transport,0.854,0.002,0.243,0.011,0.142,0.017,24.3,Air transportation,502000.0,0.0,0.0,0.0
+164,523900,"Investment Advice, Portfolio Management, And Other Financial Advising Services",0.854,0.0,0.047,0.0,0.003,0.0,0.038,,,,,
+165,533000,Lessors Of Nonfinancial Intangible Assets,0.838,0.0,0.042,0.0,0.003,0.0,0.038,Lessors of nonfinancial intangible assets,26500.0,0.0,0.0,0.0
+166,327320,Ready-Mix Concrete,0.828,0.002,0.608,1.75,0.794,0.151,0.12,Ready-mix concrete manufacturing,2700.0,0.0,0.0,0.0
+167,311615,Packaged Poultry,0.8,0.347,0.525,0.127,0.13,0.53,0.119,Poultry processing,8320.0,0.0,0.0,0.0
+168,326130,Laminated Plastic Plates And Shapes,0.765,0.01,0.304,0.013,0.128,0.089,2.64,"Laminated plastics plate, sheet, and shapes",2700.0,0.0,0.0,0.0
+169,524200,Insurance Agencies And Brokerages,0.737,0.0,0.04,0.001,0.005,0.0,0.035,"Insurance agencies, brokerages, and related",1950.0,0.0,0.0,0.0
+170,33331A,"Vending, Commercial Laundry, And Other Commercial And Service Industry Machinery",0.729,0.001,0.178,0.0,0.01,0.001,0.084,"Vending, commerical, industrial, and office machinery manufacturing",120.0,0.0,0.0,0.0
+171,326140,Polystyrene Foam Products,0.7,0.006,0.369,0.014,0.094,0.061,6.83,Polystyrene Foam Product Manufacturing,5830.0,0.0,0.0,0.0
+172,327999,Other Nonmetallic Mineral Products,0.689,0.011,0.634,0.187,0.296,0.21,0.291,Miscellaneous nonmetallic mineral products,838.0,0.0,0.0,0.0
+173,311420,Fruit And Vegetable Preservation,0.669,0.011,0.353,0.037,0.115,0.353,0.355,"Fruit and vegetable canning, pickling and drying",16800.0,0.0,0.0,0.0
+174,332720,"Screws, Nuts, And Bolts",0.608,0.004,0.273,0.043,0.09,0.008,4.61,"Turned product and screw, nut, and bolt manufacturing",3370.0,0.0,0.0,0.0
+175,336320,Vehicle Electrical And Electronic Equipment,0.584,0.004,0.259,0.014,0.16,0.029,3.52,,,,,
+176,441000,Vehicles And Parts Sales,0.527,0.0,0.026,0.0,0.003,0.0,0.047,,,,,
+177,5416A0,Environmental And Other Technical Consulting Services,0.524,0.0,0.028,0.0,0.002,0.002,0.026,Environmental and other technical consulting services,1210.0,0.0,0.0,0.0
+178,336500,Railroad Rolling Stock,0.518,0.0,0.755,0.075,0.165,0.014,3.46,Railroad rolling stock manufacturing,1730.0,0.0,0.0,0.0
+179,314900,Other Textiles,0.503,0.057,0.246,0.02,0.048,0.094,4.94,,,,,
+180,722A00,All Other Food And Drinking Places,0.485,0.012,0.208,0.001,0.025,0.397,0.06,,,,,
+181,517210,Wireless Telecommunications,0.482,0.0,0.036,0.0,0.002,0.001,0.024,,,,,
+182,323120,Printing Support,0.454,0.002,0.214,0.003,0.013,0.004,0.58,Support activities for printing,547.0,0.0,0.0,0.0
+183,326290,Other Rubber Products,0.451,0.005,0.252,0.049,0.173,0.203,1.77,Other rubber product manufacturing,2800.0,0.0,0.0,0.0
+184,333618,Other Engine Equipment,0.447,0.002,0.612,0.004,0.05,0.043,0.614,Other engine equipment manufacturing,596.0,0.0,0.0,0.0
+185,322291,"Sanitary Paper (Tissues, Napkins, Diapers, Etc.)",0.437,0.013,0.406,0.02,0.076,0.565,0.153,Sanitary paper product manufacturing,7290.0,0.0,0.0,0.0
+186,335312,Motors And Generators,0.435,0.002,0.333,0.024,0.07,0.028,0.608,Motor and generator manufacturing,1370.0,0.0,0.0,0.0
+187,561100,Office Administration,0.419,0.0,0.032,0.0,0.002,0.0,0.019,Office administrative services,2720.0,0.0,0.0,0.0
+188,561300,Employment Services,0.403,0.0,0.02,0.0,0.002,0.0,0.018,Employment services,8260.0,0.0,0.0,0.0
+189,561500,Travel Arrangement And Reservation,0.394,0.0,0.019,0.0,0.002,0.0,0.018,Travel arrangement and reservation services,9040.0,0.0,0.0,0.0
+190,333120,Construction Machinery,0.383,0.001,0.19,0.007,0.027,0.077,0.514,Construction machinery manufacturing,811.0,0.0,0.0,0.0
+191,325412,"Pharmaceutical Products (Pills, Powders, Solutions, Etc.)",0.379,0.006,0.447,0.032,0.048,0.299,0.683,Pharmaceutical preparation manufacturing,8400.0,0.0,0.0,0.0
+192,335911,Storage Batteries,0.373,0.001,0.256,0.017,0.394,0.006,0.21,Storage battery manufacturing,3000.0,0.0,0.0,0.0
+193,33211B,"Lids, Jars, Bottle Caps, Other Metal Closures And Crowns",0.37,0.004,0.182,0.034,0.056,0.017,2.84,"Crown, closure and metal stamping manufacturing",3390.0,0.0,0.0,0.0
+194,326160,Plastic Bottles,0.36,0.004,0.136,0.024,0.08,0.03,1.83,Plastics bottle manufacturing,1210.0,0.0,0.0,0.0
+195,5191A0,"News Syndicates, Libraries, Archives, Internet Publishing And All Other Information Services",0.358,0.0,0.02,0.0,0.002,0.002,0.017,,,,,
+196,33441A,"Electronic Capacitors, Resistors, Coils, Transformers, Connectors And Other Components (Except Semiconductors And Printed Circuit Assemblies)",0.345,0.084,0.298,0.012,0.042,0.143,1.34,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing",251.0,0.0,0.0,0.0
+197,334210,Telephones,0.343,0.001,0.112,0.0,0.008,0.001,0.216,Telephone apparatus manufacturing,555.0,0.0,0.0,0.0
+198,33329A,"Machinery For The Paper, Textile, Food Or Other Industries (Except Semiconductor Machinery)",0.331,0.008,0.162,0.042,0.11,0.12,0.597,Other industrial machinery manufacturing,1150.0,0.0,0.0,0.0
+199,336310,Vehicle Engines And Engine Parts,0.324,0.02,0.153,0.02,0.058,0.021,1.36,,,,,
+200,335311,Specialty Transformers,0.297,0.0,0.1,0.001,0.007,0.001,0.096,Electric power and specialty transformer manufacturing,247.0,0.0,0.0,0.0
+201,31151A,Fluid Milk And Butter,0.296,0.016,0.184,0.073,0.082,0.016,0.062,Fluid milk and butter manufacturing,2200.0,0.0,0.0,0.0
+202,327330,"Concrete Pipe, Bricks, And Blocks",0.29,0.001,0.206,0.322,0.236,0.173,0.077,"Concrete pipe, brick and block manufacturing",1130.0,0.0,0.0,0.0
+203,335314,Relay And Industrial Controls,0.282,0.004,0.118,0.005,0.019,0.012,0.456,Relay and industrial control manufacturing,918.0,0.0,0.0,0.0
+204,327390,Other Concrete Products,0.277,0.001,0.248,0.396,0.265,0.047,0.151,Other concrete product manufacturing,2530.0,0.0,0.0,0.0
+205,333130,"Mining And Oil, Gas Field Machinery",0.273,0.001,0.114,0.007,0.034,0.015,0.678,Mining and oil and gas field machinery manufacturing,255.0,0.0,0.0,0.0
+206,33291A,Valve And Fittings (Except For Plumbing),0.269,0.012,0.11,0.049,0.094,0.028,3.15,Valve and fittings other than plumbing,2280.0,0.0,0.0,0.0
+207,333920,Material Handling Equipment,0.269,0.001,0.098,0.006,0.035,0.009,1.27,Material handling equipment manufacturing,1870.0,0.0,0.0,0.0
+208,524100,Insurance Carriers,0.263,0.0,0.065,0.0,0.017,0.005,0.019,Insurance carriers,67.1,0.0,0.0,0.0
+209,313100,"Fiber, Yarn, And Thread",0.256,0.0,0.146,0.077,0.027,0.044,0.128,"Fiber, yarn, and thread mills",2310.0,0.0,0.0,0.0
+210,333415,"Air Conditioning, Refrigeration, And Warm Air Heating Equipment",0.255,0.003,0.149,0.011,0.035,0.003,1.68,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",850.0,0.0,0.0,0.0
+211,541940,Veterinarians,0.245,0.0,0.014,0.0,0.002,0.001,0.011,Veterinary services,306.0,0.0,0.0,0.0
+212,311410,Frozen Food,0.236,0.011,0.052,0.011,0.032,0.023,0.215,Frozen food manufacturing,2880.0,0.0,0.0,0.0
+213,33399A,"Welding And Soldering Equipment, Scales And Balances, And Other General Purpose Machinery",0.233,0.002,0.071,0.005,0.037,0.043,0.345,Fluid power process machinery,570.0,0.0,0.0,0.0
+214,336350,Transmission And Power Train Parts,0.231,0.008,0.212,0.006,0.043,0.021,1.2,,,,,
+215,3363A0,"Motor Vehicle Steering, Suspension Components (Except Spring), And Brake Systems",0.231,0.005,0.233,0.046,0.081,0.255,1.17,,,,,
+216,326220,Rubber And Plastic Belts And Hoses,0.222,0.004,0.171,0.042,0.067,0.108,0.78,Rubber and plastics hose and belting manufacturing,1490.0,0.0,0.0,0.0
+217,335120,Light Fixtures,0.218,0.0,0.057,0.003,0.022,0.015,0.186,Lighting fixture manufacturing,597.0,0.0,0.0,0.0
+218,335920,Communication And Energy Wire And Cable,0.214,0.001,0.097,0.018,0.04,0.007,0.392,Communication and energy wire and cable manufacturing,1430.0,0.0,0.0,0.0
+219,337110,Wood Kitchen Cabinets And Countertops,0.201,0.0,0.093,0.052,0.164,0.008,5.8,Wood kitchen cabinet and countertop manufacturing,304.0,0.0,0.0,0.0
+220,812900,"Pet Care, Photofinishing, Parking And Other Sundry Services",0.184,0.0,0.009,0.0,0.0,0.0,0.01,Other personal services,399.0,0.0,0.0,0.0
+221,517A00,"Satellite, Telecommunications Resellers, And All Other Telecommunications",0.177,0.0,0.077,0.0,0.003,0.004,0.01,,,,,
+222,334418,Printed Circuit And Electronic Assembly,0.176,0.005,0.088,0.0,0.01,0.004,0.358,Printed circuit assembly (electronic assembly) manufacturing,996.0,0.0,0.0,0.0
+223,332500,"Metal Hinges, Keys, Lock, And Other Hardware",0.167,0.001,0.071,0.014,0.026,0.001,1.0,Hardware manufacturing,1510.0,0.0,0.0,0.0
+224,325620,Toiletries,0.166,0.0,0.064,0.003,0.008,0.017,0.037,Toilet preparation manufacturing,2420.0,0.0,0.0,0.0
+225,511120,Magazines And Journals,0.161,0.0,0.009,0.0,0.0,0.0,0.011,Periodical publishers,1280.0,0.0,0.0,0.0
+226,611B00,Other Educational Services,0.161,0.0,0.009,0.0,0.0,0.0,0.007,Other educational services,237.0,0.0,0.0,0.0
+227,512100,Movies And Film,0.146,0.0,0.012,0.0,0.002,0.0,0.009,Motion picture and video industries,805.0,0.0,0.0,0.0
+228,311513,Cheese,0.138,0.005,0.092,0.033,0.06,0.077,0.019,Cheese manufacturing,1750.0,0.0,0.0,0.0
+229,519130,Internet Publishing And Broadcasting,0.132,0.0,0.009,0.0,0.002,0.0,0.024,,,,,
+230,33351B,"Cutting And Machine Tool Accessory, Rolling Mill, And Other Metalworking Machines",0.132,0.005,0.059,0.002,0.007,0.024,0.418,Rolling mill and other metalworking machinery manufacturing,25.1,0.0,0.0,0.0
+231,311910,Snack Foods,0.129,0.026,0.073,0.027,0.057,0.042,0.247,Snack food manufacturing,1230.0,0.0,0.0,0.0
+232,337215,Shelving And Lockers,0.124,0.0,0.056,0.006,0.056,0.005,4.82,"Showcases, partitions, shelving, and lockers",327.0,0.0,0.0,0.0
+233,335110,Light Bulbs,0.122,0.02,0.154,0.059,0.056,0.115,0.547,Electric lamp bulb and part manufacturing,406.0,0.0,0.0,0.0
+234,337122,"Home Furniture - Wood, Nonupholstered",0.119,0.0,0.086,0.04,0.057,0.017,1.58,Nonupholstered wood household furniture manufacturing,6.05,0.0,0.0,0.0
+235,311930,Flavored Drink Concentrates,0.117,0.048,0.053,0.011,0.017,0.063,0.303,Flavoring syrup and concentrate manufacturing,473.0,0.0,0.0,0.0
+236,541920,Photographers,0.115,0.0,0.006,0.0,0.0,0.0,0.007,Photographic services,274.0,0.0,0.0,0.0
+237,333612,"Speed Changers, Industrial High-Speed Drives, And Gears",0.113,0.005,0.049,0.001,0.006,0.0,0.234,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",527.0,0.0,0.0,0.0
+238,332996,Fabricated Pipe And Pipe Fittings,0.108,0.011,0.118,0.02,0.039,0.002,0.918,Fabricated pipe and pipe fitting manufacturing,237.0,0.0,0.0,0.0
+239,511200,Software,0.107,0.0,0.006,0.0,0.0,0.0,0.005,Software publishers,341.0,0.0,0.0,0.0
+240,541700,Scientific Research And Development,0.104,0.0,0.016,0.0,0.002,0.002,0.01,Scientific research and development services,52400.0,0.0,0.0,0.0
+241,452000,General Merchandise Stores,0.104,0.0,0.006,0.0,0.0,0.0,0.009,,,,,
+242,311990,All Other Foods,0.096,0.242,0.091,0.024,0.203,0.106,0.192,All other food manufacturing,3670.0,0.0,0.0,0.0
+243,333613,Mechanical Power Transmission Equipment,0.088,0.007,0.033,0.01,0.037,0.0,0.215,Mechanical Power Transmission Equipment Manufacturing,291.0,0.0,0.0,0.0
+244,333611,Turbines And Turbine Generator Sets,0.087,0.0,0.067,0.001,0.006,0.003,0.09,Turbine and turbine generator set units manufacturing,283.0,0.0,0.0,0.0
+245,333991,Power Tools,0.085,0.0,0.01,0.001,0.003,0.0,0.102,Power-driven handtool manufacturing,52.0,0.0,0.0,0.0
+246,33399B,"Hydraulic Pumps, Motors, Cylinders And Actuators",0.083,0.0,0.025,0.002,0.003,0.0,0.279,Process and oven not fluid power machinery,306.0,0.0,0.0,0.0
+247,335930,Wiring Devices,0.082,0.0,0.032,0.002,0.01,0.007,0.784,Wiring device manufacturing,585.0,0.0,0.0,0.0
+248,315000,Clothing,0.077,0.002,0.034,0.002,0.003,0.014,0.078,,,,,
+249,5111A0,"Directory, Mailing List, And Other Publishers",0.075,0.0,0.005,0.0,0.0,0.0,0.047,"Directory, mailing list, and other publishers",576.0,0.0,0.0,0.0
+250,515100,Radio And Television,0.074,0.0,0.009,0.0,0.0,0.0,0.003,Radio and television broadcasting,10900.0,0.0,0.0,0.0
+251,512200,Sound Recording,0.071,0.0,0.005,0.0,0.0,0.0,0.015,Sound recording industries,68.7,0.0,0.0,0.0
+252,336370,Vehicle Metal Stamping,0.071,0.0,0.032,0.002,0.005,0.0,0.497,,,,,
+253,336611,Ships And Ship Repair,0.069,0.002,0.16,0.044,0.142,0.182,2.15,Ship building and repairing,350.0,0.0,0.0,0.0
+254,335313,Switchgear And Switchboards,0.069,0.0,0.039,0.001,0.005,0.0,0.102,Switchgear and switchboard apparatus manufacturing,322.0,0.0,0.0,0.0
+255,336413,Other Aircraft Parts,0.069,0.0,0.031,0.001,0.004,0.0,0.058,Other aircraft parts and equipment,425.0,0.0,0.0,0.0
+256,312130,Wineries And Wine,0.067,0.001,0.03,0.008,0.011,0.011,1.66,Wineries,114.0,0.0,0.0,0.0
+257,332420,Heavy Gauge Metal Tanks,0.061,0.0,0.022,0.008,0.02,0.0,0.548,"Metal tank, heavy gauge, manufacturing",393.0,0.0,0.0,0.0
+258,445000,Food And Beverage Stores,0.06,0.0,0.003,0.0,0.0,0.0,0.003,,,,,
+259,334610,"External Hard Drives, Cds, Other Storage Media",0.059,0.0,0.017,0.0,0.001,0.0,0.075,,,,,
+260,333112,Lawn And Garden Equipment,0.057,0.0,0.014,0.002,0.003,0.002,0.071,Lawn and garden equipment manufacturing,113.0,0.0,0.0,0.0
+261,333511,Industrial Molds,0.056,0.002,0.015,0.004,0.016,0.003,0.151,Industrial mold manufacturing,164.0,0.0,0.0,0.0
+262,339940,Office Supplies (Not Paper),0.049,0.006,0.014,0.0,0.002,0.0,0.067,Office supplies (except paper) manufacturing,299.0,0.0,0.0,0.0
+263,311810,Bread And Other Baked Goods,0.042,0.003,0.026,0.003,0.004,0.01,0.325,Bread and bakery product manufacturing,568.0,0.0,0.0,0.0
+264,333414,Heating Equipment Other Than Warm Air Furnaces,0.041,0.0,0.023,0.001,0.004,0.002,0.1,Heating equipment (except warm air furnaces) manufacturing,193.0,0.0,0.0,0.0
+265,33391A,Pumps And Pumping Equipment,0.04,0.002,0.018,0.004,0.012,0.0,0.185,,,,,
+266,334220,Wireless Communications,0.039,0.0,0.016,0.0,0.004,0.0,0.106,Broadcast and wireless communications equipment,64.3,0.0,0.0,0.0
+267,311920,Coffee And Tea,0.039,0.005,0.034,0.016,0.012,0.002,0.015,Coffee and tea manufacturing,223.0,0.0,0.0,0.0
+268,322230,Stationery,0.037,0.0,0.022,0.0,0.002,0.002,0.159,Stationery product manufacturing,761.0,0.0,0.0,0.0
+269,33341A,Air Purification And Ventilation Equipment,0.037,0.0,0.014,0.003,0.014,0.0,0.165,Air purification and ventilation equipment manufacturing,782.0,0.0,0.0,0.0
+270,316000,Leather,0.036,0.01,0.031,0.011,0.019,0.009,0.263,,,,,
+271,339113,Surgical Appliance And Supplies,0.035,0.0,0.013,0.001,0.003,0.005,0.051,Surgical appliance and supplies manufacturing,174.0,0.0,0.0,0.0
+272,334513,Industrial Process Variable Instruments,0.034,0.0,0.016,0.0,0.002,0.0,0.068,Industrial process variable instruments,246.0,0.0,0.0,0.0
+273,327991,Cut Stone And Stone Products,0.034,0.0,0.076,0.194,0.045,0.109,0.033,Cut stone and stone product manufacturing,212.0,0.0,0.0,0.0
+274,515200,Cable And Subscription Programming,0.033,0.0,0.023,0.0,0.0,0.0,0.002,Cable and other subscription programming,3480.0,0.0,0.0,0.0
+275,333514,"Special Tools, Dies, Jigs, And Fixtures",0.031,0.002,0.011,0.0,0.004,0.002,0.088,"Special tool, die, jig, and fixture manufacturing",144.0,0.0,0.0,0.0
+276,332410,Power Boilers And Heat Exchangers,0.027,0.0,0.033,0.005,0.02,0.0,0.453,Power boiler and heat exchanger manufacturing,621.0,0.0,0.0,0.0
+277,312110,"Soft Drinks, Bottled Water, And Ice",0.026,0.0,0.01,0.001,0.001,0.0,0.004,Soft drink and ice manufacturing,333.0,0.0,0.0,0.0
+278,336412,Aircraft Engines And Parts,0.025,0.0,0.028,0.0,0.001,0.002,0.013,Aircraft engine and engine parts manufacturing,193.0,0.0,0.0,0.0
+279,334517,Irradiation Apparatuses,0.024,0.001,0.018,0.003,0.005,0.034,0.011,Irradiation apparatus manufacturing,3.71,0.0,0.0,0.0
+280,33351A,Metal Cutting And Forming Machine Tools,0.023,0.006,0.013,0.0,0.002,0.0,0.065,Metal cutting and forming machine tool manufacturing,124.0,0.0,0.0,0.0
+281,541511,Custom Computer Programming,0.022,0.0,0.001,0.0,0.0,0.0,0.001,Custom computer programming services,259.0,0.0,0.0,0.0
+282,334290,Communications Equipment,0.021,0.0,0.009,0.001,0.002,0.001,0.047,Other communications equipment manufacturing,290.0,0.0,0.0,0.0
+283,332913,"Metal Plumbing Drains, Faucets, Valves, And Other Fittings",0.02,0.0,0.011,0.002,0.003,0.0,0.228,Plumbing Fixture Fitting and Trim Manufacturing,235.0,0.0,0.0,0.0
+284,336999,Other Transportation Equipment,0.019,0.0,0.004,0.001,0.001,0.0,0.029,All other transportation equipment manufacturing,39.7,0.0,0.0,0.0
+285,511110,Newspapers,0.018,0.0,0.001,0.0,0.001,0.0,0.006,Newspaper publishers,2010.0,0.0,0.0,0.0
+286,311520,Ice Cream And Frozen Desserts,0.018,0.004,0.008,0.002,0.002,0.0,0.001,Ice cream and frozen dessert manufacturing,92.6,0.0,0.0,0.0
+287,333912,Air And Gas Compressors,0.017,0.0,0.009,0.0,0.002,0.001,0.056,Air and gas compressor manufacturing,85.2,0.0,0.0,0.0
+288,314120,Curtains And Linens,0.017,0.0,0.008,0.0,0.001,0.002,0.022,Curtain and linen mills,122.0,0.0,0.0,0.0
+289,S00102,Federal Government Enterprises,0.017,0.0,0.011,0.002,0.003,0.008,0.004,Other Federal government enterprises,1270.0,0.0,0.0,0.0
+290,314110,Carpets And Rugs,0.017,0.0,0.015,0.001,0.003,0.015,0.008,Carpet and rug mills,284.0,0.0,0.0,0.0
+291,334112,Computer Storage Device Readers,0.016,0.0,0.014,0.0,0.001,0.001,0.021,Computer storage device manufacturing,75.7,0.0,0.0,0.0
+292,325413,"Blood Sugar, Pregnancy, And Other Diagnostic Test Kits",0.015,0.0,0.005,0.0,0.0,0.0,0.003,In-vitro diagnostic substance manufacturing,76.3,0.0,0.0,0.0
+293,335221,Home Cooking Appliances,0.014,0.0,0.007,0.0,0.004,0.0,0.062,Household cooking appliance manufacturing,70.9,0.0,0.0,0.0
+294,337121,Home Furniture - Upholstered,0.014,0.0,0.007,0.003,0.006,0.001,1.1,Upholstered household furniture manufacturing,4.2,0.0,0.0,0.0
+295,3118A0,"Cookies, Crackers, Pastas, And Tortillas",0.013,0.004,0.008,0.004,0.003,0.012,0.05,,,,,
+296,336214,Travel Trailer And Campers,0.013,0.0,0.006,0.001,0.004,0.0,0.176,Travel trailer and camper manufacturing,58.8,0.0,0.0,0.0
+297,334512,Automatic Controls For Hvac And Refrigeration Equipment,0.012,0.0,0.005,0.0,0.005,0.0,0.016,Automatic environmental control manufacturing,78.8,0.0,0.0,0.0
+298,525000,"Funds, Trusts, And Financial Vehicles",0.012,0.0,0.003,0.0,0.0,0.0,0.0,"Funds, trusts, and other financial vehicles",9.45,0.0,0.0,0.0
+299,339950,Signs,0.011,0.001,0.003,0.0,0.0,0.0,0.018,Sign manufacturing,757.0,0.0,0.0,0.0
+300,333220,Plastics And Rubber Industry Machinery,0.011,0.0,0.003,0.0,0.0,0.0,0.029,Plastics and rubber industry machinery,124.0,0.0,0.0,0.0
+301,334514,Fluid Meters And Counting Devices,0.01,0.015,0.007,0.003,0.009,0.0,0.038,Totalizing fluid meters and counting devices,91.4,0.0,0.0,0.0
+302,335999,Other Miscellaneous Electrical Equipment And Components,0.01,0.01,0.005,0.0,0.0,0.002,0.03,Miscellaneous electrical equipment manufacturing,147.0,0.0,0.0,0.0
+303,335228,"Major Home Appliances (Except Ovens, Stoves, Refrigerators And Laundry Machines)",0.01,0.0,0.003,0.0,0.0,0.0,0.056,Other major household appliance manufacturing,26.8,0.0,0.0,0.0
+304,334300,Audio And Video Equipment,0.009,0.0,0.003,0.0,0.0,0.0,0.045,Audio and video equipment manufacturing,99.0,0.0,0.0,0.0
+305,33299A,"Ammunition, Arms, Ordnance, And Related Accessories",0.009,0.0,0.007,0.001,0.004,0.009,0.037,Ammunition manufacturing,29.9,0.0,0.0,0.0
+306,621900,Ambulances,0.009,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+307,333315,Photography And Photocopying Equipment,0.009,0.0,0.011,0.0,0.001,0.006,0.019,Photographic and photocopying equipment manufacturing,20.2,0.0,0.0,0.0
+308,334111,Computers,0.007,0.0,0.006,0.0,0.0,0.002,0.015,Electronic computer manufacturing,153.0,0.0,0.0,0.0
+309,336360,Vehicle Seating And Interior Trim (Upholstery),0.007,0.0,0.003,0.0,0.001,0.0,0.112,,,,,
+310,333295,Semiconductor Machinery,0.007,0.0,0.002,0.0,0.0,0.0,0.027,Semiconductor machinery manufacturing,42.4,0.0,0.0,0.0
+311,33712A,"Home Furniture - Cabinets And Non-Wood, Nonupholstered",0.007,0.0,0.004,0.001,0.006,0.0,0.52,Metal and other household nonupholsetered furniture,1970.0,0.0,0.0,0.0
+312,333994,Industrial Process Furnaces And Ovens,0.006,0.0,0.002,0.0,0.0,0.0,0.018,Industrial process furnace and oven manufacturing,46.9,0.0,0.0,0.0
+313,336211,Vehicle Bodies,0.005,0.0,0.005,0.0,0.002,0.0,0.048,Motor vehicle body manufacturing,51.1,0.0,0.0,0.0
+314,334516,Analytical Laboratory Instruments,0.005,0.0,0.002,0.0,0.0,0.0,0.005,Analytical laboratory instrument manufacturing,55.4,0.0,0.0,0.0
+315,333993,Packaging Machinery,0.005,0.0,0.002,0.0,0.0,0.0,0.019,Packaging machinery manufacturing,17.2,0.0,0.0,0.0
+316,339910,Jewelry And Silverware,0.004,0.002,0.001,0.0,0.0,0.0,0.006,Jewelry and silverware manufacturing,23.4,0.0,0.0,0.0
+317,33451A,"Watches, Clocks, And Other Measuring And Controlling Devices",0.004,0.0,0.002,0.0,0.0,0.0,0.011,"Watch, clock, and other measuring and controlling device manufacturing",31.9,0.0,0.0,0.0
+318,33641A,Propulsion Units And Parts For Space Vehicles And Guided Missiles,0.004,0.0,0.004,0.0,0.0,0.005,0.003,Other guided missile and space vehicle parts and auxiliary equipment manufacturing,75.6,0.0,0.0,0.0
+319,336991,"Motorcycle, Bicycle, And Parts",0.004,0.0,0.002,0.0,0.0,0.0,0.014,"Motorcycle, bicycle, and parts manufacturing",59.2,0.0,0.0,0.0
+320,336411,Aircraft,0.003,0.0,0.004,0.0,0.001,0.0,0.016,Aircraft manufacturing,36.1,0.0,0.0,0.0
+321,335210,Small Electrical Appliances,0.003,0.0,0.001,0.0,0.0,0.0,0.039,Small electrical appliance manufacturing,46.6,0.0,0.0,0.0
+322,337127,Institutional Furniture,0.003,0.0,0.001,0.0,0.003,0.0,0.078,Institutional furniture manufacturing,55.4,0.0,0.0,0.0
+323,336120,Heavy Duty Trucks,0.003,0.0,0.002,0.0,0.0,0.0,0.036,Heavy duty truck manufacturing,250.0,0.0,0.0,0.0
+324,334515,Signal Testing Instruments,0.003,0.0,0.0,0.0,0.0,0.0,0.006,Electricity and signal testing instruments,21.9,0.0,0.0,0.0
+325,813A00,"Grantmaking, Giving, And Social Advocacy Organizations",0.002,0.0,0.0,0.0,0.0,0.0,0.0,"Grantmaking, giving and social advocacy organizations",7.79,0.0,0.0,0.0
+326,339112,Surgical And Medical Instruments,0.002,0.0,0.001,0.0,0.0,0.0,0.008,Surgical and medical instrument manufacturing,26.2,0.0,0.0,0.0
+327,511130,Books,0.002,0.0,0.0,0.0,0.0,0.0,0.0,Book publishers,79.3,0.0,0.0,0.0
+328,312200,Tobacco Products,0.002,0.0,0.002,0.0,0.0,0.002,0.003,,,,,
+329,333314,Optical Instruments And Lenses,0.002,0.0,0.0,0.0,0.0,0.0,0.011,Optical instrument and lens manufacturing,6.91,0.0,0.0,0.0
+330,335224,Home Laundry Machines,0.002,0.0,0.001,0.0,0.0,0.0,0.011,Household laundry equipment manufacturing,5.67,0.0,0.0,0.0
+331,339920,Sporting And Athletic Goods,0.002,0.0,0.0,0.0,0.0,0.0,0.008,Sporting and athletic goods manufacturing,33.0,0.0,0.0,0.0
+332,335222,Home Refrigerators And Freezers,0.002,0.0,0.001,0.0,0.0,0.0,0.022,Household refrigerator and home freezer manufacturing,11.7,0.0,0.0,0.0
+333,624400,Child Day Care,0.002,0.0,0.0,0.0,0.0,0.0,0.0,Child day care services,4.64,0.0,0.0,0.0
+334,621400,Outpatient Healthcare,0.001,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+335,336612,Boats,0.001,0.0,0.0,0.0,0.001,0.0,0.067,Boat building,16.6,0.0,0.0,0.0
+336,334511,Navigation Instruments,0.001,0.0,0.0,0.0,0.0,0.0,0.002,"Search, detection, and navigation instruments",93.8,0.0,0.0,0.0
+337,624100,Individual And Family Services,0.001,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+338,335912,Primary Batteries,0.001,0.0,0.0,0.0,0.0,0.001,0.005,Primary battery manufacturing,19.6,0.0,0.0,0.0
+339,337900,"Mattresses, Blinds And Shades",0.001,0.0,0.0,0.0,0.0,0.0,0.065,,,,,
+340,336414,Guided Missiles And Space Vehicles,0.001,0.0,0.0,0.0,0.0,0.0,0.001,Guided missile and space vehicle manufacturing,14.2,0.0,0.0,0.0
+341,339930,"Dolls, Toys, And Games",0.001,0.0,0.0,0.0,0.0,0.0,0.008,"Doll, toy, and game manufacturing",15.0,0.0,0.0,0.0
+342,623A00,Nursing And Community Care Facilities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+343,336992,Military Armored Vehicles And Tanks,0.0,0.0,0.0,0.0,0.0,0.0,0.001,Military armored vehicles and tank parts manufacturing,0.7,0.0,0.0,0.0
+344,621500,Medical Laboratories,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+345,311230,Breakfast Cereals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Breakfast cereal manufacturing,200.0,0.0,0.0,0.0
+346,33721A,Office Furniture And Custom Architectural Woodwork And Millwork,0.0,0.0,0.0,0.0,0.0,0.0,0.012,Office furniture manufacturing,7.15,0.0,0.0,0.0
+347,621300,Healthcare Practitioners (Except Physicians And Dentists),0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+348,334510,Electromedical Appartuses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Electromedical apparatus manufacturing,1.32,0.0,0.0,0.0
+349,336212,Truck Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.008,Truck trailer manufacturing,21.5,0.0,0.0,0.0
+350,623B00,"Residential Mental Retardation, Mental Health, Substance Abuse And Other Facilities",0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+351,339115,Ophthalmic Goods,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ophthalmic goods manufacturing,3.8,0.0,0.0,0.0
+352,336112,"Pickup Trucks, Vans, And Suvs",0.0,0.0,0.0,0.0,0.0,0.0,0.003,Light Truck and Utility Vehicle Manufacturing,19.0,0.0,0.0,0.0
+353,2334A0,Other Residential Structures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+354,230302,Residential Building Repair And Maintanence,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Residential maintenance and repair,8420.0,0.0,0.0,0.0
+355,624A00,"Community Food, Housing, And Other Relief Services, Including Rehabilitation Services",0.0,0.0,0.0,0.0,0.0,0.0,0.0,Individual and family services,4.69,0.0,0.0,0.0
+356,621100,Physicians,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+357,336111,Automobiles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Automobile Manufacturing,20.2,0.0,0.0,0.0
+358,621200,Dentists,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+359,339114,Dental Equipment And Supplies,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Dental equipment and supplies manufacturing,0.296,0.0,0.0,0.0
+360,812100,Salons And Barber Shops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Personal care services,0.039,0.0,0.0,0.0
+361,339116,Dental Laboratories,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Dental laboratories,0.113,0.0,0.0,0.0
+362,2332A0,"Commercial Structures, Including Farm Structures",0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+363,611100,Elementary And Secondary Schools,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Elementary and secondary schools,0.0,0.0,0.0,0.0
+364,S00500,Federal Government (Defense),0.0,0.0,0.0,0.0,0.0,0.0,0.0,General Federal Defense,0.0,0.0,0.0,0.0
+365,S00600,Federal Government (Nondefense),0.0,0.0,0.0,0.0,0.0,0.0,0.0,General Federal non-defense government industry,0.0,0.0,0.0,0.0
+366,812200,Funerary Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Death care services,0.0,0.0,0.0,0.0
+367,713200,Gambling Establishments (Except Casino Hotels),0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+368,233210,Health Care Buildings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+369,233293,"Highways, Streets, And Bridges",0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+370,621600,Home Healthcare,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Home health care services,0.0,0.0,0.0,0.0
+371,622000,Hospitals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hospitals,1.14,0.0,0.0,0.0
+372,814000,Household Employees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Private households,0.0,0.0,0.0,0.0
+373,5310Hs,Housing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+374,233230,Manufacturing Buildings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+375,336213,Motor Homes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Motor home manufacturing,3.08,0.0,0.0,0.0
+376,233412,Multifamily Homes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+377,712000,"Museums, Historical Sites, Zoos, And Parks",0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Museums, historical sites, zoos, and parks",0.0,0.0,0.0,0.0
+378,S00300,Noncomparable Imports,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Noncomparable Imports,0.0,0.0,0.0,0.0
+379,2332B0,Other Nonresidential Structures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+380,813100,Religious Organizations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Religious organizations,0.0,0.0,0.0,0.0
+381,S00900,Rest Of The World Adjustment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ROW Adjustment,0.0,0.0,0.0,0.0
+382,233262,Schools And Vocational Buildings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+383,233411,Single-Family Homes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+384,S00700,State And Local Government,0.0,0.0,0.0,0.0,0.0,0.0,0.0,General state and local government services,55000.0,0.0,0.0,0.0
+385,S00402,Used And Secondhand Goods,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Used and Secondhand Goods,0.0,0.0,0.0,0.0
+386,233240,Utilities Buildings And Infrastructure,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+387,213111,Well Drilling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Drilling oil and gas wells,61.8,0.0,0.0,0.0
+388,1119B0,,,,,,,,,All other crop farming,307000.0,0.0,0.0,1130000.0
+389,311313,,,,,,,,,Beet sugar manufacturing,523000.0,0.0,0.0,0.0
+390,111920,,,,,,,,,Cotton farming,116000.0,0.0,0.0,347000.0
+391,325188,,,,,,,,,All other basic inorganic chemical manufacturing,257000.0,168000.0,0.0,0.0
+392,114100,,,,,,,,,Fishing,357000.0,0.0,0.0,0.0
+393,1119A0,,,,,,,,,Sugarcane and sugar beet farming,67200.0,0.0,0.0,282000.0
+394,32222B,,,,,,,,,All other paper bag and coated and treated paper manufacturing,137000.0,0.0,0.0,0.0
+395,212390,,,,,,,,,Other nonmetallic mineral mining,126000.0,0.0,0.0,0.0
+396,S00201,,,,,,,,,State and local government passenger transit,109000.0,0.0,0.0,0.0
+397,325181,,,,,,,,,Alkalies and chlorine manufacturing,107000.0,0.0,0.0,0.0
+398,3274A0,,,,,,,,,Lime and gypsum product manufacturing,38600.0,65300.0,0.0,0.0
+399,531000,,,,,,,,,Real estate,76000.0,0.0,0.0,0.0
+400,331314,,,,,,,,,Secondary smelting and alloying of aluminum,66900.0,0.0,0.0,0.0
+401,31131A,,,,,,,,,Sugar cane mills and refining,60100.0,0.0,0.0,0.0
+402,517000,,,,,,,,,Telecommunications,43400.0,0.0,0.0,0.0
+403,212210,,,,,,,,,Iron ore mining,43000.0,0.0,0.0,0.0
+404,324199,,,,,,,,,All other petroleum and coal products manufacturing,41100.0,0.0,0.0,0.0
+405,722000,,,,,,,,,Food services and drinking places,32300.0,0.0,0.0,0.0
+406,325182,,,,,,,,,Carbon black manufacturing,30800.0,0.0,0.0,0.0
+407,32222A,,,,,,,,,"Coated and laminated paper, packaging materials, and plastic films manufacturing",29100.0,0.0,0.0,0.0
+408,327213,,,,,,,,,Glass container manufacturing,27800.0,0.0,0.0,0.0
+409,7211A0,,,,,,,,,"Hotels and motels, including casino hotels",25500.0,0.0,0.0,0.0
+410,113300,,,,,,,,,Logging,18400.0,0.0,0.0,619.0
+411,32619A,,,,,,,,,Other plastics product manufacturing,18200.0,0.0,0.0,0.0
+412,325212,,,,,,,,,Synthetic rubber manufacturing,15400.0,0.0,0.0,0.0
+413,212320,,,,,,,,,"Sand, gravel, clay, and refractory mining",14100.0,0.0,0.0,0.0
+414,1113A0,,,,,,,,,Fruit farming,5400.0,0.0,0.0,8500.0
+415,325220,,,,,,,,,Artificial and synthetic fibers and filaments manufacturing,12200.0,0.0,0.0,0.0
+416,33299C,,,,,,,,,Other fabricated metal manufacturing,12000.0,0.0,0.0,0.0
+417,336300,,,,,,,,,Motor vehicle parts manufacturing,11600.0,0.0,0.0,0.0
+418,111910,,,,,,,,,Tobacco farming,3850.0,0.0,0.0,7000.0
+419,324191,,,,,,,,,Petroleum lubricating oil and grease manufacturing,9670.0,0.0,0.0,0.0
+420,327212,,,,,,,,,Other pressed and blown glass and glassware manufacturing,9450.0,0.0,0.0,0.0
+421,8111A0,,,,,,,,,"Automotive repair and maintenance, except car washes",8790.0,0.0,0.0,0.0
+422,327211,,,,,,,,,Flat glass manufacturing,7720.0,0.0,0.0,0.0
+423,313310,,,,,,,,,Textile and fabric finishing mills,7000.0,0.0,0.0,0.0
+424,313230,,,,,,,,,Nonwoven fabric mills,6880.0,0.0,0.0,0.0
+425,32712A,,,,,,,,,"Brick, tile, and other structural clay product manufacturing",6480.0,0.0,0.0,0.0
+426,213112,,,,,,,,,Support activities for oil and gas operations,6110.0,0.0,0.0,0.0
+427,113A00,,,,,,,,,"Forest nurseries, forest products, and timber tracts",5090.0,0.0,0.0,567.0
+428,32712B,,,,,,,,,Clay and non-clay refractory manufacturing,4970.0,0.0,0.0,0.0
+429,523000,,,,,,,,,"Securities, commodity contracts, investments",4280.0,0.0,0.0,0.0
+430,314990,,,,,,,,,All other miscellaneous textile product mills,3630.0,0.0,0.0,0.0
+431,326121,,,,,,,,,Unlaminated plastics profile shape manufacturing,3480.0,0.0,0.0,0.0
+432,321920,,,,,,,,,Wood container and pallet manufacturing,3400.0,0.0,0.0,0.0
+433,313320,,,,,,,,,Fabric coating mills,3360.0,0.0,0.0,0.0
+434,32711A,,,,,,,,,"Pottery, ceramics, and plumbing fixture manufacturing",2930.0,0.0,0.0,0.0
+435,33221B,,,,,,,,,Handtool manufacturing,2820.0,0.0,0.0,0.0
+436,321999,,,,,,,,,Miscellaneous wood product manufacturing,2700.0,0.0,0.0,0.0
+437,111335,,,,,,,,,Tree nut farming,1120.0,0.0,0.0,1560.0
+438,811192,,,,,,,,,Car washes,2350.0,0.0,0.0,0.0
+439,313210,,,,,,,,,Broadwoven fabric mills,2340.0,0.0,0.0,0.0
+440,321219,,,,,,,,,Reconstituted wood product manufacturing,2270.0,0.0,0.0,0.0
+441,713B00,,,,,,,,,"Other amusement, gambling, and recreation industries",1970.0,0.0,0.0,0.0
+442,327215,,,,,,,,,Glass Product Manufacturing Made of Purchased Glass,1970.0,0.0,0.0,0.0
+443,311340,,,,,,,,,Nonchocolate confectionery manufacturing,1910.0,0.0,0.0,0.0
+444,313240,,,,,,,,,Knit fabric mills,1590.0,0.0,0.0,0.0
+445,713940,,,,,,,,,Fitness and recreational sports centers,1530.0,0.0,0.0,0.0
+446,32121A,,,,,,,,,Veneer and plywood manufacturing,1450.0,0.0,0.0,0.0
+447,339991,,,,,,,,,"Gasket, packing, and sealing device manufacturing",1070.0,0.0,0.0,0.0
+448,334412,,,,,,,,,Bare printed circuit board manufacturing,893.0,0.0,0.0,0.0
+449,314910,,,,,,,,,Textile bag and canvas mills,850.0,0.0,0.0,0.0
+450,316900,,,,,,,,,Other leather and allied product manufacturing,799.0,0.0,0.0,0.0
+451,333515,,,,,,,,,Cutting tool and machine tool accessory manufacturing,764.0,0.0,0.0,0.0
+452,334419,,,,,,,,,Other electronic component manufacturing,753.0,0.0,0.0,0.0
+453,230202,,,,,,,,,Other residential structures,685.0,0.0,0.0,0.0
+454,33999A,,,,,,,,,All other miscellaneous manufacturing,664.0,0.0,0.0,0.0
+455,311820,,,,,,,,,"Cookie, cracker and pasta manufacturing",602.0,0.0,0.0,0.0
+456,326122,,,,,,,,,Plastics Pipe and Pipe Fitting Manufacturing,590.0,0.0,0.0,0.0
+457,313220,,,,,,,,,Narrow fabric mills and schiffli embroidery,572.0,0.0,0.0,0.0
+458,315210,,,,,,,,,Cut and sew apparel contractors,429.0,0.0,0.0,0.0
+459,516110,,,,,,,,,Internet publishing and broadcasting,337.0,0.0,0.0,0.0
+460,518100,,,,,,,,,Internet service providers and web search portals,307.0,0.0,0.0,0.0
+461,33221A,,,,,,,,,"Cutlery, utensils, pots, and pans manufacturing",295.0,0.0,0.0,0.0
+462,33461A,,,,,,,,,"Software, audio and video reproduction",258.0,0.0,0.0,0.0
+463,334613,,,,,,,,,Magnetic and optical recording media manufacturing,250.0,0.0,0.0,0.0
+464,316100,,,,,,,,,Leather and hide tanning and finishing,247.0,0.0,0.0,0.0
+465,32121B,,,,,,,,,Engineered wood member and truss manufacturing,245.0,0.0,0.0,0.0
+466,333911,,,,,,,,,Pump and pumping equipment manufacturing,218.0,0.0,0.0,0.0
+467,721A00,,,,,,,,,Other accommodations,209.0,0.0,0.0,0.0
+468,334411,,,,,,,,,Electron tube manufacturing,184.0,0.0,0.0,0.0
+469,519100,,,,,,,,,Other information services,177.0,0.0,0.0,0.0
+470,334417,,,,,,,,,Electronic connector manufacturing,145.0,0.0,0.0,0.0
+471,333319,,,,,,,,,Other commercial and service industry machinery manufacturing,144.0,0.0,0.0,0.0
+472,339994,,,,,,,,,"Broom, brush, and mop manufacturing",135.0,0.0,0.0,0.0
+473,315900,,,,,,,,,Accessories and other apparel manufacturing,126.0,0.0,0.0,0.0
+474,315230,,,,,,,,,Women's and girls' cut and sew apparel manufacturing,108.0,0.0,0.0,0.0
+475,337920,,,,,,,,,Blind and shade manufacturing,105.0,0.0,0.0,0.0
+476,311320,,,,,,,,,Confectionery manufacturing from cacao beans,79.2,0.0,0.0,0.0
+477,321992,,,,,,,,,Prefabricated wood building manufacturing,45.2,0.0,0.0,0.0
+478,315100,,,,,,,,,Hosiery and sock mills,41.8,0.0,0.0,0.0
+479,315220,,,,,,,,,Men's and boys' cut and sew apparel manufacturing,38.8,0.0,0.0,0.0
+480,311330,,,,,,,,,Confectionery manufacturing from purchased chocolate,38.5,0.0,0.0,0.0
+481,337212,,,,,,,,,Custom architectural woodwork and millwork,30.6,0.0,0.0,0.0
+482,713A00,,,,,,,,,Amusement parks and arcades,22.1,0.0,0.0,0.0
+483,339992,,,,,,,,,Musical instrument manufacturing,21.5,0.0,0.0,0.0
+484,311830,,,,,,,,,Tortilla manufacturing,14.8,0.0,0.0,0.0
+485,339111,,,,,,,,,Laboratory apparatus and furniture manufacturing,8.84,0.0,0.0,0.0
+486,621B00,,,,,,,,,Healthcare and social assistance,8.45,0.0,0.0,0.0
+487,337910,,,,,,,,,Mattress manufacturing,7.89,0.0,0.0,0.0
+488,315290,,,,,,,,,Other cut and sew apparel manufacturing,5.08,0.0,0.0,0.0
+489,321991,,,,,,,,,"Manufactured home, mobile home, manufacturing",4.15,0.0,0.0,0.0
+490,623000,,,,,,,,,Nursing and residential care facilities,4.0,0.0,0.0,0.0
+491,713950,,,,,,,,,Bowling centers,3.84,0.0,0.0,0.0
+492,532230,,,,,,,,,Video tape and disc rental,1.82,0.0,0.0,0.0
+493,3122A0,,,,,,,,,Tobacco product manufacturing,1.16,0.0,0.0,0.0
+494,621A00,,,,,,,,,"Offices of physicians, dentists, and other health practitioners",0.982,0.0,0.0,0.0
+495,316200,,,,,,,,,Footwear manufacturing,0.499,0.0,0.0,0.0
+496,624200,,,,,,,,,"Community food, housing, and other relief services, incl rehabilitation services",0.132,0.0,0.0,0.0
+497,114200,,,,,,,,,Hunting and trapping,0.0,0.0,0.0,0.0
+498,230101,,,,,,,,,Nonresidential commercial and health care structures,0.0,0.0,0.0,0.0
+499,230102,,,,,,,,,Nonresidential manufacturing structures,0.0,0.0,0.0,0.0
+500,230103,,,,,,,,,Other nonresidential structures,0.0,0.0,0.0,0.0
+501,S00800,,,,,,,,,Owner-Occupied Dwellings,0.0,0.0,0.0,0.0
+502,230201,,,,,,,,,Residential permanent site single- and multi-family structures,0.0,0.0,0.0,0.0
+503,S00401,,,,,,,,,Scrap,0.0,0.0,0.0,0.0
