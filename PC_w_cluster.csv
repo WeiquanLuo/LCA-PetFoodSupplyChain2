@@ -1,41 +1,41 @@
 ID2,Sector,ID,Subsector,P1,P2,cluster
-11,"Agriculture, Forestry, Fishing and Hunting",1111B0,Grain farming OR Grain farming,-28.017466,-23.589561,2
-22,Utilities,221100,Power generation and supply OR Power generation and supply,-23.10914,-27.225513,0
-11,"Agriculture, Forestry, Fishing and Hunting",1121A0,Cattle ranching and farming OR Cattle ranching and farming,-27.044098,-21.163769,2
-11,"Agriculture, Forestry, Fishing and Hunting",1111A0,Oilseed farming OR Oilseed farming,-27.418686,-22.116018,2
-31,Manufacturing,311111,Dog and cat food manufacturing OR Dog and cat food manufacturing,-21.854084,-28.710484,0
-32,Manufacturing,325310,Fertilizer Manufacturing OR Fertilizer Manufacturing,-20.39123,-28.227505,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",211000,Oil and gas extraction OR Oil and gas extraction,-20.401957,-28.073006,0
-48,Transportation and Warehousing,484000,Truck transportation OR Truck transportation,-27.92016,-23.208315,2
-11,"Agriculture, Forestry, Fishing and Hunting",112A00,"Animal production, except cattle and poultry and eggs OR Animal production, except cattle and poultry and eggs",-25.211514,-19.939133,2
-31,Manufacturing,311221,Wet corn milling OR Wet corn milling,-22.396418,-27.274832,0
-33,Manufacturing,331110,Iron and steel mills OR Iron and steel mills,-21.464579,-26.302519,0
-32,Manufacturing,324110,Petroleum refineries OR Petroleum refineries,-27.30917,-22.130613,2
-48,Transportation and Warehousing,482000,Rail transportation OR Rail transportation,-27.508087,-22.25849,2
-11,"Agriculture, Forestry, Fishing and Hunting",1119B0,All other crop farming OR All other crop farming,-25.211435,-19.031088,2
-32,Manufacturing,325190,Other basic organic chemical manufacturing OR Other basic organic chemical manufacturing,-15.626045,-29.281557,0
+11,"Agriculture, Forestry, Fishing and Hunting",1111B0,Grain farming OR Grain farming,-28.017466,-23.589561,-1
+22,Utilities,221100,Power generation and supply OR Power generation and supply,-23.10914,-27.225513,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1121A0,Cattle ranching and farming OR Cattle ranching and farming,-27.044098,-21.163769,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1111A0,Oilseed farming OR Oilseed farming,-27.418686,-22.116018,-1
+31,Manufacturing,311111,Dog and cat food manufacturing OR Dog and cat food manufacturing,-21.854084,-28.710484,-1
+32,Manufacturing,325310,Fertilizer Manufacturing OR Fertilizer Manufacturing,-20.39123,-28.227505,-1
+21,"Mining, Quarrying, and Oil and Gas Extraction",211000,Oil and gas extraction OR Oil and gas extraction,-20.401957,-28.073006,-1
+48,Transportation and Warehousing,484000,Truck transportation OR Truck transportation,-27.92016,-23.208315,-1
+11,"Agriculture, Forestry, Fishing and Hunting",112A00,"Animal production, except cattle and poultry and eggs OR Animal production, except cattle and poultry and eggs",-25.211514,-19.939133,0
+31,Manufacturing,311221,Wet corn milling OR Wet corn milling,-22.396418,-27.274832,-1
+33,Manufacturing,331110,Iron and steel mills OR Iron and steel mills,-21.464579,-26.302519,-1
+32,Manufacturing,324110,Petroleum refineries OR Petroleum refineries,-27.30917,-22.130613,-1
+48,Transportation and Warehousing,482000,Rail transportation OR Rail transportation,-27.508087,-22.25849,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1119B0,All other crop farming OR All other crop farming,-25.211435,-19.031088,0
+32,Manufacturing,325190,Other basic organic chemical manufacturing OR Other basic organic chemical manufacturing,-15.626045,-29.281557,-1
 21,"Mining, Quarrying, and Oil and Gas Extraction",212100,Coal mining OR Coal mining,-21.087595,-19.191853,0
-48,Transportation and Warehousing,486000,Pipeline transportation OR Pipeline transportation,-20.54063,-26.11992,0
-31,Manufacturing,31122A,Soybean and other oilseed processing OR Soybean and other oilseed processing,-20.729,-27.574102,0
-33,Manufacturing,33131A,Alumina refining and primary aluminum production OR Alumina refining and primary aluminum production,-21.859013,-24.88412,0
-32,Manufacturing,322120,Paper mills OR Paper mills,-15.890459,-30.73227,0
+48,Transportation and Warehousing,486000,Pipeline transportation OR Pipeline transportation,-20.54063,-26.11992,-1
+31,Manufacturing,31122A,Soybean and other oilseed processing OR Soybean and other oilseed processing,-20.729,-27.574102,-1
+33,Manufacturing,33131A,Alumina refining and primary aluminum production OR Alumina refining and primary aluminum production,-21.859013,-24.88412,-1
+32,Manufacturing,322120,Paper mills OR Paper mills,-15.890459,-30.73227,-1
 56,Administrative and Support and Waste Management and Remediation Services,562000,Waste management and remediation services OR Waste management and remediation services,-9.114459,-17.979015,0
-32,Manufacturing,322130,Paperboard Mills OR Paperboard Mills,-15.88784,-30.745401,0
+32,Manufacturing,322130,Paperboard Mills OR Paperboard Mills,-15.88784,-30.745401,-1
 22,Utilities,221200,Natural gas distribution OR Natural gas distribution,-17.481812,-14.129932,0
-48,Transportation and Warehousing,483000,Water transportation OR Water transportation,-26.932966,-19.611986,2
-32,Manufacturing,325211,Plastics material and resin manufacturing OR Plastics material and resin manufacturing,-16.402573,-26.820314,0
-31,Manufacturing,311313,Beet sugar manufacturing OR Beet sugar manufacturing,-15.519675,-28.203638,0
-48,Transportation and Warehousing,481000,Air transportation OR Air transportation,-26.681017,-19.22971,2
-31,Manufacturing,31161A,Animal (except poultry) slaughtering and processing OR Animal (except poultry) slaughtering and processing,-19.997616,-25.987356,0
+48,Transportation and Warehousing,483000,Water transportation OR Water transportation,-26.932966,-19.611986,0
+32,Manufacturing,325211,Plastics material and resin manufacturing OR Plastics material and resin manufacturing,-16.402573,-26.820314,-1
+31,Manufacturing,311313,Beet sugar manufacturing OR Beet sugar manufacturing,-15.519675,-28.203638,-1
+48,Transportation and Warehousing,481000,Air transportation OR Air transportation,-26.681017,-19.22971,0
+31,Manufacturing,31161A,Animal (except poultry) slaughtering and processing OR Animal (except poultry) slaughtering and processing,-19.997616,-25.987356,-1
 11,"Agriculture, Forestry, Fishing and Hunting",111920,Cotton farming OR Cotton farming,-21.964497,-18.330746,0
 32,Manufacturing,325110,Petrochemical manufacturing OR Petrochemical manufacturing,-15.931403,-26.7821,0
-49,Transportation and Warehousing,492000,Couriers and messengers OR Couriers and messengers,-26.303677,-18.971764,2
+49,Transportation and Warehousing,492000,Couriers and messengers OR Couriers and messengers,-26.303677,-18.971764,0
 32,Manufacturing,325188,All other basic inorganic chemical manufacturing OR All other basic inorganic chemical manufacturing,-19.390388,-25.522629,0
-42,Wholesale Trade,420000,Wholesale trade OR Wholesale trade,-25.097158,-20.138645,2
-11,"Agriculture, Forestry, Fishing and Hunting",114100,Fishing OR Fishing,-25.898184,-18.648544,2
+42,Wholesale Trade,420000,Wholesale trade OR Wholesale trade,-25.097158,-20.138645,0
+11,"Agriculture, Forestry, Fishing and Hunting",114100,Fishing OR Fishing,-25.898184,-18.648544,0
 11,"Agriculture, Forestry, Fishing and Hunting",1119A0,Sugarcane and sugar beet farming OR Sugarcane and sugar beet farming,-21.573711,-16.994661,0
-33,Manufacturing,332430,"Metal can, box, and other container manufacturing OR Metal can, box, and other container manufacturing",-20.807644,-25.376478,0
-23,Construction,230301,Nonresidential maintenance and repair OR Nonresidential maintenance and repair,-25.525438,-18.544436,2
+33,Manufacturing,332430,"Metal can, box, and other container manufacturing OR Metal can, box, and other container manufacturing",-20.807644,-25.376478,-1
+23,Construction,230301,Nonresidential maintenance and repair OR Nonresidential maintenance and repair,-25.525438,-18.544436,0
 32,Manufacturing,325120,Industrial gas manufacturing OR Industrial gas manufacturing,-15.420136,-23.923223,0
 33,Manufacturing,33131B,Aluminum product manufacturing from purchased aluminum OR Aluminum product manufacturing from purchased aluminum,-15.376198,-26.503633,0
 11,"Agriculture, Forestry, Fishing and Hunting",112120,Milk Production OR Milk Production,-11.370754,-16.883112,0
@@ -54,11 +54,11 @@ ID2,Sector,ID,Subsector,P1,P2,cluster
 32,Manufacturing,325181,Alkalies and chlorine manufacturing OR Alkalies and chlorine manufacturing,-15.991732,-23.236649,0
 32,Manufacturing,3274A0,Lime and gypsum product manufacturing OR Lime and gypsum product manufacturing,-16.707579,-12.149216,0
 32,Manufacturing,322210,Paperboard container manufacturing OR Paperboard container manufacturing,-16.653114,-23.270603,0
-32,Manufacturing,322110,Pulp mills OR Pulp mills,-15.497287,-28.799997,0
+32,Manufacturing,322110,Pulp mills OR Pulp mills,-15.497287,-28.799997,-1
 31,Manufacturing,311700,Seafood product preparation and packaging OR Seafood product preparation and packaging,-16.143833,-21.102709,0
 48,Transportation and Warehousing,48A000,Scenic and sightseeing transportation and support activities for transportation OR Scenic and sightseeing transportation and support activities for transportation,-22.15787,-15.788133,0
 33,Manufacturing,331419,Primary smelting and refining of nonferrous metal (except copper and aluminum) OR Primary smelting and refining of nonferrous metal (except copper and aluminum),-13.904104,-14.070504,0
-53,Real Estate and Rental and Leasing,531000,Real estate OR Real estate,-20.79193,-24.594145,0
+53,Real Estate and Rental and Leasing,531000,Real estate OR Real estate,-20.79193,-24.594145,-1
 33,Manufacturing,331314,Secondary smelting and alloying of aluminum OR Secondary smelting and alloying of aluminum,-15.20885,-23.05911,0
 31,Manufacturing,31131A,Sugar cane mills and refining OR Sugar cane mills and refining,-14.055567,-25.694164,0
 11,"Agriculture, Forestry, Fishing and Hunting",115000,Agriculture and forestry support activities OR Agriculture and forestry support activities,-21.286158,-17.50303,0
@@ -114,7 +114,7 @@ ID2,Sector,ID,Subsector,P1,P2,cluster
 33,Manufacturing,331411,Primary smelting and refining of copper OR Primary smelting and refining of copper,-12.751693,-8.437042,0
 52,Finance and Insurance,522A00,Nondepository credit intermediation and related activities OR Nondepository credit intermediation and related activities,-11.188111,-14.705814,0
 51,Information,515100,Radio and television broadcasting OR Radio and television broadcasting,-5.3553886,-14.317606,0
-11,"Agriculture, Forestry, Fishing and Hunting",111910,Tobacco farming OR Tobacco farming,-3.071195,3.5740273,1
+11,"Agriculture, Forestry, Fishing and Hunting",111910,Tobacco farming OR Tobacco farming,-3.071195,3.5740273,0
 32,Manufacturing,321100,Sawmills and wood preservation OR Sawmills and wood preservation,-14.066193,-25.686913,0
 33,Manufacturing,331520,Nonferrous foundries OR Nonferrous foundries,-9.45188,-7.180558,0
 11,"Agriculture, Forestry, Fishing and Hunting",111200,Vegetable and melon farming OR Vegetable and melon farming,1.6787663,-7.089175,0
@@ -143,14 +143,14 @@ ID2,Sector,ID,Subsector,P1,P2,cluster
 54,"Professional, Scientific, and Technical Services",541100,Legal services OR Legal services,-8.714007,-12.679402,0
 54,"Professional, Scientific, and Technical Services",541200,Accounting and bookkeeping services OR Accounting and bookkeeping services,-10.249126,-12.968727,0
 32,Manufacturing,325510,Paint and coating manufacturing OR Paint and coating manufacturing,-17.620197,-5.9927325,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",213112,Support activities for oil and gas operations OR Support activities for oil and gas operations,-4.0381813,4.288769,1
+21,"Mining, Quarrying, and Oil and Gas Extraction",213112,Support activities for oil and gas operations OR Support activities for oil and gas operations,-4.0381813,4.288769,0
 4,,4A0000,Retail trade OR Retail trade,-12.799624,-14.638847,0
 32,Manufacturing,326140,Polystyrene Foam Product Manufacturing OR Polystyrene Foam Product Manufacturing,-7.92331,-6.5983596,0
-11,"Agriculture, Forestry, Fishing and Hunting",113A00,"Forest nurseries, forest products, and timber tracts OR Forest nurseries, forest products, and timber tracts",-3.7082133,4.2259765,1
+11,"Agriculture, Forestry, Fishing and Hunting",113A00,"Forest nurseries, forest products, and timber tracts OR Forest nurseries, forest products, and timber tracts",-3.7082133,4.2259765,0
 54,"Professional, Scientific, and Technical Services",541610,Management consulting services OR Management consulting services,-7.2802353,-12.466824,0
 54,"Professional, Scientific, and Technical Services",5419A0,All other miscellaneous professional and technical services OR All other miscellaneous professional and technical services,-8.355884,-11.584584,0
 31,Manufacturing,311940,Seasoning and dressing manufacturing OR Seasoning and dressing manufacturing,-12.528871,-7.446953,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",21311A,Support activities for other mining OR Support activities for other mining,-3.6986442,4.218883,1
+21,"Mining, Quarrying, and Oil and Gas Extraction",21311A,Support activities for other mining OR Support activities for other mining,-3.6986442,4.218883,0
 54,"Professional, Scientific, and Technical Services",541800,Advertising and related services OR Advertising and related services,-11.085171,-13.112352,0
 32,Manufacturing,32712B,Clay and non-clay refractory manufacturing OR Clay and non-clay refractory manufacturing,5.3145075,-2.590716,0
 33,Manufacturing,332600,Spring and wire product manufacturing OR Spring and wire product manufacturing,-8.462749,-7.704936,0
