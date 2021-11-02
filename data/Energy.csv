@@ -1,4 +1,4 @@
-﻿ID,Subsector,Total Energy TJ,Coal TJ,Nat Gas TJ,Petrol  TJ,Bio/Waste TJ,NonFossElec TJ
+﻿ID,Subsector,Total Energy TJ,Coal TJ,Nat Gas TJ,Petrol  TJ,Bio_Waste TJ,NonFossElec TJ
 221100,Power generation and supply,319000,232000,67900,11300,0,7450
 311111,Dog and cat food manufacturing,203000,7130,137000,8410,8120,42300
 1111B0,Grain farming,106000,0,10400,80500,0,14800
