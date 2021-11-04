@@ -1,50 +1,50 @@
 ﻿ID,Subsector,Total t CO2e,CO2 t CO2e,CH4 t CO2e,N2O t CO2e,Other GHGs t CO2e
-1111B0,Grain farming,41200000,6080000,0,3360000,31800000
-221100,Power generation and supply,26200000,25800000,0,70900,160000
-1121A0,Cattle ranching and farming,19100000,1250000,0,10800000,6980000
-1111A0,Oilseed farming,10000000,2150000,0,66600,7800000
+1111B0,Grain farming,41200000,41200000,0,3360000,31800000
+221100,Power generation and supply,26200000,26200000,0,70900,160000
+1121A0,Cattle ranching and farming,19100000,19100000,0,10800000,6980000
+1111A0,Oilseed farming,10000000,10000000,0,66600,7800000
 311111,Dog and cat food manufacturing,8100000,8100000,0,0,0
-325310,Fertilizer Manufacturing,5650000,1400000,1890000,0,2360000
-211000,Oil and gas extraction,4250000,1200000,779000,2280000,0
+325310,Fertilizer Manufacturing,5650000,5650000,1890000,0,2360000
+211000,Oil and gas extraction,4250000,4250000,779000,2280000,0
 484000,Truck transportation,4190000,4190000,0,0,0
-112A00,"Animal production, except cattle and poultry and eggs",3140000,413000,0,1940000,785000
+112A00,"Animal production, except cattle and poultry and eggs",3140000,3140000,0,1940000,785000
 311221,Wet corn milling,3000000,3000000,0,0,0
-331110,Iron and steel mills,2560000,967000,1580000,15600,0
-324110,Petroleum refineries,2330000,2320000,0,7210,0
+331110,Iron and steel mills,2560000,2560000,1580000,15600,0
+324110,Petroleum refineries,2330000,2330000,0,7210,0
 482000,Rail transportation,2110000,2110000,0,0,0
-1119B0,All other crop farming,1440000,307000,0,0,1130000
-325190,Other basic organic chemical manufacturing,1310000,1170000,0,0,134000
-212100,Coal mining,1190000,135000,0,1060000,0
-486000,Pipeline transportation,1150000,524000,1440,621000,0
+1119B0,All other crop farming,1440000,1440000,0,0,1130000
+325190,Other basic organic chemical manufacturing,1310000,1310000,0,0,134000
+212100,Coal mining,1190000,1190000,0,1060000,0
+486000,Pipeline transportation,1150000,1150000,1440,621000,0
 31122A,Soybean and other oilseed processing,1080000,1080000,0,0,0
-33131A,Alumina refining and primary aluminum production,995000,226000,353000,0,0
+33131A,Alumina refining and primary aluminum production,995000,995000,353000,0,0
 322120,Paper mills,966000,966000,0,0,0
-562000,Waste management and remediation services,789000,28800,0,751000,8540
+562000,Waste management and remediation services,789000,789000,0,751000,8540
 322130,Paperboard Mills,671000,671000,0,0,0
-221200,Natural gas distribution,636000,57400,0,579000,0
+221200,Natural gas distribution,636000,636000,0,579000,0
 483000,Water transportation,588000,588000,0,0,0
 325211,Plastics material and resin manufacturing,573000,573000,0,0,0
 311313,Beet sugar manufacturing,523000,523000,0,0,0
 481000,Air transportation,502000,502000,0,0,0
 31161A,Animal (except poultry) slaughtering and processing,493000,493000,0,0,0
-111920,Cotton farming,463000,116000,0,0,347000
-325110,Petrochemical manufacturing,440000,368000,50800,21000,0
+111920,Cotton farming,463000,463000,0,0,347000
+325110,Petrochemical manufacturing,440000,440000,50800,21000,0
 492000,Couriers and messengers,436000,436000,0,0,0
-325188,All other basic inorganic chemical manufacturing,425000,257000,168000,0,0
+325188,All other basic inorganic chemical manufacturing,425000,425000,168000,0,0
 420000,Wholesale trade,363000,363000,0,0,0
 114100,Fishing,357000,357000,0,0,0
-1119A0,Sugarcane and sugar beet farming,349000,67200,0,0,282000
+1119A0,Sugarcane and sugar beet farming,349000,349000,0,0,282000
 332430,"Metal can, box, and other container manufacturing",347000,347000,0,0,0
 230301,Nonresidential maintenance and repair,304000,304000,0,0,0
-325120,Industrial gas manufacturing,255000,29500,0,0,0
+325120,Industrial gas manufacturing,255000,255000,0,0,0
 33131B,Aluminum product manufacturing from purchased aluminum,246000,246000,0,0,0
-112120,Milk Production,213000,16900,0,166000,29800
+112120,Milk Production,213000,213000,0,166000,29800
 311225,Fats and oils refining and blending,200000,200000,0,0,0
 S00203,Other state and local government enterprises,168000,168000,0,0,0
 550000,Management of companies and enterprises,164000,164000,0,0,0
 325411,Medicinal and botanical manufacturing,164000,164000,0,0,0
-221300,"Water, sewage and other systems",150000,4650,0,123000,22400
-327310,Cement manufacturing,145000,60700,84600,0,0
+221300,"Water, sewage and other systems",150000,150000,0,123000,22400
+327310,Cement manufacturing,145000,145000,84600,0,0
 32222B,All other paper bag and coated and treated paper manufacturing,137000,137000,0,0,0
 311210,Flour milling and malt manufacturing,130000,130000,0,0,0
 311119,Other animal food manufacturing,128000,128000,0,0,0
@@ -52,17 +52,17 @@ S00203,Other state and local government enterprises,168000,168000,0,0,0
 212390,Other nonmetallic mineral mining,126000,126000,0,0,0
 S00201,State and local government passenger transit,109000,109000,0,0,0
 325181,Alkalies and chlorine manufacturing,107000,107000,0,0,0
-3274A0,Lime and gypsum product manufacturing,104000,38600,65300,0,0
+3274A0,Lime and gypsum product manufacturing,104000,104000,65300,0,0
 322210,Paperboard container manufacturing,99400,99400,0,0,0
 322110,Pulp mills,93700,93700,0,0,0
 311700,Seafood product preparation and packaging,93400,93400,0,0,0
 48A000,Scenic and sightseeing transportation and support activities for transportation,80500,80500,0,0,0
-331419,Primary smelting and refining of nonferrous metal (except copper and aluminum),80000,13600,19400,0,0
+331419,Primary smelting and refining of nonferrous metal (except copper and aluminum),80000,80000,19400,0,0
 531000,Real estate,76000,76000,0,0,0
 331314,Secondary smelting and alloying of aluminum,66900,66900,0,0,0
 31131A,Sugar cane mills and refining,60100,60100,0,0,0
 115000,Agriculture and forestry support activities,59800,59800,0,0,0
-325130,Synthetic dye and pigment manufacturing,57900,32400,25500,0,0
+325130,Synthetic dye and pigment manufacturing,57900,57900,25500,0,0
 325320,Pesticide and other agricultural chemical manufacturing,56700,56700,0,0,0
 S00700,General state and local government services,55000,55000,0,0,0
 541700,Scientific research and development services,52400,52400,0,0,0
@@ -71,10 +71,10 @@ S00700,General state and local government services,55000,55000,0,0,0
 517000,Telecommunications,43400,43400,0,0,0
 212210,Iron ore mining,43000,43000,0,0,0
 324199,All other petroleum and coal products manufacturing,41100,41100,0,0,0
-112300,Poultry and egg production,39000,19900,0,11200,7860
+112300,Poultry and egg production,39000,39000,0,11200,7860
 332800,"Coating, engraving, heat treating and allied activities",38800,38800,0,0,0
 491000,Postal service,36300,36300,0,0,0
-334413,Semiconductor and related device manufacturing,35100,7100,0,0,0
+334413,Semiconductor and related device manufacturing,35100,35100,0,0,0
 3259A0,All other chemical product and preparation manufacturing,34200,34200,0,0,0
 493000,Warehousing and storage,32700,32700,0,0,0
 722000,Food services and drinking places,32300,32300,0,0,0
@@ -89,7 +89,7 @@ S00700,General state and local government services,55000,55000,0,0,0
 611A00,"Colleges, universities, and junior colleges",22200,22200,0,0,0
 2122A0,"Gold, silver, and other metal ore mining",21800,21800,0,0,0
 331510,Ferrous metal foundaries,19900,19900,0,0,0
-113300,Logging,19000,18400,0,0,619
+113300,Logging,19000,19000,0,0,619
 327992,Ground or treated minerals and earths manufacturing,18600,18600,0,0,0
 312120,Breweries,18600,18600,0,0,0
 325520,Adhesive manufacturing,18600,18600,0,0,0
@@ -98,11 +98,11 @@ S00700,General state and local government services,55000,55000,0,0,0
 331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",17300,17300,0,0,0
 311420,"Fruit and vegetable canning, pickling and drying",16800,16800,0,0,0
 323110,Printing,16700,16700,0,0,0
-111400,Greenhouse and nursery production,15900,10800,0,0,5130
+111400,Greenhouse and nursery production,15900,15900,0,0,5130
 325212,Synthetic rubber manufacturing,15400,15400,0,0,0
 532400,Commercial and industrial machinery and equipment rental and leasing,15200,15200,0,0,0
 212320,"Sand, gravel, clay, and refractory mining",14100,14100,0,0,0
-1113A0,Fruit farming,13900,5400,0,0,8500
+1113A0,Fruit farming,13900,13900,0,0,8500
 212230,"Copper, nickel, lead, and zinc mining",13400,13400,0,0,0
 325910,Printing ink manufacturing,12800,12800,0,0,0
 326210,Tire manufacturing,12400,12400,0,0,0
@@ -114,10 +114,10 @@ S00700,General state and local government services,55000,55000,0,0,0
 331411,Primary smelting and refining of copper,11500,11500,0,0,0
 522A00,Nondepository credit intermediation and related activities,11500,11500,0,0,0
 515100,Radio and television broadcasting,10900,10900,0,0,0
-111910,Tobacco farming,10900,3850,0,0,7000
+111910,Tobacco farming,10900,10900,0,0,7000
 321100,Sawmills and wood preservation,10300,10300,0,0,0
 331520,Nonferrous foundries,10100,10100,0,0,0
-111200,Vegetable and melon farming,9910,3980,0,0,5930
+111200,Vegetable and melon farming,9910,9910,0,0,5930
 324191,Petroleum lubricating oil and grease manufacturing,9670,9670,0,0,0
 327212,Other pressed and blown glass and glassware manufacturing,9450,9450,0,0,0
 331420,"Copper rolling, drawing, extruding and alloying",9320,9320,0,0,0
@@ -146,7 +146,7 @@ S00700,General state and local government services,55000,55000,0,0,0
 213112,Support activities for oil and gas operations,6110,6110,0,0,0
 4A0000,Retail trade,6010,6010,0,0,0
 326140,Polystyrene Foam Product Manufacturing,5830,5830,0,0,0
-113A00,"Forest nurseries, forest products, and timber tracts",5660,5090,0,0,567
+113A00,"Forest nurseries, forest products, and timber tracts",5660,5660,0,0,567
 541610,Management consulting services,5630,5630,0,0,0
 5419A0,All other miscellaneous professional and technical services,5540,5540,0,0,0
 311940,Seasoning and dressing manufacturing,5440,5440,0,0,0
@@ -155,7 +155,7 @@ S00700,General state and local government services,55000,55000,0,0,0
 32712B,Clay and non-clay refractory manufacturing,4970,4970,0,0,0
 332600,Spring and wire product manufacturing,4880,4880,0,0,0
 561400,Business support services,4870,4870,0,0,0
-327910,Abrasive product manufacturing,4590,3250,1350,0,0
+327910,Abrasive product manufacturing,4590,4590,1350,0,0
 561900,Other support services,4480,4480,0,0,0
 324121,Asphalt paving mixture and block manufacturing,4450,4450,0,0,0
 523000,"Securities, commodity contracts, investments",4280,4280,0,0,0
@@ -180,7 +180,7 @@ S00700,General state and local government services,55000,55000,0,0,0
 327320,Ready-mix concrete manufacturing,2700,2700,0,0,0
 326130,"Laminated plastics plate, sheet, and shapes",2700,2700,0,0,0
 321999,Miscellaneous wood product manufacturing,2700,2700,0,0,0
-111335,Tree nut farming,2680,1120,0,0,1560
+111335,Tree nut farming,2680,2680,0,0,1560
 811400,Household goods repair and maintenance,2590,2590,0,0,0
 541512,Computer systems design services,2580,2580,0,0,0
 327390,Other concrete product manufacturing,2530,2530,0,0,0
