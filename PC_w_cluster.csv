@@ -1,411 +1,411 @@
 ID2,Sector,ID,Subsector,P1,P2,cluster
-11,"Agriculture, Forestry, Fishing and Hunting",1111B0,Grain farming OR Grain farming,-28.338526,-11.474835,-1
-22,Utilities,221100,Power generation and supply OR Power generation and supply,-26.494726,-22.254887,-1
-11,"Agriculture, Forestry, Fishing and Hunting",1121A0,Cattle ranching and farming OR Cattle ranching and farming,-27.295752,-11.562735,-1
-11,"Agriculture, Forestry, Fishing and Hunting",1111A0,Oilseed farming OR Oilseed farming,-27.345379,-10.978666,-1
-31,Manufacturing,311111,Dog and cat food manufacturing OR Dog and cat food manufacturing,-27.918585,-19.128092,-1
-32,Manufacturing,325310,Fertilizer Manufacturing OR Fertilizer Manufacturing,-27.68548,-20.760128,-1
-21,"Mining, Quarrying, and Oil and Gas Extraction",211000,Oil and gas extraction OR Oil and gas extraction,-27.610703,-20.705751,-1
-48,Transportation and Warehousing,484000,Truck transportation OR Truck transportation,-28.196386,-10.103445,-1
-11,"Agriculture, Forestry, Fishing and Hunting",112A00,"Animal production, except cattle and poultry and eggs OR Animal production, except cattle and poultry and eggs",-24.174025,-9.28018,0
-31,Manufacturing,311221,Wet corn milling OR Wet corn milling,-25.740545,-21.1306,-1
-33,Manufacturing,331110,Iron and steel mills OR Iron and steel mills,-25.504704,-20.33299,-1
-32,Manufacturing,324110,Petroleum refineries OR Petroleum refineries,-27.262222,-9.9498625,-1
-48,Transportation and Warehousing,482000,Rail transportation OR Rail transportation,-27.355133,-9.992751,-1
-11,"Agriculture, Forestry, Fishing and Hunting",1119B0,All other crop farming OR All other crop farming,-24.200941,-8.481492,0
-32,Manufacturing,325190,Other basic organic chemical manufacturing OR Other basic organic chemical manufacturing,-29.313286,-16.643064,-1
-21,"Mining, Quarrying, and Oil and Gas Extraction",212100,Coal mining OR Coal mining,-16.364344,-18.517628,0
-48,Transportation and Warehousing,486000,Pipeline transportation OR Pipeline transportation,-25.552727,-19.38101,-1
-31,Manufacturing,31122A,Soybean and other oilseed processing OR Soybean and other oilseed processing,-26.542372,-19.759209,-1
-33,Manufacturing,33131A,Alumina refining and primary aluminum production OR Alumina refining and primary aluminum production,-26.45481,-18.080679,-1
-32,Manufacturing,322120,Paper mills OR Paper mills,-30.805387,-16.595676,-1
-56,Administrative and Support and Waste Management and Remediation Services,562000,Waste management and remediation services OR Waste management and remediation services,-15.291554,-18.8101,0
-32,Manufacturing,322130,Paperboard Mills OR Paperboard Mills,-30.820438,-16.593943,-1
-22,Utilities,221200,Natural gas distribution OR Natural gas distribution,-15.274876,-18.80137,0
-48,Transportation and Warehousing,483000,Water transportation OR Water transportation,-25.725004,-7.2077827,0
-32,Manufacturing,325211,Plastics material and resin manufacturing OR Plastics material and resin manufacturing,-22.898466,-21.162775,-1
-31,Manufacturing,311313,Beet sugar manufacturing OR Beet sugar manufacturing,-28.399343,-16.609451,-1
-48,Transportation and Warehousing,481000,Air transportation OR Air transportation,-25.32656,-7.2103305,0
-31,Manufacturing,31161A,Animal (except poultry) slaughtering and processing OR Animal (except poultry) slaughtering and processing,-24.896292,-19.325611,-1
-11,"Agriculture, Forestry, Fishing and Hunting",111920,Cotton farming OR Cotton farming,-21.238323,-8.138449,0
-32,Manufacturing,325110,Petrochemical manufacturing OR Petrochemical manufacturing,-22.478062,-21.388699,0
-49,Transportation and Warehousing,492000,Couriers and messengers OR Couriers and messengers,-24.899563,-7.329341,0
-32,Manufacturing,325188,All other basic inorganic chemical manufacturing OR All other basic inorganic chemical manufacturing,-24.293667,-19.051882,0
-42,Wholesale Trade,420000,Wholesale trade OR Wholesale trade,-24.923435,-8.6771965,0
-11,"Agriculture, Forestry, Fishing and Hunting",114100,Fishing OR Fishing,-24.432682,-7.3465543,0
-11,"Agriculture, Forestry, Fishing and Hunting",1119A0,Sugarcane and sugar beet farming OR Sugarcane and sugar beet farming,-20.492802,-7.7532196,0
-33,Manufacturing,332430,"Metal can, box, and other container manufacturing OR Metal can, box, and other container manufacturing",-25.485233,-18.555355,-1
-23,Construction,230301,Nonresidential maintenance and repair OR Nonresidential maintenance and repair,-24.14967,-7.418151,0
-32,Manufacturing,325120,Industrial gas manufacturing OR Industrial gas manufacturing,-20.559982,-19.324396,0
-33,Manufacturing,33131B,Aluminum product manufacturing from purchased aluminum OR Aluminum product manufacturing from purchased aluminum,-21.84859,-21.513094,0
-11,"Agriculture, Forestry, Fishing and Hunting",112120,Milk Production OR Milk Production,-16.279224,-8.232157,0
-31,Manufacturing,311225,Fats and oils refining and blending OR Fats and oils refining and blending,-21.437544,-17.220863,0
-0,,S00203,Other state and local government enterprises OR Other state and local government enterprises,-20.756695,-5.812021,0
-55,Management of Companies and Enterprises,550000,Management of companies and enterprises OR Management of companies and enterprises,-24.015017,-17.045036,0
-32,Manufacturing,325411,Medicinal and botanical manufacturing OR Medicinal and botanical manufacturing,-21.708126,-18.714922,0
-22,Utilities,221300,"Water, sewage and other systems OR Water, sewage and other systems",-21.985487,-13.342609,0
-32,Manufacturing,327310,Cement manufacturing OR Cement manufacturing,-11.0189905,-19.14228,0
-32,Manufacturing,32222B,All other paper bag and coated and treated paper manufacturing OR All other paper bag and coated and treated paper manufacturing,-22.962357,-18.071983,0
-31,Manufacturing,311210,Flour milling and malt manufacturing OR Flour milling and malt manufacturing,-22.949945,-17.239418,0
-31,Manufacturing,311119,Other animal food manufacturing OR Other animal food manufacturing,-20.971258,-17.332157,0
-32,Manufacturing,326110,"Plastics packaging materials, film and sheet OR Plastics packaging materials, film and sheet",-23.866516,-17.150879,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",212390,Other nonmetallic mineral mining OR Other nonmetallic mineral mining,-21.31558,-14.971796,0
-0,,S00201,State and local government passenger transit OR State and local government passenger transit,-20.953733,-6.4440517,0
-32,Manufacturing,325181,Alkalies and chlorine manufacturing OR Alkalies and chlorine manufacturing,-20.511564,-18.419216,0
-32,Manufacturing,3274A0,Lime and gypsum product manufacturing OR Lime and gypsum product manufacturing,-13.541956,-15.64314,0
-32,Manufacturing,322210,Paperboard container manufacturing OR Paperboard container manufacturing,-21.103941,-18.056566,0
-32,Manufacturing,322110,Pulp mills OR Pulp mills,-28.86473,-16.576368,-1
-31,Manufacturing,311700,Seafood product preparation and packaging OR Seafood product preparation and packaging,-19.679688,-16.234383,0
-48,Transportation and Warehousing,48A000,Scenic and sightseeing transportation and support activities for transportation OR Scenic and sightseeing transportation and support activities for transportation,-19.717222,-6.1548867,0
-33,Manufacturing,331419,Primary smelting and refining of nonferrous metal (except copper and aluminum) OR Primary smelting and refining of nonferrous metal (except copper and aluminum),-14.548444,-13.540373,0
-53,Real Estate and Rental and Leasing,531000,Real estate OR Real estate,-25.231344,-17.811758,-1
-33,Manufacturing,331314,Secondary smelting and alloying of aluminum OR Secondary smelting and alloying of aluminum,-19.766714,-18.725147,0
-31,Manufacturing,31131A,Sugar cane mills and refining OR Sugar cane mills and refining,-20.361536,-21.689356,0
-11,"Agriculture, Forestry, Fishing and Hunting",115000,Agriculture and forestry support activities OR Agriculture and forestry support activities,-19.976578,-8.424925,0
-32,Manufacturing,325130,Synthetic dye and pigment manufacturing OR Synthetic dye and pigment manufacturing,-14.432706,-14.352408,0
-32,Manufacturing,325320,Pesticide and other agricultural chemical manufacturing OR Pesticide and other agricultural chemical manufacturing,-19.527494,-18.87024,0
-0,,S00700,General state and local government services OR General state and local government services,-18.833973,-5.6379232,0
-54,"Professional, Scientific, and Technical Services",541700,Scientific research and development services OR Scientific research and development services,-17.649733,-8.387663,0
-56,Administrative and Support and Waste Management and Remediation Services,561700,Services to buildings and dwellings OR Services to buildings and dwellings,-18.92338,-6.162664,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",212310,Stone mining and quarrying OR Stone mining and quarrying,-18.375452,-7.4081984,0
-51,Information,517000,Telecommunications OR Telecommunications,-17.626171,-9.779898,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",212210,Iron ore mining OR Iron ore mining,-20.719692,-13.804587,0
-32,Manufacturing,324199,All other petroleum and coal products manufacturing OR All other petroleum and coal products manufacturing,-15.010753,-3.5312197,0
-11,"Agriculture, Forestry, Fishing and Hunting",112300,Poultry and egg production OR Poultry and egg production,-15.915708,-6.316143,0
-33,Manufacturing,332800,"Coating, engraving, heat treating and allied activities OR Coating, engraving, heat treating and allied activities",-17.338118,-14.800683,0
-49,Transportation and Warehousing,491000,Postal service OR Postal service,-17.483671,-6.6615133,0
-33,Manufacturing,334413,Semiconductor and related device manufacturing OR Semiconductor and related device manufacturing,-17.52103,-13.085064,0
-32,Manufacturing,3259A0,All other chemical product and preparation manufacturing OR All other chemical product and preparation manufacturing,-12.132041,-18.624985,0
-49,Transportation and Warehousing,493000,Warehousing and storage OR Warehousing and storage,-20.656206,-12.638433,0
-72,Accommodation and Food Services,722000,Food services and drinking places OR Food services and drinking places,-20.337166,-13.14563,0
-32,Manufacturing,325182,Carbon black manufacturing OR Carbon black manufacturing,-16.794043,-5.3671966,0
-54,"Professional, Scientific, and Technical Services",541300,Architectural and engineering services OR Architectural and engineering services,-16.836191,-6.1836643,0
-32,Manufacturing,32222A,"Coated and laminated paper, packaging materials, and plastic films manufacturing OR Coated and laminated paper, packaging materials, and plastic films manufacturing",-17.655075,-15.708981,0
-32,Manufacturing,327213,Glass container manufacturing OR Glass container manufacturing,-15.617972,-15.066487,0
-32,Manufacturing,322299,All other converted paper product manufacturing OR All other converted paper product manufacturing,-18.099117,-15.405337,0
-53,Real Estate and Rental and Leasing,533000,Lessors of nonfinancial intangible assets OR Lessors of nonfinancial intangible assets,-21.161192,-13.454324,0
-72,Accommodation and Food Services,7211A0,"Hotels and motels, including casino hotels OR Hotels and motels, including casino hotels",-20.675455,-13.186118,0
-33,Manufacturing,331200,"Iron, steel pipe and tube manufacturing from purchased steel OR Iron, steel pipe and tube manufacturing from purchased steel",-17.971811,-14.525957,0
-61,Educational Services,611A00,"Colleges, universities, and junior colleges OR Colleges, universities, and junior colleges",-15.763514,-14.687205,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",2122A0,"Gold, silver, and other metal ore mining OR Gold, silver, and other metal ore mining",-15.145818,-9.405214,0
-33,Manufacturing,331510,Ferrous metal foundaries OR Ferrous metal foundaries,-16.538818,-13.3428335,0
-11,"Agriculture, Forestry, Fishing and Hunting",113300,Logging OR Logging,-15.747626,-4.690464,0
-32,Manufacturing,327992,Ground or treated minerals and earths manufacturing OR Ground or treated minerals and earths manufacturing,-6.9124475,-12.564055,0
-31,Manufacturing,312120,Breweries OR Breweries,-11.0168,-15.944518,0
-32,Manufacturing,325520,Adhesive manufacturing OR Adhesive manufacturing,-8.672975,-17.678215,0
-32,Manufacturing,32619A,Other plastics product manufacturing OR Other plastics product manufacturing,-19.442928,-13.451463,0
-52,Finance and Insurance,52A000,Monetary authorities and depository credit intermediation OR Monetary authorities and depository credit intermediation,-14.416129,-4.900457,0
-33,Manufacturing,331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying OR Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",-10.757248,-15.428753,0
-31,Manufacturing,311420,"Fruit and vegetable canning, pickling and drying OR Fruit and vegetable canning, pickling and drying",-6.719158,-13.339923,0
-32,Manufacturing,323110,Printing OR Printing,-18.393358,-13.733176,0
-11,"Agriculture, Forestry, Fishing and Hunting",111400,Greenhouse and nursery production OR Greenhouse and nursery production,-12.040336,-4.432262,0
-32,Manufacturing,325212,Synthetic rubber manufacturing OR Synthetic rubber manufacturing,-10.257956,-20.589369,0
-53,Real Estate and Rental and Leasing,532400,Commercial and industrial machinery and equipment rental and leasing OR Commercial and industrial machinery and equipment rental and leasing,-12.722817,-5.4515066,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",212320,"Sand, gravel, clay, and refractory mining OR Sand, gravel, clay, and refractory mining",-12.461623,-4.896318,0
-11,"Agriculture, Forestry, Fishing and Hunting",1113A0,Fruit farming OR Fruit farming,-10.7474,-6.1066885,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",212230,"Copper, nickel, lead, and zinc mining OR Copper, nickel, lead, and zinc mining",-16.446634,-11.113992,0
-32,Manufacturing,325910,Printing ink manufacturing OR Printing ink manufacturing,-8.520942,-17.7704,0
-32,Manufacturing,326210,Tire manufacturing OR Tire manufacturing,-13.728327,-12.718628,0
-81,Other Services (except Public Administration),813B00,"Civic, social, professional and similar organizations OR Civic, social, professional and similar organizations",-14.426709,-10.725943,0
-32,Manufacturing,325220,Artificial and synthetic fibers and filaments manufacturing OR Artificial and synthetic fibers and filaments manufacturing,-8.928153,-13.314429,0
-33,Manufacturing,33299C,Other fabricated metal manufacturing OR Other fabricated metal manufacturing,-10.595749,-12.364367,0
-32,Manufacturing,325610,Soap and cleaning compound manufacturing OR Soap and cleaning compound manufacturing,-8.352674,-18.937962,0
-33,Manufacturing,336300,Motor vehicle parts manufacturing OR Motor vehicle parts manufacturing,-17.380692,-13.458711,0
-33,Manufacturing,331411,Primary smelting and refining of copper OR Primary smelting and refining of copper,-8.866439,-13.8482275,0
-52,Finance and Insurance,522A00,Nondepository credit intermediation and related activities OR Nondepository credit intermediation and related activities,-14.150365,-9.877418,0
-51,Information,515100,Radio and television broadcasting OR Radio and television broadcasting,-11.553744,-4.369544,0
-11,"Agriculture, Forestry, Fishing and Hunting",111910,Tobacco farming OR Tobacco farming,-8.564213,-0.54269755,0
-32,Manufacturing,321100,Sawmills and wood preservation OR Sawmills and wood preservation,-20.366554,-21.677513,0
-33,Manufacturing,331520,Nonferrous foundries OR Nonferrous foundries,-6.673558,-10.998265,0
-11,"Agriculture, Forestry, Fishing and Hunting",111200,Vegetable and melon farming OR Vegetable and melon farming,-8.122612,-0.9492791,0
-32,Manufacturing,324191,Petroleum lubricating oil and grease manufacturing OR Petroleum lubricating oil and grease manufacturing,-10.589682,-1.5629795,0
-32,Manufacturing,327212,Other pressed and blown glass and glassware manufacturing OR Other pressed and blown glass and glassware manufacturing,-5.4989705,-6.016857,0
-33,Manufacturing,331420,"Copper rolling, drawing, extruding and alloying OR Copper rolling, drawing, extruding and alloying",-9.179029,-14.729854,0
-31,Manufacturing,311514,"Dry, condensed, and evaporated dairy products OR Dry, condensed, and evaporated dairy products",-5.89711,-12.282011,0
-32,Manufacturing,325414,Biological product (except diagnostic) Manufacturing OR Biological product (except diagnostic) Manufacturing,-10.616568,-17.195995,0
-56,Administrative and Support and Waste Management and Remediation Services,561500,Travel arrangement and reservation services OR Travel arrangement and reservation services,-10.439695,-1.8767856,0
-81,Other Services (except Public Administration),8111A0,"Automotive repair and maintenance, except car washes OR Automotive repair and maintenance, except car washes",-13.421692,-10.670151,0
-23,Construction,230302,Residential maintenance and repair OR Residential maintenance and repair,-10.61416,-0.32853144,0
-32,Manufacturing,325412,Pharmaceutical preparation manufacturing OR Pharmaceutical preparation manufacturing,-8.152711,-13.53159,0
-31,Manufacturing,311615,Poultry processing OR Poultry processing,-11.20425,-13.354437,0
-33,Manufacturing,332320,Ornamental and architectural metail products manufacturing OR Ornamental and architectural metail products manufacturing,-10.321072,-12.20266,0
-56,Administrative and Support and Waste Management and Remediation Services,561300,Employment services OR Employment services,-13.093745,-9.180834,0
-32,Manufacturing,327211,Flat glass manufacturing OR Flat glass manufacturing,-3.8147535,-11.979551,0
-33,Manufacturing,335991,Carbon and graphite product manufacturing OR Carbon and graphite product manufacturing,-8.215042,-11.521179,0
-33,Manufacturing,332710,Machine shops OR Machine shops,-13.894839,-12.036808,0
-31,Manufacturing,312140,Distilleries OR Distilleries,-7.844063,-19.209011,0
-81,Other Services (except Public Administration),811300,Commercial machinery repair and maintenance OR Commercial machinery repair and maintenance,-11.952998,-8.821421,0
-32,Manufacturing,322291,Sanitary paper product manufacturing OR Sanitary paper product manufacturing,-11.194463,-14.093212,0
-31,Manufacturing,313310,Textile and fabric finishing mills OR Textile and fabric finishing mills,-0.63538843,-11.407696,0
-31,Manufacturing,313230,Nonwoven fabric mills OR Nonwoven fabric mills,-11.650794,-13.605155,0
-32,Manufacturing,32712A,"Brick, tile, and other structural clay product manufacturing OR Brick, tile, and other structural clay product manufacturing",-1.124175,3.2353938,0
-48,Transportation and Warehousing,485000,Transit and ground passenger transportation OR Transit and ground passenger transportation,-18.550478,-7.0979095,0
-54,"Professional, Scientific, and Technical Services",541100,Legal services OR Legal services,-11.399567,-8.356377,0
-54,"Professional, Scientific, and Technical Services",541200,Accounting and bookkeeping services OR Accounting and bookkeeping services,-12.244017,-9.71044,0
-32,Manufacturing,325510,Paint and coating manufacturing OR Paint and coating manufacturing,-8.8230915,-19.463562,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",213112,Support activities for oil and gas operations OR Support activities for oil and gas operations,-9.968882,-0.1390453,0
-4,,4A0000,Retail trade OR Retail trade,-14.621849,-11.484995,0
-32,Manufacturing,326140,Polystyrene Foam Product Manufacturing OR Polystyrene Foam Product Manufacturing,-5.6154485,-9.590544,0
-11,"Agriculture, Forestry, Fishing and Hunting",113A00,"Forest nurseries, forest products, and timber tracts OR Forest nurseries, forest products, and timber tracts",-9.562078,-0.10220835,0
-54,"Professional, Scientific, and Technical Services",541610,Management consulting services OR Management consulting services,-10.805324,-7.1259913,0
-54,"Professional, Scientific, and Technical Services",5419A0,All other miscellaneous professional and technical services OR All other miscellaneous professional and technical services,-10.225891,-8.4614,0
-31,Manufacturing,311940,Seasoning and dressing manufacturing OR Seasoning and dressing manufacturing,-7.849415,-14.091434,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",21311A,Support activities for other mining OR Support activities for other mining,-9.548465,-0.09979177,0
-54,"Professional, Scientific, and Technical Services",541800,Advertising and related services OR Advertising and related services,-12.671116,-10.460844,0
-32,Manufacturing,32712B,Clay and non-clay refractory manufacturing OR Clay and non-clay refractory manufacturing,-0.78999305,2.3830934,0
-33,Manufacturing,332600,Spring and wire product manufacturing OR Spring and wire product manufacturing,-6.642015,-10.007722,0
-56,Administrative and Support and Waste Management and Remediation Services,561400,Business support services OR Business support services,-10.651417,-8.085217,0
-32,Manufacturing,327910,Abrasive product manufacturing OR Abrasive product manufacturing,-2.1837938,-4.565399,0
-56,Administrative and Support and Waste Management and Remediation Services,561900,Other support services OR Other support services,-9.937047,-8.653391,0
-32,Manufacturing,324121,Asphalt paving mixture and block manufacturing OR Asphalt paving mixture and block manufacturing,-1.1189455,3.2014349,0
-52,Finance and Insurance,523000,"Securities, commodity contracts, investments OR Securities, commodity contracts, investments",-11.472505,-9.290636,0
-33,Manufacturing,33211A,"All other forging, stamping , and sintering OR All other forging, stamping , and sintering",-4.488944,-5.241664,0
-33,Manufacturing,333111,Farm machinery and equipment manufacturing OR Farm machinery and equipment manufacturing,-5.1873126,-9.13499,0
-31,Manufacturing,311990,All other food manufacturing OR All other food manufacturing,-3.4580903,-4.4052734,0
-31,Manufacturing,314990,All other miscellaneous textile product mills OR All other miscellaneous textile product mills,-3.9554577,-8.168288,0
-32,Manufacturing,326121,Unlaminated plastics profile shape manufacturing OR Unlaminated plastics profile shape manufacturing,-10.506285,-10.561836,0
-51,Information,515200,Cable and other subscription programming OR Cable and other subscription programming,-1.6321682,1.7940922,0
-32,Manufacturing,321920,Wood container and pallet manufacturing OR Wood container and pallet manufacturing,-8.1260195,-20.092184,0
-33,Manufacturing,33211B,"Crown, closure and metal stamping manufacturing OR Crown, closure and metal stamping manufacturing",-5.1397314,-8.149596,0
-33,Manufacturing,332720,"Turned product and screw, nut, and bolt manufacturing OR Turned product and screw, nut, and bolt manufacturing",-7.783079,-9.527499,0
-31,Manufacturing,313320,Fabric coating mills OR Fabric coating mills,1.0664418,-11.1735,0
-33,Manufacturing,332114,Custom roll forming OR Custom roll forming,-3.6443522,-3.7101955,0
-33,Manufacturing,332310,Plate work and fabricated structural product manufacturing OR Plate work and fabricated structural product manufacturing,-4.6195707,-7.3728967,0
-33,Manufacturing,335911,Storage battery manufacturing OR Storage battery manufacturing,-8.038695,-9.198851,0
-32,Manufacturing,32711A,"Pottery, ceramics, and plumbing fixture manufacturing OR Pottery, ceramics, and plumbing fixture manufacturing",1.6292495,4.487865,0
-31,Manufacturing,311410,Frozen food manufacturing OR Frozen food manufacturing,-2.9149532,-4.2645326,0
-33,Manufacturing,33221B,Handtool manufacturing OR Handtool manufacturing,-5.7516384,-8.44882,0
-32,Manufacturing,326290,Other rubber product manufacturing OR Other rubber product manufacturing,-3.711846,-7.164046,0
-56,Administrative and Support and Waste Management and Remediation Services,561100,Office administrative services OR Office administrative services,-0.6166679,-7.8456173,0
-32,Manufacturing,327320,Ready-mix concrete manufacturing OR Ready-mix concrete manufacturing,2.326002,5.658917,0
-32,Manufacturing,326130,"Laminated plastics plate, sheet, and shapes OR Laminated plastics plate, sheet, and shapes",1.3739648,0.34803155,0
-32,Manufacturing,321999,Miscellaneous wood product manufacturing OR Miscellaneous wood product manufacturing,-9.49417,-20.436653,0
-11,"Agriculture, Forestry, Fishing and Hunting",111335,Tree nut farming OR Tree nut farming,7.604375,-1.51084,0
-81,Other Services (except Public Administration),811400,Household goods repair and maintenance OR Household goods repair and maintenance,-0.14106904,-7.339944,0
-54,"Professional, Scientific, and Technical Services",541512,Computer systems design services OR Computer systems design services,3.2568014,-6.5100813,0
-32,Manufacturing,327390,Other concrete product manufacturing OR Other concrete product manufacturing,2.4797254,4.8371005,0
-32,Manufacturing,325620,Toilet preparation manufacturing OR Toilet preparation manufacturing,2.7021604,7.0441523,0
-53,Real Estate and Rental and Leasing,532A00,General and consumer goods rental except video tapes and discs OR General and consumer goods rental except video tapes and discs,3.5189028,-4.1824255,0
-81,Other Services (except Public Administration),811192,Car washes OR Car washes,3.3453496,-4.2778525,0
-31,Manufacturing,313210,Broadwoven fabric mills OR Broadwoven fabric mills,-3.430137,-9.206592,0
-31,Manufacturing,313100,"Fiber, yarn, and thread mills OR Fiber, yarn, and thread mills",-11.931869,-12.737748,0
-33,Manufacturing,33291A,Valve and fittings other than plumbing OR Valve and fittings other than plumbing,-6.66757,-8.556424,0
-32,Manufacturing,321219,Reconstituted wood product manufacturing OR Reconstituted wood product manufacturing,-7.713103,-19.54099,0
-31,Manufacturing,31151A,Fluid milk and butter manufacturing OR Fluid milk and butter manufacturing,0.28131315,0.054654017,0
-53,Real Estate and Rental and Leasing,532100,Automotive equipment rental and leasing OR Automotive equipment rental and leasing,-1.3603009,-7.860272,0
-51,Information,518200,"Data processing, hosting, and related services OR Data processing, hosting, and related services",-7.8733916,-7.534726,0
-51,Information,511110,Newspaper publishers OR Newspaper publishers,-10.161656,-9.728137,0
-33,Manufacturing,332991,Ball and roller bearing manufacturing OR Ball and roller bearing manufacturing,-4.4966664,-8.371734,0
-81,Other Services (except Public Administration),811200,Electronic equipment repair and maintenance OR Electronic equipment repair and maintenance,0.7507315,-6.1601353,0
-33,Manufacturing,33712A,Metal and other household nonupholsetered furniture OR Metal and other household nonupholsetered furniture,1.3839378,-10.590953,0
-71,"Arts, Entertainment, and Recreation",713B00,"Other amusement, gambling, and recreation industries OR Other amusement, gambling, and recreation industries",-1.3275132,-7.3491664,0
-32,Manufacturing,327215,Glass Product Manufacturing Made of Purchased Glass OR Glass Product Manufacturing Made of Purchased Glass,0.82996935,-1.3644211,0
-54,"Professional, Scientific, and Technical Services",54151A,"Other computer related services, including facilities management OR Other computer related services, including facilities management",3.6502523,-5.521519,0
-52,Finance and Insurance,524200,"Insurance agencies, brokerages, and related OR Insurance agencies, brokerages, and related",1.5334257,-5.416506,0
-32,Manufacturing,324122,Asphalt shingle and coating materials manufacturing OR Asphalt shingle and coating materials manufacturing,1.5568904,5.2130294,0
-31,Manufacturing,311340,Nonchocolate confectionery manufacturing OR Nonchocolate confectionery manufacturing,1.2395731,1.7091655,0
-33,Manufacturing,333920,Material handling equipment manufacturing OR Material handling equipment manufacturing,1.7107155,0.5677448,0
-31,Manufacturing,311513,Cheese manufacturing OR Cheese manufacturing,2.0571263,3.2991412,0
-32,Manufacturing,327993,Mineral wool manufacturing OR Mineral wool manufacturing,2.7001297,2.4769378,0
-33,Manufacturing,336500,Railroad rolling stock manufacturing OR Railroad rolling stock manufacturing,0.45827535,0.9045977,0
-56,Administrative and Support and Waste Management and Remediation Services,561600,Investigation and security services OR Investigation and security services,1.8901125,-5.9736915,0
-31,Manufacturing,313240,Knit fabric mills OR Knit fabric mills,3.1155634,4.4165955,0
-71,"Arts, Entertainment, and Recreation",713940,Fitness and recreational sports centers OR Fitness and recreational sports centers,0.6700853,-5.589804,0
-33,Manufacturing,332500,Hardware manufacturing OR Hardware manufacturing,0.5379405,-2.295968,0
-32,Manufacturing,326220,Rubber and plastics hose and belting manufacturing OR Rubber and plastics hose and belting manufacturing,2.005075,-1.4365804,0
-32,Manufacturing,32121A,Veneer and plywood manufacturing OR Veneer and plywood manufacturing,-9.650774,-21.067055,0
-33,Manufacturing,335920,Communication and energy wire and cable manufacturing OR Communication and energy wire and cable manufacturing,-1.0677395,-4.9018397,0
-33,Manufacturing,335312,Motor and generator manufacturing OR Motor and generator manufacturing,2.0793285,-0.75340885,0
-81,Other Services (except Public Administration),812300,Drycleaning and laundry services OR Drycleaning and laundry services,1.41155,-4.42943,0
-33,Manufacturing,33411A,Computer terminals and other computer peripheral equipment manufacturing OR Computer terminals and other computer peripheral equipment manufacturing,3.4189353,-1.9373182,0
-51,Information,511120,Periodical publishers OR Periodical publishers,2.2258928,-5.6295323,0
-0,,S00102,Other Federal government enterprises OR Other Federal government enterprises,17.69959,11.264333,0
-31,Manufacturing,311910,Snack food manufacturing OR Snack food manufacturing,5.175161,7.33949,0
-54,"Professional, Scientific, and Technical Services",541400,Specialized design services OR Specialized design services,-0.30580792,-6.4475784,0
-54,"Professional, Scientific, and Technical Services",5416A0,Environmental and other technical consulting services OR Environmental and other technical consulting services,6.904076,-1.4633013,0
-32,Manufacturing,326160,Plastics bottle manufacturing OR Plastics bottle manufacturing,-12.56605,-11.552766,0
-32,Manufacturing,321910,Wood windows and doors and millwork OR Wood windows and doors and millwork,-8.701649,-20.398277,0
-33,Manufacturing,33329A,Other industrial machinery manufacturing OR Other industrial machinery manufacturing,1.6626834,-1.7802882,0
-32,Manufacturing,327330,"Concrete pipe, brick and block manufacturing OR Concrete pipe, brick and block manufacturing",6.2549286,8.565106,0
-33,Manufacturing,339991,"Gasket, packing, and sealing device manufacturing OR Gasket, packing, and sealing device manufacturing",1.3416352,-2.6878211,0
-32,Manufacturing,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing OR Urethane and Other Foam Product (except Polystyrene) Manufacturing,6.43282,4.429111,0
-33,Manufacturing,334418,Printed circuit assembly (electronic assembly) manufacturing OR Printed circuit assembly (electronic assembly) manufacturing,-7.479614,-8.350773,0
-33,Manufacturing,335314,Relay and industrial control manufacturing OR Relay and industrial control manufacturing,0.9836487,-2.911389,0
-33,Manufacturing,334412,Bare printed circuit board manufacturing OR Bare printed circuit board manufacturing,0.35929507,-3.7242377,0
-31,Manufacturing,314910,Textile bag and canvas mills OR Textile bag and canvas mills,6.9646435,7.6571927,0
-33,Manufacturing,333415,"Air conditioning, refrigeration, and warm air heating equipment manufacturing OR Air conditioning, refrigeration, and warm air heating equipment manufacturing",2.135483,-2.3066978,0
-32,Manufacturing,327999,Miscellaneous nonmetallic mineral products OR Miscellaneous nonmetallic mineral products,16.895025,12.439892,0
-33,Manufacturing,333120,Construction machinery manufacturing OR Construction machinery manufacturing,6.6964974,5.250985,0
-51,Information,512100,Motion picture and video industries OR Motion picture and video industries,-1.3647573,-6.578085,0
-31,Manufacturing,316900,Other leather and allied product manufacturing OR Other leather and allied product manufacturing,17.615307,12.924122,0
-33,Manufacturing,33341A,Air purification and ventilation equipment manufacturing OR Air purification and ventilation equipment manufacturing,5.488827,1.8203392,0
-33,Manufacturing,333515,Cutting tool and machine tool accessory manufacturing OR Cutting tool and machine tool accessory manufacturing,-0.20725538,-4.5000973,0
-32,Manufacturing,322230,Stationery product manufacturing OR Stationery product manufacturing,1.577135,-10.195185,0
-33,Manufacturing,339950,Sign manufacturing OR Sign manufacturing,5.8837194,3.5749815,0
-33,Manufacturing,334419,Other electronic component manufacturing OR Other electronic component manufacturing,-1.618996,-6.115899,0
-71,"Arts, Entertainment, and Recreation",711200,Spectator sports OR Spectator sports,-0.13487864,-5.536311,0
-56,Administrative and Support and Waste Management and Remediation Services,561200,Facilities support services OR Facilities support services,5.6869173,-1.0197066,0
-23,Construction,230202,Other residential structures OR Other residential structures,20.565952,17.63848,0
-33,Manufacturing,33999A,All other miscellaneous manufacturing OR All other miscellaneous manufacturing,5.9596515,2.6890533,0
-71,"Arts, Entertainment, and Recreation",711A00,Promoters of performing arts and sports and agents for public figures OR Promoters of performing arts and sports and agents for public figures,4.215827,-1.8091782,0
-33,Manufacturing,332410,Power boiler and heat exchanger manufacturing OR Power boiler and heat exchanger manufacturing,7.896341,5.9986925,0
-31,Manufacturing,311820,"Cookie, cracker and pasta manufacturing OR Cookie, cracker and pasta manufacturing",7.0519195,8.428714,0
-33,Manufacturing,335120,Lighting fixture manufacturing OR Lighting fixture manufacturing,7.494077,5.7050834,0
-33,Manufacturing,333618,Other engine equipment manufacturing OR Other engine equipment manufacturing,5.0966673,0.25614446,0
-32,Manufacturing,326122,Plastics Pipe and Pipe Fitting Manufacturing OR Plastics Pipe and Pipe Fitting Manufacturing,-2.7472315,-7.930541,0
-33,Manufacturing,335930,Wiring device manufacturing OR Wiring device manufacturing,4.7105227,-0.33394858,0
-51,Information,5111A0,"Directory, mailing list, and other publishers OR Directory, mailing list, and other publishers",4.6122537,-1.9726933,0
-31,Manufacturing,313220,Narrow fabric mills and schiffli embroidery OR Narrow fabric mills and schiffli embroidery,6.7048035,12.331504,0
-33,Manufacturing,33399A,Fluid power process machinery OR Fluid power process machinery,6.2810717,1.892193,0
-31,Manufacturing,311810,Bread and bakery product manufacturing OR Bread and bakery product manufacturing,16.570879,12.141622,0
-33,Manufacturing,334210,Telephone apparatus manufacturing OR Telephone apparatus manufacturing,16.537374,11.72224,0
-32,Manufacturing,323120,Support activities for printing OR Support activities for printing,5.6542673,0.6065951,0
-33,Manufacturing,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing OR Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",7.8482265,4.98722,0
-31,Manufacturing,311930,Flavoring syrup and concentrate manufacturing OR Flavoring syrup and concentrate manufacturing,6.318577,13.373418,0
-31,Manufacturing,315210,Cut and sew apparel contractors OR Cut and sew apparel contractors,7.7354064,6.9772067,0
-33,Manufacturing,336413,Other aircraft parts and equipment OR Other aircraft parts and equipment,9.379495,8.102944,0
-33,Manufacturing,335110,Electric lamp bulb and part manufacturing OR Electric lamp bulb and part manufacturing,8.882206,5.598925,0
-81,Other Services (except Public Administration),812900,Other personal services OR Other personal services,13.673452,7.604485,0
-33,Manufacturing,332420,"Metal tank, heavy gauge, manufacturing OR Metal tank, heavy gauge, manufacturing",10.808021,10.413087,0
-71,"Arts, Entertainment, and Recreation",711500,"Independent artists, writers, and performers OR Independent artists, writers, and performers",13.120142,6.668845,0
-33,Manufacturing,336611,Ship building and repairing OR Ship building and repairing,6.949188,2.625465,0
-51,Information,511200,Software publishers OR Software publishers,9.690137,2.2838702,0
-51,Information,516110,Internet publishing and broadcasting OR Internet publishing and broadcasting,14.642858,7.9860425,0
-31,Manufacturing,312110,Soft drink and ice manufacturing OR Soft drink and ice manufacturing,8.04603,13.704191,0
-33,Manufacturing,337215,"Showcases, partitions, shelving, and lockers OR Showcases, partitions, shelving, and lockers",7.780093,13.24841,0
-33,Manufacturing,335313,Switchgear and switchboard apparatus manufacturing OR Switchgear and switchboard apparatus manufacturing,9.85793,7.314862,0
-51,Information,518100,Internet service providers and web search portals OR Internet service providers and web search portals,9.258712,1.9641644,0
-33,Manufacturing,33399B,Process and oven not fluid power machinery OR Process and oven not fluid power machinery,7.8326607,2.4852438,0
-54,"Professional, Scientific, and Technical Services",541940,Veterinary services OR Veterinary services,19.83754,18.825682,0
-33,Manufacturing,337110,Wood kitchen cabinet and countertop manufacturing OR Wood kitchen cabinet and countertop manufacturing,6.687778,12.935508,0
-33,Manufacturing,339940,Office supplies (except paper) manufacturing OR Office supplies (except paper) manufacturing,9.333968,6.9751844,0
-33,Manufacturing,33221A,"Cutlery, utensils, pots, and pans manufacturing OR Cutlery, utensils, pots, and pans manufacturing",15.180575,13.61374,0
-33,Manufacturing,333613,Mechanical Power Transmission Equipment Manufacturing OR Mechanical Power Transmission Equipment Manufacturing,9.888499,6.113444,0
-33,Manufacturing,334290,Other communications equipment manufacturing OR Other communications equipment manufacturing,11.211993,9.9439745,0
-31,Manufacturing,314110,Carpet and rug mills OR Carpet and rug mills,14.811347,20.045292,0
-33,Manufacturing,333611,Turbine and turbine generator set units manufacturing OR Turbine and turbine generator set units manufacturing,10.190755,8.8438015,0
-54,"Professional, Scientific, and Technical Services",541920,Photographic services OR Photographic services,13.120768,7.5042562,0
-71,"Arts, Entertainment, and Recreation",711100,Performing arts companies OR Performing arts companies,11.508035,6.081793,0
-54,"Professional, Scientific, and Technical Services",541511,Custom computer programming services OR Custom computer programming services,14.645176,9.051218,0
-33,Manufacturing,33461A,"Software, audio and video reproduction OR Software, audio and video reproduction",6.96146,1.0591623,0
-33,Manufacturing,333130,Mining and oil and gas field machinery manufacturing OR Mining and oil and gas field machinery manufacturing,10.429974,6.749961,0
-33,Manufacturing,33441A,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing OR Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing",7.559169,1.6829772,0
-33,Manufacturing,336120,Heavy duty truck manufacturing OR Heavy duty truck manufacturing,16.677303,27.179798,0
-33,Manufacturing,334613,Magnetic and optical recording media manufacturing OR Magnetic and optical recording media manufacturing,11.860253,10.021857,0
-33,Manufacturing,335311,Electric power and specialty transformer manufacturing OR Electric power and specialty transformer manufacturing,11.905349,10.671758,0
-31,Manufacturing,316100,Leather and hide tanning and finishing OR Leather and hide tanning and finishing,14.648649,13.461526,0
-33,Manufacturing,334513,Industrial process variable instruments OR Industrial process variable instruments,8.535999,3.16517,0
-32,Manufacturing,32121B,Engineered wood member and truss manufacturing OR Engineered wood member and truss manufacturing,-7.940417,-20.433937,0
-61,Educational Services,611B00,Other educational services OR Other educational services,19.783112,19.03475,0
-33,Manufacturing,332996,Fabricated pipe and pipe fitting manufacturing OR Fabricated pipe and pipe fitting manufacturing,13.038265,11.77829,0
-33,Manufacturing,332913,Plumbing Fixture Fitting and Trim Manufacturing OR Plumbing Fixture Fitting and Trim Manufacturing,12.466621,10.325017,0
-31,Manufacturing,311920,Coffee and tea manufacturing OR Coffee and tea manufacturing,14.097185,21.08807,0
-33,Manufacturing,333911,Pump and pumping equipment manufacturing OR Pump and pumping equipment manufacturing,10.699578,7.460228,0
-32,Manufacturing,327991,Cut stone and stone product manufacturing OR Cut stone and stone product manufacturing,15.001064,21.59871,0
-72,Accommodation and Food Services,721A00,Other accommodations OR Other accommodations,18.421263,18.951807,0
-31,Manufacturing,311230,Breakfast cereal manufacturing OR Breakfast cereal manufacturing,14.324204,20.34163,0
-33,Manufacturing,336412,Aircraft engine and engine parts manufacturing OR Aircraft engine and engine parts manufacturing,12.417148,14.048779,0
-33,Manufacturing,333414,Heating equipment (except warm air furnaces) manufacturing OR Heating equipment (except warm air furnaces) manufacturing,15.359651,15.347384,0
-33,Manufacturing,334411,Electron tube manufacturing OR Electron tube manufacturing,12.043221,9.1307335,0
-51,Information,519100,Other information services OR Other information services,13.182725,8.9020605,0
-33,Manufacturing,339113,Surgical appliance and supplies manufacturing OR Surgical appliance and supplies manufacturing,12.014456,11.813987,0
-33,Manufacturing,333511,Industrial mold manufacturing OR Industrial mold manufacturing,11.540061,8.768453,0
-33,Manufacturing,334111,Electronic computer manufacturing OR Electronic computer manufacturing,13.446815,13.908672,0
-33,Manufacturing,335999,Miscellaneous electrical equipment manufacturing OR Miscellaneous electrical equipment manufacturing,13.062561,13.185904,0
-33,Manufacturing,334417,Electronic connector manufacturing OR Electronic connector manufacturing,11.446783,8.290695,0
-33,Manufacturing,333514,"Special tool, die, jig, and fixture manufacturing OR Special tool, die, jig, and fixture manufacturing",12.947362,10.887228,0
-33,Manufacturing,333319,Other commercial and service industry machinery manufacturing OR Other commercial and service industry machinery manufacturing,17.735254,19.222017,0
-33,Manufacturing,339994,"Broom, brush, and mop manufacturing OR Broom, brush, and mop manufacturing",13.958806,14.5979595,0
-31,Manufacturing,315900,Accessories and other apparel manufacturing OR Accessories and other apparel manufacturing,17.52563,27.147842,0
-33,Manufacturing,33351A,Metal cutting and forming machine tool manufacturing OR Metal cutting and forming machine tool manufacturing,14.28312,15.852494,0
-33,Manufacturing,333220,Plastics and rubber industry machinery OR Plastics and rubber industry machinery,14.344289,15.300579,0
-31,Manufacturing,314120,Curtain and linen mills OR Curtain and linen mills,18.0191,24.499613,0
-33,Manufacturing,33331A,"Vending, commerical, industrial, and office machinery manufacturing OR Vending, commerical, industrial, and office machinery manufacturing",16.424326,18.912899,0
-31,Manufacturing,312130,Wineries OR Wineries,14.259595,22.732634,0
-33,Manufacturing,333112,Lawn and garden equipment manufacturing OR Lawn and garden equipment manufacturing,15.323612,18.997364,0
-31,Manufacturing,315230,Women's and girls' cut and sew apparel manufacturing OR Women's and girls' cut and sew apparel manufacturing,16.057285,24.47672,0
-33,Manufacturing,337920,Blind and shade manufacturing OR Blind and shade manufacturing,8.245041,14.399841,0
-33,Manufacturing,334300,Audio and video equipment manufacturing OR Audio and video equipment manufacturing,11.771205,7.711256,0
-33,Manufacturing,334511,"Search, detection, and navigation instruments OR Search, detection, and navigation instruments",13.312432,14.760883,0
-31,Manufacturing,311520,Ice cream and frozen dessert manufacturing OR Ice cream and frozen dessert manufacturing,12.162211,14.850736,0
-33,Manufacturing,334514,Totalizing fluid meters and counting devices OR Totalizing fluid meters and counting devices,13.642029,15.614614,0
-33,Manufacturing,333912,Air and gas compressor manufacturing OR Air and gas compressor manufacturing,16.182245,20.085253,0
-51,Information,511130,Book publishers OR Book publishers,17.245998,19.774921,0
-31,Manufacturing,311320,Confectionery manufacturing from cacao beans OR Confectionery manufacturing from cacao beans,16.708733,22.404408,0
-33,Manufacturing,334512,Automatic environmental control manufacturing OR Automatic environmental control manufacturing,12.982957,15.237474,0
-32,Manufacturing,325413,In-vitro diagnostic substance manufacturing OR In-vitro diagnostic substance manufacturing,8.447789,14.292197,0
-33,Manufacturing,334112,Computer storage device manufacturing OR Computer storage device manufacturing,9.506043,3.669074,0
-33,Manufacturing,33641A,Other guided missile and space vehicle parts and auxiliary equipment manufacturing OR Other guided missile and space vehicle parts and auxiliary equipment manufacturing,15.4864235,18.21597,0
-33,Manufacturing,335221,Household cooking appliance manufacturing OR Household cooking appliance manufacturing,18.673447,25.928616,0
-51,Information,512200,Sound recording industries OR Sound recording industries,13.957793,17.314762,0
-52,Finance and Insurance,524100,Insurance carriers OR Insurance carriers,7.783897,0.9191302,0
-33,Manufacturing,334220,Broadcast and wireless communications equipment OR Broadcast and wireless communications equipment,13.091153,15.926555,0
-21,"Mining, Quarrying, and Oil and Gas Extraction",213111,Drilling oil and gas wells OR Drilling oil and gas wells,23.32967,34.77116,0
-33,Manufacturing,336991,"Motorcycle, bicycle, and parts manufacturing OR Motorcycle, bicycle, and parts manufacturing",17.484894,24.324574,0
-33,Manufacturing,336214,Travel trailer and camper manufacturing OR Travel trailer and camper manufacturing,17.75561,25.419695,0
-33,Manufacturing,337127,Institutional furniture manufacturing OR Institutional furniture manufacturing,15.731183,23.802563,0
-33,Manufacturing,334516,Analytical laboratory instrument manufacturing OR Analytical laboratory instrument manufacturing,17.179428,21.152552,0
-33,Manufacturing,333991,Power-driven handtool manufacturing OR Power-driven handtool manufacturing,14.778353,16.943787,0
-33,Manufacturing,336211,Motor vehicle body manufacturing OR Motor vehicle body manufacturing,17.358362,23.689932,0
-33,Manufacturing,333994,Industrial process furnace and oven manufacturing OR Industrial process furnace and oven manufacturing,19.011099,24.344587,0
-33,Manufacturing,335210,Small electrical appliance manufacturing OR Small electrical appliance manufacturing,18.611254,22.907614,0
-33,Manufacturing,33299B,Ordnance and accessories manufacturing OR Ordnance and accessories manufacturing,19.367964,25.187778,0
-32,Manufacturing,321992,Prefabricated wood building manufacturing OR Prefabricated wood building manufacturing,5.923862,14.05497,0
-33,Manufacturing,333295,Semiconductor machinery manufacturing OR Semiconductor machinery manufacturing,16.089367,18.29298,0
-31,Manufacturing,315100,Hosiery and sock mills OR Hosiery and sock mills,16.327394,19.602665,0
-33,Manufacturing,336999,All other transportation equipment manufacturing OR All other transportation equipment manufacturing,21.198475,26.150667,0
-31,Manufacturing,315220,Men's and boys' cut and sew apparel manufacturing OR Men's and boys' cut and sew apparel manufacturing,16.02292,22.539598,0
-31,Manufacturing,311330,Confectionery manufacturing from purchased chocolate OR Confectionery manufacturing from purchased chocolate,21.309652,27.051405,0
-33,Manufacturing,336411,Aircraft manufacturing OR Aircraft manufacturing,16.713266,23.736887,0
-33,Manufacturing,339920,Sporting and athletic goods manufacturing OR Sporting and athletic goods manufacturing,20.533903,27.299623,0
-33,Manufacturing,33451A,"Watch, clock, and other measuring and controlling device manufacturing OR Watch, clock, and other measuring and controlling device manufacturing",17.745129,21.104128,0
-33,Manufacturing,337212,Custom architectural woodwork and millwork OR Custom architectural woodwork and millwork,25.084919,27.636705,0
-33,Manufacturing,33299A,Ammunition manufacturing OR Ammunition manufacturing,20.742575,29.587337,0
-33,Manufacturing,335228,Other major household appliance manufacturing OR Other major household appliance manufacturing,21.297264,29.657322,0
-33,Manufacturing,339112,Surgical and medical instrument manufacturing OR Surgical and medical instrument manufacturing,18.05919,22.713787,0
-33,Manufacturing,33351B,Rolling mill and other metalworking machinery manufacturing OR Rolling mill and other metalworking machinery manufacturing,20.119398,27.838776,0
-33,Manufacturing,339910,Jewelry and silverware manufacturing OR Jewelry and silverware manufacturing,22.726019,28.939445,0
-71,"Arts, Entertainment, and Recreation",713A00,Amusement parks and arcades OR Amusement parks and arcades,22.592995,31.81784,0
-33,Manufacturing,334515,Electricity and signal testing instruments OR Electricity and signal testing instruments,17.032383,20.472792,0
-33,Manufacturing,336212,Truck trailer manufacturing OR Truck trailer manufacturing,21.613092,27.855682,0
-33,Manufacturing,339992,Musical instrument manufacturing OR Musical instrument manufacturing,21.599953,28.845377,0
-33,Manufacturing,336111,Automobile Manufacturing OR Automobile Manufacturing,22.738466,27.922815,0
-33,Manufacturing,333315,Photographic and photocopying equipment manufacturing OR Photographic and photocopying equipment manufacturing,19.819294,26.234186,0
-33,Manufacturing,335912,Primary battery manufacturing OR Primary battery manufacturing,19.545467,24.073782,0
-33,Manufacturing,336112,Light Truck and Utility Vehicle Manufacturing OR Light Truck and Utility Vehicle Manufacturing,23.529562,30.49808,0
-33,Manufacturing,333993,Packaging machinery manufacturing OR Packaging machinery manufacturing,20.858175,28.538994,0
-33,Manufacturing,336612,Boat building OR Boat building,23.679995,29.573925,0
-33,Manufacturing,339930,"Doll, toy, and game manufacturing OR Doll, toy, and game manufacturing",22.099722,29.924894,0
-31,Manufacturing,311830,Tortilla manufacturing OR Tortilla manufacturing,25.894129,31.577675,0
-33,Manufacturing,336414,Guided missile and space vehicle manufacturing OR Guided missile and space vehicle manufacturing,23.11788,28.563292,0
-33,Manufacturing,335222,Household refrigerator and home freezer manufacturing OR Household refrigerator and home freezer manufacturing,21.838947,30.573261,0
-52,Finance and Insurance,525000,"Funds, trusts, and other financial vehicles OR Funds, trusts, and other financial vehicles",19.484783,29.082224,0
-33,Manufacturing,339111,Laboratory apparatus and furniture manufacturing OR Laboratory apparatus and furniture manufacturing,25.089405,31.355108,0
-62,Health Care and Social Assistance,621B00,Healthcare and social assistance OR Healthcare and social assistance,23.531721,32.435738,0
-33,Manufacturing,337910,Mattress manufacturing OR Mattress manufacturing,25.405874,28.967073,0
-81,Other Services (except Public Administration),813A00,"Grantmaking, giving and social advocacy organizations OR Grantmaking, giving and social advocacy organizations",24.56212,33.887676,0
-33,Manufacturing,33721A,Office furniture manufacturing OR Office furniture manufacturing,12.308572,8.007009,0
-33,Manufacturing,333314,Optical instrument and lens manufacturing OR Optical instrument and lens manufacturing,20.133158,28.87253,0
-33,Manufacturing,337122,Nonupholstered wood household furniture manufacturing OR Nonupholstered wood household furniture manufacturing,24.271917,30.232342,0
-33,Manufacturing,335224,Household laundry equipment manufacturing OR Household laundry equipment manufacturing,25.09016,32.162064,0
-31,Manufacturing,315290,Other cut and sew apparel manufacturing OR Other cut and sew apparel manufacturing,22.815958,29.71241,0
-62,Health Care and Social Assistance,624A00,Individual and family services OR Individual and family services,25.365152,34.19037,0
-62,Health Care and Social Assistance,624400,Child day care services OR Child day care services,24.38859,33.09456,0
-33,Manufacturing,337121,Upholstered household furniture manufacturing OR Upholstered household furniture manufacturing,25.380913,30.087044,0
-32,Manufacturing,321991,"Manufactured home, mobile home, manufacturing OR Manufactured home, mobile home, manufacturing",25.32866,26.857437,0
-62,Health Care and Social Assistance,623000,Nursing and residential care facilities OR Nursing and residential care facilities,25.301605,33.366734,0
-71,"Arts, Entertainment, and Recreation",713950,Bowling centers OR Bowling centers,23.512497,31.802944,0
-33,Manufacturing,339115,Ophthalmic goods manufacturing OR Ophthalmic goods manufacturing,22.710445,30.910254,0
-33,Manufacturing,334517,Irradiation apparatus manufacturing OR Irradiation apparatus manufacturing,24.065014,31.665468,0
-33,Manufacturing,336213,Motor home manufacturing OR Motor home manufacturing,26.641382,31.727612,0
-53,Real Estate and Rental and Leasing,532230,Video tape and disc rental OR Video tape and disc rental,24.795586,32.660126,0
-33,Manufacturing,334510,Electromedical apparatus manufacturing OR Electromedical apparatus manufacturing,26.01184,32.410976,0
-31,Manufacturing,3122A0,Tobacco product manufacturing OR Tobacco product manufacturing,27.30624,32.424355,0
-62,Health Care and Social Assistance,622000,Hospitals OR Hospitals,25.613699,32.845802,0
-62,Health Care and Social Assistance,621A00,"Offices of physicians, dentists, and other health practitioners OR Offices of physicians, dentists, and other health practitioners",26.010601,33.59803,0
-33,Manufacturing,336992,Military armored vehicles and tank parts manufacturing OR Military armored vehicles and tank parts manufacturing,26.611353,32.73609,0
-31,Manufacturing,316200,Footwear manufacturing OR Footwear manufacturing,25.959015,34.511566,0
-33,Manufacturing,339114,Dental equipment and supplies manufacturing OR Dental equipment and supplies manufacturing,26.559988,33.389698,0
-62,Health Care and Social Assistance,624200,"Community food, housing, and other relief services, incl rehabilitation services OR Community food, housing, and other relief services, incl rehabilitation services",27.19255,33.884403,0
-33,Manufacturing,339116,Dental laboratories OR Dental laboratories,27.416285,33.167023,0
-81,Other Services (except Public Administration),812100,Personal care services OR Personal care services,26.623152,34.332058,0
+11,"Agriculture, Forestry, Fishing and Hunting",1111B0,Grain farming OR Grain farming,11.396411739766835,-7.356783722182038,-1
+22,Utilities,221100,Power generation and supply OR Power generation and supply,8.705402648347485,-2.46601652868077,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1121A0,Cattle ranching and farming OR Cattle ranching and farming,3.587376311320716,-2.5078468887010996,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1111A0,Oilseed farming OR Oilseed farming,3.3540358448124525,-2.202486221834019,-1
+31,Manufacturing,311111,Dog and cat food manufacturing OR Dog and cat food manufacturing,11.397023250351578,5.5715311796343165,-1
+32,Manufacturing,325310,Fertilizer Manufacturing OR Fertilizer Manufacturing,1.6332253984220235,0.042885910038523566,-1
+21,"Mining, Quarrying, and Oil and Gas Extraction",211000,Oil and gas extraction OR Oil and gas extraction,1.3380231234851454,-0.15254543997456746,-1
+48,Transportation and Warehousing,484000,Truck transportation OR Truck transportation,3.5487411891311993,-3.3951780462136973,-1
+11,"Agriculture, Forestry, Fishing and Hunting",112A00,"Animal production, except cattle and poultry and eggs OR Animal production, except cattle and poultry and eggs",0.7080348184175028,-0.5430692977167839,0
+31,Manufacturing,311221,Wet corn milling OR Wet corn milling,1.7195370560191319,0.8748072421407455,-1
+33,Manufacturing,331110,Iron and steel mills OR Iron and steel mills,0.9289264707847701,-0.04548280171946443,-1
+32,Manufacturing,324110,Petroleum refineries OR Petroleum refineries,2.321576250850875,-0.5704716893198473,-1
+48,Transportation and Warehousing,482000,Rail transportation OR Rail transportation,1.847012211615274,-1.8516495703832014,-1
+11,"Agriculture, Forestry, Fishing and Hunting",1119B0,All other crop farming OR All other crop farming,0.31789062361732906,-0.34570978078616277,0
+32,Manufacturing,325190,Other basic organic chemical manufacturing OR Other basic organic chemical manufacturing,2.387803041505468,3.7643883878263034,-1
+21,"Mining, Quarrying, and Oil and Gas Extraction",212100,Coal mining OR Coal mining,0.08559320600334364,-0.1604362871988174,0
+48,Transportation and Warehousing,486000,Pipeline transportation OR Pipeline transportation,0.5896724953227567,0.11659418526707428,-1
+31,Manufacturing,31122A,Soybean and other oilseed processing OR Soybean and other oilseed processing,1.1588039837887572,0.46564390378892406,-1
+33,Manufacturing,33131A,Alumina refining and primary aluminum production OR Alumina refining and primary aluminum production,1.2865266639184592,0.46235052906110324,-1
+32,Manufacturing,322120,Paper mills OR Paper mills,3.8376997275051408,7.502686457249459,-1
+56,Administrative and Support and Waste Management and Remediation Services,562000,Waste management and remediation services OR Waste management and remediation services,-0.08638124778226308,-0.11680900082822492,0
+32,Manufacturing,322130,Paperboard Mills OR Paperboard Mills,3.695504967128734,7.879914378650186,-1
+22,Utilities,221200,Natural gas distribution OR Natural gas distribution,-0.08474728000342141,-0.0807576825191225,0
+48,Transportation and Warehousing,483000,Water transportation OR Water transportation,0.396813257306015,-0.5846344612218638,0
+32,Manufacturing,325211,Plastics material and resin manufacturing OR Plastics material and resin manufacturing,0.6476467384257981,0.5167734274067789,-1
+31,Manufacturing,311313,Beet sugar manufacturing OR Beet sugar manufacturing,0.6654777016428677,1.462742635161844,-1
+48,Transportation and Warehousing,481000,Air transportation OR Air transportation,0.2738962893175534,-0.4759305586808382,0
+31,Manufacturing,31161A,Animal (except poultry) slaughtering and processing OR Animal (except poultry) slaughtering and processing,0.5691534476446131,0.38825111489668923,-1
+11,"Agriculture, Forestry, Fishing and Hunting",111920,Cotton farming OR Cotton farming,-0.012773618238970991,-0.13443594846950427,0
+32,Manufacturing,325110,Petrochemical manufacturing OR Petrochemical manufacturing,0.4003903525852983,0.40758678741244364,0
+49,Transportation and Warehousing,492000,Couriers and messengers OR Couriers and messengers,0.2097763761072615,-0.4056717599628115,0
+32,Manufacturing,325188,All other basic inorganic chemical manufacturing OR All other basic inorganic chemical manufacturing,0.4851507668947052,0.4590111352097378,0
+42,Wholesale Trade,420000,Wholesale trade OR Wholesale trade,0.44061116482294727,-0.2703201328770711,0
+11,"Agriculture, Forestry, Fishing and Hunting",114100,Fishing OR Fishing,0.12326771819469869,-0.33917090442430387,0
+11,"Agriculture, Forestry, Fishing and Hunting",1119A0,Sugarcane and sugar beet farming OR Sugarcane and sugar beet farming,-0.09114878176882997,-0.10259899587214494,0
+33,Manufacturing,332430,"Metal can, box, and other container manufacturing OR Metal can, box, and other container manufacturing",0.5353804090373824,0.19871162747991014,-1
+23,Construction,230301,Nonresidential maintenance and repair OR Nonresidential maintenance and repair,0.08981464120664413,-0.27204462323368217,0
+32,Manufacturing,325120,Industrial gas manufacturing OR Industrial gas manufacturing,-0.02220771533173795,0.1478265476522711,0
+33,Manufacturing,33131B,Aluminum product manufacturing from purchased aluminum OR Aluminum product manufacturing from purchased aluminum,0.1833531562870866,0.5191792817530717,0
+11,"Agriculture, Forestry, Fishing and Hunting",112120,Milk Production OR Milk Production,-0.15776220703903396,-0.05792936040564341,0
+31,Manufacturing,311225,Fats and oils refining and blending OR Fats and oils refining and blending,0.02541421604980147,0.06698916526591998,0
+0,,S00203,Other state and local government enterprises OR Other state and local government enterprises,-0.07056852870987422,-0.09512608709871258,0
+55,Management of Companies and Enterprises,550000,Management of companies and enterprises OR Management of companies and enterprises,0.17016785398687073,-0.0014595741603975394,0
+32,Manufacturing,325411,Medicinal and botanical manufacturing OR Medicinal and botanical manufacturing,0.0684751325872489,0.18696680911368896,0
+22,Utilities,221300,"Water, sewage and other systems OR Water, sewage and other systems",-0.10806679280960632,-0.019494377390383448,0
+32,Manufacturing,327310,Cement manufacturing OR Cement manufacturing,-0.15937836419631404,-0.0160889502733377,0
+32,Manufacturing,32222B,All other paper bag and coated and treated paper manufacturing OR All other paper bag and coated and treated paper manufacturing,0.1336960717600193,0.22947726752694825,0
+31,Manufacturing,311210,Flour milling and malt manufacturing OR Flour milling and malt manufacturing,0.05152778174950943,0.07213855423487822,0
+31,Manufacturing,311119,Other animal food manufacturing OR Other animal food manufacturing,-0.029239677745435653,0.05731808313539159,0
+32,Manufacturing,326110,"Plastics packaging materials, film and sheet OR Plastics packaging materials, film and sheet",0.11362487927702614,0.08044993993086208,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",212390,Other nonmetallic mineral mining OR Other nonmetallic mineral mining,-0.050505816694764574,-0.048102600848503464,0
+0,,S00201,State and local government passenger transit OR State and local government passenger transit,-0.10947582474354714,-0.12501696850493393,0
+32,Manufacturing,325181,Alkalies and chlorine manufacturing OR Alkalies and chlorine manufacturing,-0.039403701193135014,0.11129855029924256,0
+32,Manufacturing,3274A0,Lime and gypsum product manufacturing OR Lime and gypsum product manufacturing,-0.17527235344047662,-0.03633437664165366,0
+32,Manufacturing,322210,Paperboard container manufacturing OR Paperboard container manufacturing,-0.010748840297672422,0.0994768973859405,0
+32,Manufacturing,322110,Pulp mills OR Pulp mills,0.9468021065776429,2.500161522221079,-1
+31,Manufacturing,311700,Seafood product preparation and packaging OR Seafood product preparation and packaging,-0.09634069818759439,0.018322374626002204,0
+48,Transportation and Warehousing,48A000,Scenic and sightseeing transportation and support activities for transportation OR Scenic and sightseeing transportation and support activities for transportation,-0.13097909836047616,-0.06627328515956613,0
+33,Manufacturing,331419,Primary smelting and refining of nonferrous metal (except copper and aluminum) OR Primary smelting and refining of nonferrous metal (except copper and aluminum),-0.1783062307560848,-0.02696488199262546,0
+53,Real Estate and Rental and Leasing,531000,Real estate OR Real estate,0.299953817807425,0.10998113590395589,-1
+33,Manufacturing,331314,Secondary smelting and alloying of aluminum OR Secondary smelting and alloying of aluminum,-0.08088258754080187,0.10093205052179476,0
+31,Manufacturing,31131A,Sugar cane mills and refining OR Sugar cane mills and refining,-0.05327829767696079,0.2809093081063899,0
+11,"Agriculture, Forestry, Fishing and Hunting",115000,Agriculture and forestry support activities OR Agriculture and forestry support activities,-0.11600499345808583,-0.07150175276133965,0
+32,Manufacturing,325130,Synthetic dye and pigment manufacturing OR Synthetic dye and pigment manufacturing,-0.17225936759534424,-0.021706977813525655,0
+32,Manufacturing,325320,Pesticide and other agricultural chemical manufacturing OR Pesticide and other agricultural chemical manufacturing,-0.1000045297157583,0.08010690139671833,0
+0,,S00700,General state and local government services OR General state and local government services,-0.16458773817289152,-0.06462133640775437,0
+54,"Professional, Scientific, and Technical Services",541700,Scientific research and development services OR Scientific research and development services,-0.16046806339441463,-0.04488579950413115,0
+56,Administrative and Support and Waste Management and Remediation Services,561700,Services to buildings and dwellings OR Services to buildings and dwellings,-0.1595429039444299,-0.06789307160391299,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",212310,Stone mining and quarrying OR Stone mining and quarrying,-0.15491751660549177,-0.05339251446801834,0
+51,Information,517000,Telecommunications OR Telecommunications,-0.16168661027641007,-0.035971873486965754,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",212210,Iron ore mining OR Iron ore mining,-0.1274244572058407,-0.018794469146371527,0
+32,Manufacturing,324199,All other petroleum and coal products manufacturing OR All other petroleum and coal products manufacturing,-0.1847373679042932,-0.03206962990113021,0
+11,"Agriculture, Forestry, Fishing and Hunting",112300,Poultry and egg production OR Poultry and egg production,-0.18443326595485268,-0.04385932134167681,0
+33,Manufacturing,332800,"Coating, engraving, heat treating and allied activities OR Coating, engraving, heat treating and allied activities",-0.15885385804659585,-0.02073374329285279,0
+49,Transportation and Warehousing,491000,Postal service OR Postal service,-0.16910729707641967,-0.049025434565235324,0
+33,Manufacturing,334413,Semiconductor and related device manufacturing OR Semiconductor and related device manufacturing,-0.17614207927399064,-0.021016213801240195,0
+32,Manufacturing,3259A0,All other chemical product and preparation manufacturing OR All other chemical product and preparation manufacturing,-0.16156953236563687,0.006910379471157661,0
+49,Transportation and Warehousing,493000,Warehousing and storage OR Warehousing and storage,-0.1337627400377076,-0.03488275743406299,0
+72,Accommodation and Food Services,722000,Food services and drinking places OR Food services and drinking places,-0.13865656003640867,-0.02680935851458833,0
+32,Manufacturing,325182,Carbon black manufacturing OR Carbon black manufacturing,-0.18281863534717704,-0.051140599423224985,0
+54,"Professional, Scientific, and Technical Services",541300,Architectural and engineering services OR Architectural and engineering services,-0.17894631134216854,-0.048510911095531885,0
+32,Manufacturing,32222A,"Coated and laminated paper, packaging materials, and plastic films manufacturing OR Coated and laminated paper, packaging materials, and plastic films manufacturing",-0.16141065466479249,0.002494396787691303,0
+32,Manufacturing,327213,Glass container manufacturing OR Glass container manufacturing,-0.17785831298658375,-0.017215938565940246,0
+32,Manufacturing,322299,All other converted paper product manufacturing OR All other converted paper product manufacturing,-0.1561351385043811,0.004826133149633288,0
+53,Real Estate and Rental and Leasing,533000,Lessors of nonfinancial intangible assets OR Lessors of nonfinancial intangible assets,-0.1310212505391999,-0.015230053383668986,0
+72,Accommodation and Food Services,7211A0,"Hotels and motels, including casino hotels OR Hotels and motels, including casino hotels",-0.13894083214911623,-0.022602981288514984,0
+33,Manufacturing,331200,"Iron, steel pipe and tube manufacturing from purchased steel OR Iron, steel pipe and tube manufacturing from purchased steel",-0.16414797077257035,-0.00938602055341468,0
+61,Educational Services,611A00,"Colleges, universities, and junior colleges OR Colleges, universities, and junior colleges",-0.18072561351170457,-0.022406300417535184,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",2122A0,"Gold, silver, and other metal ore mining OR Gold, silver, and other metal ore mining",-0.183982273922861,-0.034645554488296836,0
+33,Manufacturing,331510,Ferrous metal foundaries OR Ferrous metal foundaries,-0.18046826503086164,-0.023346818678228468,0
+11,"Agriculture, Forestry, Fishing and Hunting",113300,Logging OR Logging,-0.19575512659346644,-0.046958985209332775,0
+32,Manufacturing,327992,Ground or treated minerals and earths manufacturing OR Ground or treated minerals and earths manufacturing,-0.196322898505028,-0.029349277272593476,0
+31,Manufacturing,312120,Breweries OR Breweries,-0.185878752470298,-0.013854567649212448,0
+32,Manufacturing,325520,Adhesive manufacturing OR Adhesive manufacturing,-0.18655018036769372,-0.01941150728619512,0
+32,Manufacturing,32619A,Other plastics product manufacturing OR Other plastics product manufacturing,-0.15733568856685995,-0.014462427556888834,0
+52,Finance and Insurance,52A000,Monetary authorities and depository credit intermediation OR Monetary authorities and depository credit intermediation,-0.194132414341484,-0.04022886131572287,0
+33,Manufacturing,331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying OR Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",-0.18883301549389298,-0.017754231069385853,0
+31,Manufacturing,311420,"Fruit and vegetable canning, pickling and drying OR Fruit and vegetable canning, pickling and drying",-0.1939202095829844,-0.02291635319142455,0
+32,Manufacturing,323110,Printing OR Printing,-0.1669585809506293,-0.015492675321023386,0
+11,"Agriculture, Forestry, Fishing and Hunting",111400,Greenhouse and nursery production OR Greenhouse and nursery production,-0.19977617824697674,-0.03534996202451958,0
+32,Manufacturing,325212,Synthetic rubber manufacturing OR Synthetic rubber manufacturing,-0.18160614942550643,0.01324007955784783,0
+53,Real Estate and Rental and Leasing,532400,Commercial and industrial machinery and equipment rental and leasing OR Commercial and industrial machinery and equipment rental and leasing,-0.19492397170844347,-0.03461246787539814,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",212320,"Sand, gravel, clay, and refractory mining OR Sand, gravel, clay, and refractory mining",-0.19772980239313342,-0.03565109490078119,0
+11,"Agriculture, Forestry, Fishing and Hunting",1113A0,Fruit farming OR Fruit farming,-0.20271151857531344,-0.034791442015153544,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",212230,"Copper, nickel, lead, and zinc mining OR Copper, nickel, lead, and zinc mining",-0.17764639344666514,-0.03561318514968101,0
+32,Manufacturing,325910,Printing ink manufacturing OR Printing ink manufacturing,-0.19178950868365888,-0.02013715024566442,0
+32,Manufacturing,326210,Tire manufacturing OR Tire manufacturing,-0.1908731280046197,-0.02390026830742028,0
+81,Other Services (except Public Administration),813B00,"Civic, social, professional and similar organizations OR Civic, social, professional and similar organizations",-0.1894475067490525,-0.031066882407743204,0
+32,Manufacturing,325220,Artificial and synthetic fibers and filaments manufacturing OR Artificial and synthetic fibers and filaments manufacturing,-0.19771815835479467,-0.024693989784869867,0
+33,Manufacturing,33299C,Other fabricated metal manufacturing OR Other fabricated metal manufacturing,-0.19436071959894685,-0.026562170307668664,0
+32,Manufacturing,325610,Soap and cleaning compound manufacturing OR Soap and cleaning compound manufacturing,-0.1942212402366243,-0.01145286860544617,0
+33,Manufacturing,336300,Motor vehicle parts manufacturing OR Motor vehicle parts manufacturing,-0.1752321223433152,-0.011402575454165748,0
+33,Manufacturing,331411,Primary smelting and refining of copper OR Primary smelting and refining of copper,-0.19702729870491345,-0.023872323856661454,0
+52,Finance and Insurance,522A00,Nondepository credit intermediation and related activities OR Nondepository credit intermediation and related activities,-0.1910590378221316,-0.03334940963064988,0
+51,Information,515100,Radio and television broadcasting OR Radio and television broadcasting,-0.20041529734261596,-0.03266400392380954,0
+11,"Agriculture, Forestry, Fishing and Hunting",111910,Tobacco farming OR Tobacco farming,-0.2075911754955597,-0.03450626671745933,0
+32,Manufacturing,321100,Sawmills and wood preservation OR Sawmills and wood preservation,-0.04781636545885413,0.30428233254907167,0
+33,Manufacturing,331520,Nonferrous foundries OR Nonferrous foundries,-0.20266015567631165,-0.029035658048101785,0
+11,"Agriculture, Forestry, Fishing and Hunting",111200,Vegetable and melon farming OR Vegetable and melon farming,-0.20657191386871132,-0.03408951540537418,0
+32,Manufacturing,324191,Petroleum lubricating oil and grease manufacturing OR Petroleum lubricating oil and grease manufacturing,-0.20299096933106378,-0.0339251933267205,0
+32,Manufacturing,327212,Other pressed and blown glass and glassware manufacturing OR Other pressed and blown glass and glassware manufacturing,-0.20435150368309343,-0.03025213075346469,0
+33,Manufacturing,331420,"Copper rolling, drawing, extruding and alloying OR Copper rolling, drawing, extruding and alloying",-0.19701659963529158,-0.019974829556528923,0
+31,Manufacturing,311514,"Dry, condensed, and evaporated dairy products OR Dry, condensed, and evaporated dairy products",-0.2014813186553565,-0.0258860929909018,0
+32,Manufacturing,325414,Biological product (except diagnostic) Manufacturing OR Biological product (except diagnostic) Manufacturing,-0.18723793234353558,-0.005359171013573632,0
+56,Administrative and Support and Waste Management and Remediation Services,561500,Travel arrangement and reservation services OR Travel arrangement and reservation services,-0.2048295089172144,-0.033808875030962415,0
+81,Other Services (except Public Administration),8111A0,"Automotive repair and maintenance, except car washes OR Automotive repair and maintenance, except car washes",-0.19431599755405346,-0.030211851835402016,0
+23,Construction,230302,Residential maintenance and repair OR Residential maintenance and repair,-0.20531909841413354,-0.03775285922816858,0
+32,Manufacturing,325412,Pharmaceutical preparation manufacturing OR Pharmaceutical preparation manufacturing,-0.2004210091058446,-0.024243456145078654,0
+31,Manufacturing,311615,Poultry processing OR Poultry processing,-0.1945222856886336,-0.02154904320327271,0
+33,Manufacturing,332320,Ornamental and architectural metail products manufacturing OR Ornamental and architectural metail products manufacturing,-0.19770596556978845,-0.025848563991814573,0
+56,Administrative and Support and Waste Management and Remediation Services,561300,Employment services OR Employment services,-0.19589703639086367,-0.03341495193595086,0
+32,Manufacturing,327211,Flat glass manufacturing OR Flat glass manufacturing,-0.2047337498786614,-0.02705134883979443,0
+33,Manufacturing,335991,Carbon and graphite product manufacturing OR Carbon and graphite product manufacturing,-0.20078678176977557,-0.027859963160837404,0
+33,Manufacturing,332710,Machine shops OR Machine shops,-0.19257183557467386,-0.02552513593397143,0
+31,Manufacturing,312140,Distilleries OR Distilleries,-0.1983804655683648,-0.012407159967121214,0
+81,Other Services (except Public Administration),811300,Commercial machinery repair and maintenance OR Commercial machinery repair and maintenance,-0.19866042282840912,-0.0317787206724738,0
+32,Manufacturing,322291,Sanitary paper product manufacturing OR Sanitary paper product manufacturing,-0.19428257944492952,-0.018334810146009226,0
+31,Manufacturing,313310,Textile and fabric finishing mills OR Textile and fabric finishing mills,-0.20559558380268406,-0.02644932698402571,0
+31,Manufacturing,313230,Nonwoven fabric mills OR Nonwoven fabric mills,-0.19551600406223296,-0.020109176699227176,0
+32,Manufacturing,32712A,"Brick, tile, and other structural clay product manufacturing OR Brick, tile, and other structural clay product manufacturing",-0.20871100842232387,-0.0311336880351977,0
+48,Transportation and Warehousing,485000,Transit and ground passenger transportation OR Transit and ground passenger transportation,-0.1649118028031709,-0.055851444432415354,0
+54,"Professional, Scientific, and Technical Services",541100,Legal services OR Legal services,-0.20013351509556074,-0.03211016730453466,0
+54,"Professional, Scientific, and Technical Services",541200,Accounting and bookkeeping services OR Accounting and bookkeeping services,-0.19823715324157692,-0.03114069318907577,0
+32,Manufacturing,325510,Paint and coating manufacturing OR Paint and coating manufacturing,-0.19440044896779032,-0.006330114695368193,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",213112,Support activities for oil and gas operations OR Support activities for oil and gas operations,-0.20734914434505722,-0.036127589060058266,0
+4,,4A0000,Retail trade OR Retail trade,-0.19202631144111654,-0.029269719294883347,0
+32,Manufacturing,326140,Polystyrene Foam Product Manufacturing OR Polystyrene Foam Product Manufacturing,-0.20526692521550594,-0.028749955287846914,0
+11,"Agriculture, Forestry, Fishing and Hunting",113A00,"Forest nurseries, forest products, and timber tracts OR Forest nurseries, forest products, and timber tracts",-0.20814245880615567,-0.03531810278850954,0
+54,"Professional, Scientific, and Technical Services",541610,Management consulting services OR Management consulting services,-0.20224962051423687,-0.03308357126163962,0
+54,"Professional, Scientific, and Technical Services",5419A0,All other miscellaneous professional and technical services OR All other miscellaneous professional and technical services,-0.2018903774012076,-0.030977983529164154,0
+31,Manufacturing,311940,Seasoning and dressing manufacturing OR Seasoning and dressing manufacturing,-0.2020644439494081,-0.02320344107248911,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",21311A,Support activities for other mining OR Support activities for other mining,-0.20821019038929453,-0.035239201930574914,0
+54,"Professional, Scientific, and Technical Services",541800,Advertising and related services OR Advertising and related services,-0.1976433431787242,-0.030251244496053445,0
+32,Manufacturing,32712B,Clay and non-clay refractory manufacturing OR Clay and non-clay refractory manufacturing,-0.20892847627636518,-0.03054086289217932,0
+33,Manufacturing,332600,Spring and wire product manufacturing OR Spring and wire product manufacturing,-0.20441716634428359,-0.02837747695846699,0
+56,Administrative and Support and Waste Management and Remediation Services,561400,Business support services OR Business support services,-0.20211620645092368,-0.031662357825228735,0
+32,Manufacturing,327910,Abrasive product manufacturing OR Abrasive product manufacturing,-0.20817544146364403,-0.02957417996894265,0
+56,Administrative and Support and Waste Management and Remediation Services,561900,Other support services OR Other support services,-0.2026340319821557,-0.03073679744463679,0
+32,Manufacturing,324121,Asphalt paving mixture and block manufacturing OR Asphalt paving mixture and block manufacturing,-0.20925137938980556,-0.030916589871385246,0
+52,Finance and Insurance,523000,"Securities, commodity contracts, investments OR Securities, commodity contracts, investments",-0.20070347075269657,-0.03148261384901258,0
+33,Manufacturing,33211A,"All other forging, stamping , and sintering OR All other forging, stamping , and sintering",-0.20756379351780102,-0.029511392505309254,0
+33,Manufacturing,333111,Farm machinery and equipment manufacturing OR Farm machinery and equipment manufacturing,-0.20601053105103032,-0.028284846084800995,0
+31,Manufacturing,311990,All other food manufacturing OR All other food manufacturing,-0.20777637662804685,-0.02853756722802355,0
+31,Manufacturing,314990,All other miscellaneous textile product mills OR All other miscellaneous textile product mills,-0.20683445895355712,-0.02952158922779953,0
+32,Manufacturing,326121,Unlaminated plastics profile shape manufacturing OR Unlaminated plastics profile shape manufacturing,-0.20186184367812549,-0.027004660732725,0
+51,Information,515200,Cable and other subscription programming OR Cable and other subscription programming,-0.2094035757272088,-0.03179064101060996,0
+32,Manufacturing,321920,Wood container and pallet manufacturing OR Wood container and pallet manufacturing,-0.19973547612740922,-0.007418694926024633,0
+33,Manufacturing,33211B,"Crown, closure and metal stamping manufacturing OR Crown, closure and metal stamping manufacturing",-0.20676743268570055,-0.029071897868698467,0
+33,Manufacturing,332720,"Turned product and screw, nut, and bolt manufacturing OR Turned product and screw, nut, and bolt manufacturing",-0.20457906270918438,-0.028324010696904354,0
+31,Manufacturing,313320,Fabric coating mills OR Fabric coating mills,-0.20877475108527555,-0.027308228031642314,0
+33,Manufacturing,332114,Custom roll forming OR Custom roll forming,-0.2088491425748256,-0.02975327454596289,0
+33,Manufacturing,332310,Plate work and fabricated structural product manufacturing OR Plate work and fabricated structural product manufacturing,-0.20734853320541619,-0.02913919413473061,0
+33,Manufacturing,335911,Storage battery manufacturing OR Storage battery manufacturing,-0.20479657218506747,-0.02865829224150501,0
+32,Manufacturing,32711A,"Pottery, ceramics, and plumbing fixture manufacturing OR Pottery, ceramics, and plumbing fixture manufacturing",-0.21078488115705063,-0.030771535874679977,0
+31,Manufacturing,311410,Frozen food manufacturing OR Frozen food manufacturing,-0.20845319852102814,-0.02899734537727032,0
+33,Manufacturing,33221B,Handtool manufacturing OR Handtool manufacturing,-0.20658300386099906,-0.028971784461690082,0
+32,Manufacturing,326290,Other rubber product manufacturing OR Other rubber product manufacturing,-0.20795859305727696,-0.029229988468213904,0
+56,Administrative and Support and Waste Management and Remediation Services,561100,Office administrative services OR Office administrative services,-0.20771953248432706,-0.03128920667072544,0
+32,Manufacturing,327320,Ready-mix concrete manufacturing OR Ready-mix concrete manufacturing,-0.21101871164050157,-0.03027503516662554,0
+32,Manufacturing,326130,"Laminated plastics plate, sheet, and shapes OR Laminated plastics plate, sheet, and shapes",-0.21020358339906467,-0.030167398942538042,0
+32,Manufacturing,321999,Miscellaneous wood product manufacturing OR Miscellaneous wood product manufacturing,-0.1913775219280028,0.0051115003035298685,0
+11,"Agriculture, Forestry, Fishing and Hunting",111335,Tree nut farming OR Tree nut farming,-0.21132827820502426,-0.03192337051479709,0
+81,Other Services (except Public Administration),811400,Household goods repair and maintenance OR Household goods repair and maintenance,-0.20818963921703015,-0.03119531316427103,0
+54,"Professional, Scientific, and Technical Services",541512,Computer systems design services OR Computer systems design services,-0.2086770520100379,-0.03271283346426505,0
+32,Manufacturing,327390,Other concrete product manufacturing OR Other concrete product manufacturing,-0.21071444960131727,-0.02996759392302293,0
+32,Manufacturing,325620,Toilet preparation manufacturing OR Toilet preparation manufacturing,-0.21105710841226238,-0.029005022119343093,0
+53,Real Estate and Rental and Leasing,532A00,General and consumer goods rental except video tapes and discs OR General and consumer goods rental except video tapes and discs,-0.2098689540219034,-0.031499357187655744,0
+81,Other Services (except Public Administration),811192,Car washes OR Car washes,-0.2098269308898971,-0.031454791780643455,0
+31,Manufacturing,313210,Broadwoven fabric mills OR Broadwoven fabric mills,-0.20648717744627515,-0.026779717394625115,0
+31,Manufacturing,313100,"Fiber, yarn, and thread mills OR Fiber, yarn, and thread mills",-0.19888214489446995,-0.02164531468608241,0
+33,Manufacturing,33291A,Valve and fittings other than plumbing OR Valve and fittings other than plumbing,-0.2063321622783758,-0.028766759152424257,0
+32,Manufacturing,321219,Reconstituted wood product manufacturing OR Reconstituted wood product manufacturing,-0.20158321619089192,-0.012287431237879677,0
+31,Manufacturing,31151A,Fluid milk and butter manufacturing OR Fluid milk and butter manufacturing,-0.20969156875333453,-0.029146873864110728,0
+53,Real Estate and Rental and Leasing,532100,Automotive equipment rental and leasing OR Automotive equipment rental and leasing,-0.2080326662631199,-0.031052529043682844,0
+51,Information,518200,"Data processing, hosting, and related services OR Data processing, hosting, and related services",-0.20618559291793795,-0.030837762786181475,0
+51,Information,511110,Newspaper publishers OR Newspaper publishers,-0.2035614634050152,-0.029223214821977324,0
+33,Manufacturing,332991,Ball and roller bearing manufacturing OR Ball and roller bearing manufacturing,-0.2075291252796988,-0.02932696104738857,0
+81,Other Services (except Public Administration),811200,Electronic equipment repair and maintenance OR Electronic equipment repair and maintenance,-0.20927499357011753,-0.031004300668892704,0
+33,Manufacturing,33712A,Metal and other household nonupholsetered furniture OR Metal and other household nonupholsetered furniture,-0.20844185432226534,-0.026484067046444838,0
+71,"Arts, Entertainment, and Recreation",713B00,"Other amusement, gambling, and recreation industries OR Other amusement, gambling, and recreation industries",-0.2083457249981296,-0.030849065744092203,0
+32,Manufacturing,327215,Glass Product Manufacturing Made of Purchased Glass OR Glass Product Manufacturing Made of Purchased Glass,-0.21008274977499639,-0.029815553295966798,0
+54,"Professional, Scientific, and Technical Services",54151A,"Other computer related services, including facilities management OR Other computer related services, including facilities management",-0.20992600658611899,-0.03215915996309093,0
+52,Finance and Insurance,524200,"Insurance agencies, brokerages, and related OR Insurance agencies, brokerages, and related",-0.20949790189479542,-0.03122915389484101,0
+32,Manufacturing,324122,Asphalt shingle and coating materials manufacturing OR Asphalt shingle and coating materials manufacturing,-0.2111914387409948,-0.03102153334586437,0
+31,Manufacturing,311340,Nonchocolate confectionery manufacturing OR Nonchocolate confectionery manufacturing,-0.21044968644919843,-0.02954663042541794,0
+33,Manufacturing,333920,Material handling equipment manufacturing OR Material handling equipment manufacturing,-0.21055607905026524,-0.030078127718740494,0
+31,Manufacturing,311513,Cheese manufacturing OR Cheese manufacturing,-0.21090825540781755,-0.029824008492092078,0
+32,Manufacturing,327993,Mineral wool manufacturing OR Mineral wool manufacturing,-0.21136554741831337,-0.030613463954245912,0
+33,Manufacturing,336500,Railroad rolling stock manufacturing OR Railroad rolling stock manufacturing,-0.2100897334392947,-0.028903318719148224,0
+56,Administrative and Support and Waste Management and Remediation Services,561600,Investigation and security services OR Investigation and security services,-0.2096243210358454,-0.031436415284795835,0
+31,Manufacturing,313240,Knit fabric mills OR Knit fabric mills,-0.21120436924896793,-0.029731328178362094,0
+71,"Arts, Entertainment, and Recreation",713940,Fitness and recreational sports centers OR Fitness and recreational sports centers,-0.20961974712807696,-0.030946945979286933,0
+33,Manufacturing,332500,Hardware manufacturing OR Hardware manufacturing,-0.21029582130134836,-0.030108674050284712,0
+32,Manufacturing,326220,Rubber and plastics hose and belting manufacturing OR Rubber and plastics hose and belting manufacturing,-0.21072199463401287,-0.03019874329840761,0
+32,Manufacturing,32121A,Veneer and plywood manufacturing OR Veneer and plywood manufacturing,-0.19206577899001784,0.012093671915909189,0
+33,Manufacturing,335920,Communication and energy wire and cable manufacturing OR Communication and energy wire and cable manufacturing,-0.2095360922942391,-0.02992539381141942,0
+33,Manufacturing,335312,Motor and generator manufacturing OR Motor and generator manufacturing,-0.21081070669309857,-0.03031025398994856,0
+81,Other Services (except Public Administration),812300,Drycleaning and laundry services OR Drycleaning and laundry services,-0.21020037963976768,-0.03088066353820423,0
+33,Manufacturing,33411A,Computer terminals and other computer peripheral equipment manufacturing OR Computer terminals and other computer peripheral equipment manufacturing,-0.21082798343717182,-0.030832163986673166,0
+51,Information,511120,Periodical publishers OR Periodical publishers,-0.20999866509544343,-0.031443294838981485,0
+0,,S00102,Other Federal government enterprises OR Other Federal government enterprises,-0.21258553963130514,-0.030976531749668443,0
+31,Manufacturing,311910,Snack food manufacturing OR Snack food manufacturing,-0.2119432274894295,-0.03040384696843803,0
+54,"Professional, Scientific, and Technical Services",541400,Specialized design services OR Specialized design services,-0.20935235630961838,-0.030868581600369153,0
+54,"Professional, Scientific, and Technical Services",5416A0,Environmental and other technical consulting services OR Environmental and other technical consulting services,-0.21125870594964286,-0.031399157204560824,0
+32,Manufacturing,326160,Plastics bottle manufacturing OR Plastics bottle manufacturing,-0.1997791636803782,-0.026439379664958546,0
+32,Manufacturing,321910,Wood windows and doors and millwork OR Wood windows and doors and millwork,-0.1974517980133578,-0.001830691862714005,0
+33,Manufacturing,33329A,Other industrial machinery manufacturing OR Other industrial machinery manufacturing,-0.21072856541310894,-0.030108689956976735,0
+32,Manufacturing,327330,"Concrete pipe, brick and block manufacturing OR Concrete pipe, brick and block manufacturing",-0.21221478720763778,-0.030645240810912862,0
+33,Manufacturing,339991,"Gasket, packing, and sealing device manufacturing OR Gasket, packing, and sealing device manufacturing",-0.21049083524008919,-0.029981065738052783,0
+32,Manufacturing,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing OR Urethane and Other Foam Product (except Polystyrene) Manufacturing,-0.21193181396581545,-0.030795215265339734,0
+33,Manufacturing,334418,Printed circuit assembly (electronic assembly) manufacturing OR Printed circuit assembly (electronic assembly) manufacturing,-0.2066328900548929,-0.028743879588097935,0
+33,Manufacturing,335314,Relay and industrial control manufacturing OR Relay and industrial control manufacturing,-0.21052827901551058,-0.029869527030246566,0
+33,Manufacturing,334412,Bare printed circuit board manufacturing OR Bare printed circuit board manufacturing,-0.21047622383753486,-0.03024894909400812,0
+31,Manufacturing,314910,Textile bag and canvas mills OR Textile bag and canvas mills,-0.21224177977431616,-0.030608577875874086,0
+33,Manufacturing,333415,"Air conditioning, refrigeration, and warm air heating equipment manufacturing OR Air conditioning, refrigeration, and warm air heating equipment manufacturing",-0.21087354682676734,-0.030108006139281978,0
+32,Manufacturing,327999,Miscellaneous nonmetallic mineral products OR Miscellaneous nonmetallic mineral products,-0.21267952630605486,-0.030958478459558347,0
+33,Manufacturing,333120,Construction machinery manufacturing OR Construction machinery manufacturing,-0.21211873004004247,-0.030864437042455964,0
+51,Information,512100,Motion picture and video industries OR Motion picture and video industries,-0.20942867308893456,-0.03036365017720896,0
+31,Manufacturing,316900,Other leather and allied product manufacturing OR Other leather and allied product manufacturing,-0.21259955083278967,-0.03131059684247105,0
+33,Manufacturing,33341A,Air purification and ventilation equipment manufacturing OR Air purification and ventilation equipment manufacturing,-0.21179678658345882,-0.030572009862507712,0
+33,Manufacturing,333515,Cutting tool and machine tool accessory manufacturing OR Cutting tool and machine tool accessory manufacturing,-0.210208988574097,-0.03001206699987555,0
+32,Manufacturing,322230,Stationery product manufacturing OR Stationery product manufacturing,-0.2090268693033102,-0.02705472954757422,0
+33,Manufacturing,339950,Sign manufacturing OR Sign manufacturing,-0.21191372277826334,-0.03041323901348294,0
+33,Manufacturing,334419,Other electronic component manufacturing OR Other electronic component manufacturing,-0.2095899670478788,-0.029897085776101267,0
+71,"Arts, Entertainment, and Recreation",711200,Spectator sports OR Spectator sports,-0.210096351779495,-0.030644159076753393,0
+56,Administrative and Support and Waste Management and Remediation Services,561200,Facilities support services OR Facilities support services,-0.21153566557667555,-0.031018664574957007,0
+23,Construction,230202,Other residential structures OR Other residential structures,-0.21279507242191134,-0.03169123833267008,0
+33,Manufacturing,33999A,All other miscellaneous manufacturing OR All other miscellaneous manufacturing,-0.21190535089583545,-0.030458751165245816,0
+71,"Arts, Entertainment, and Recreation",711A00,Promoters of performing arts and sports and agents for public figures OR Promoters of performing arts and sports and agents for public figures,-0.2112627563652045,-0.030867971518463704,0
+33,Manufacturing,332410,Power boiler and heat exchanger manufacturing OR Power boiler and heat exchanger manufacturing,-0.21245925246553832,-0.030845429039187605,0
+31,Manufacturing,311820,"Cookie, cracker and pasta manufacturing OR Cookie, cracker and pasta manufacturing",-0.2124500027281253,-0.030579388692072506,0
+33,Manufacturing,335120,Lighting fixture manufacturing OR Lighting fixture manufacturing,-0.2123699750140905,-0.030779697918897266,0
+33,Manufacturing,333618,Other engine equipment manufacturing OR Other engine equipment manufacturing,-0.21164348085757842,-0.03046349043023884,0
+32,Manufacturing,326122,Plastics Pipe and Pipe Fitting Manufacturing OR Plastics Pipe and Pipe Fitting Manufacturing,-0.20873213704963853,-0.029401736567862095,0
+33,Manufacturing,335930,Wiring device manufacturing OR Wiring device manufacturing,-0.21159267518831115,-0.03053446499638268,0
+51,Information,5111A0,"Directory, mailing list, and other publishers OR Directory, mailing list, and other publishers",-0.21129106853562282,-0.030965652479870574,0
+31,Manufacturing,313220,Narrow fabric mills and schiffli embroidery OR Narrow fabric mills and schiffli embroidery,-0.21233237592223095,-0.03016017059920127,0
+33,Manufacturing,33399A,Fluid power process machinery OR Fluid power process machinery,-0.2119913269094794,-0.03060695118937033,0
+31,Manufacturing,311810,Bread and bakery product manufacturing OR Bread and bakery product manufacturing,-0.2127600602242342,-0.03082605533156029,0
+33,Manufacturing,334210,Telephone apparatus manufacturing OR Telephone apparatus manufacturing,-0.21282190361373762,-0.03094489932705383,0
+32,Manufacturing,323120,Support activities for printing OR Support activities for printing,-0.2117597026662372,-0.03050850601689351,0
+33,Manufacturing,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing OR Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",-0.21238313341432602,-0.030794755503562077,0
+31,Manufacturing,311930,Flavoring syrup and concentrate manufacturing OR Flavoring syrup and concentrate manufacturing,-0.21251291881251538,-0.03002241333102508,0
+31,Manufacturing,315210,Cut and sew apparel contractors OR Cut and sew apparel contractors,-0.21239907242850842,-0.030564835534911582,0
+33,Manufacturing,336413,Other aircraft parts and equipment OR Other aircraft parts and equipment,-0.21260011333103485,-0.03086588578579156,0
+33,Manufacturing,335110,Electric lamp bulb and part manufacturing OR Electric lamp bulb and part manufacturing,-0.21254172811276625,-0.030881168769399326,0
+81,Other Services (except Public Administration),812900,Other personal services OR Other personal services,-0.21273790232259115,-0.031165565844787513,0
+33,Manufacturing,332420,"Metal tank, heavy gauge, manufacturing OR Metal tank, heavy gauge, manufacturing",-0.21282519256732185,-0.03095880906763857,0
+71,"Arts, Entertainment, and Recreation",711500,"Independent artists, writers, and performers OR Independent artists, writers, and performers",-0.21267757892341946,-0.031185647438352903,0
+33,Manufacturing,336611,Ship building and repairing OR Ship building and repairing,-0.21205299848838732,-0.03035184945372978,0
+51,Information,511200,Software publishers OR Software publishers,-0.2123765786802998,-0.031188093543659194,0
+51,Information,516110,Internet publishing and broadcasting OR Internet publishing and broadcasting,-0.21279138898363412,-0.031306717402127156,0
+31,Manufacturing,312110,Soft drink and ice manufacturing OR Soft drink and ice manufacturing,-0.21277481399462098,-0.030545535051880228,0
+33,Manufacturing,337215,"Showcases, partitions, shelving, and lockers OR Showcases, partitions, shelving, and lockers",-0.21268012129342315,-0.03044650900731138,0
+33,Manufacturing,335313,Switchgear and switchboard apparatus manufacturing OR Switchgear and switchboard apparatus manufacturing,-0.21269680182983777,-0.030877387561558976,0
+51,Information,518100,Internet service providers and web search portals OR Internet service providers and web search portals,-0.21231065548917777,-0.031144085894561253,0
+33,Manufacturing,33399B,Process and oven not fluid power machinery OR Process and oven not fluid power machinery,-0.21231419664692316,-0.03074109379368706,0
+54,"Professional, Scientific, and Technical Services",541940,Veterinary services OR Veterinary services,-0.21316191272613788,-0.031260974085981184,0
+33,Manufacturing,337110,Wood kitchen cabinet and countertop manufacturing OR Wood kitchen cabinet and countertop manufacturing,-0.21252950747877933,-0.030110165921939255,0
+33,Manufacturing,339940,Office supplies (except paper) manufacturing OR Office supplies (except paper) manufacturing,-0.21264868893022273,-0.03078196345655695,0
+33,Manufacturing,33221A,"Cutlery, utensils, pots, and pans manufacturing OR Cutlery, utensils, pots, and pans manufacturing",-0.21305825060922864,-0.031030248174481946,0
+33,Manufacturing,333613,Mechanical Power Transmission Equipment Manufacturing OR Mechanical Power Transmission Equipment Manufacturing,-0.21268100432538484,-0.03090094200791983,0
+33,Manufacturing,334290,Other communications equipment manufacturing OR Other communications equipment manufacturing,-0.21288035181478157,-0.030964052384140493,0
+31,Manufacturing,314110,Carpet and rug mills OR Carpet and rug mills,-0.21319792755660186,-0.03111020635770717,0
+33,Manufacturing,333611,Turbine and turbine generator set units manufacturing OR Turbine and turbine generator set units manufacturing,-0.21277023908584322,-0.030808180260797343,0
+54,"Professional, Scientific, and Technical Services",541920,Photographic services OR Photographic services,-0.21281952877030966,-0.03114636104637303,0
+71,"Arts, Entertainment, and Recreation",711100,Performing arts companies OR Performing arts companies,-0.21269510646147052,-0.03108039024839271,0
+54,"Professional, Scientific, and Technical Services",541511,Custom computer programming services OR Custom computer programming services,-0.21295271156257592,-0.03121652382402907,0
+33,Manufacturing,33461A,"Software, audio and video reproduction OR Software, audio and video reproduction",-0.21217765035665934,-0.030754321914916772,0
+33,Manufacturing,333130,Mining and oil and gas field machinery manufacturing OR Mining and oil and gas field machinery manufacturing,-0.21273620459667042,-0.030892681533700686,0
+33,Manufacturing,33441A,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing OR Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing",-0.21227998255586641,-0.030790330655503625,0
+33,Manufacturing,336120,Heavy duty truck manufacturing OR Heavy duty truck manufacturing,-0.21329046487674408,-0.031097042575015426,0
+33,Manufacturing,334613,Magnetic and optical recording media manufacturing OR Magnetic and optical recording media manufacturing,-0.2129266493596123,-0.030989630927337596,0
+33,Manufacturing,335311,Electric power and specialty transformer manufacturing OR Electric power and specialty transformer manufacturing,-0.21293595303699595,-0.030984990114759994,0
+31,Manufacturing,316100,Leather and hide tanning and finishing OR Leather and hide tanning and finishing,-0.21308294967577573,-0.031050715695969264,0
+33,Manufacturing,334513,Industrial process variable instruments OR Industrial process variable instruments,-0.21246920518035084,-0.03083792863837643,0
+32,Manufacturing,32121B,Engineered wood member and truss manufacturing OR Engineered wood member and truss manufacturing,-0.2026226023673484,-0.006482032249202427,0
+61,Educational Services,611B00,Other educational services OR Other educational services,-0.21325136972159794,-0.031233898780326466,0
+33,Manufacturing,332996,Fabricated pipe and pipe fitting manufacturing OR Fabricated pipe and pipe fitting manufacturing,-0.2130071779485906,-0.031010665138616753,0
+33,Manufacturing,332913,Plumbing Fixture Fitting and Trim Manufacturing OR Plumbing Fixture Fitting and Trim Manufacturing,-0.2129555392082885,-0.030995045712886915,0
+31,Manufacturing,311920,Coffee and tea manufacturing OR Coffee and tea manufacturing,-0.21318329180634313,-0.030977700450079967,0
+33,Manufacturing,333911,Pump and pumping equipment manufacturing OR Pump and pumping equipment manufacturing,-0.21278820149536595,-0.030900337419426417,0
+32,Manufacturing,327991,Cut stone and stone product manufacturing OR Cut stone and stone product manufacturing,-0.2132201359203836,-0.031040369189369026,0
+72,Accommodation and Food Services,721A00,Other accommodations OR Other accommodations,-0.2132236292232237,-0.031185097829647197,0
+31,Manufacturing,311230,Breakfast cereal manufacturing OR Breakfast cereal manufacturing,-0.21319386906801657,-0.031018164109637807,0
+33,Manufacturing,336412,Aircraft engine and engine parts manufacturing OR Aircraft engine and engine parts manufacturing,-0.21304566009242099,-0.03093717457286917,0
+33,Manufacturing,333414,Heating equipment (except warm air furnaces) manufacturing OR Heating equipment (except warm air furnaces) manufacturing,-0.21316263361864068,-0.031047781343030805,0
+33,Manufacturing,334411,Electron tube manufacturing OR Electron tube manufacturing,-0.21293556947671047,-0.031000523026927046,0
+51,Information,519100,Other information services OR Other information services,-0.212950145894432,-0.031102354354908695,0
+33,Manufacturing,339113,Surgical appliance and supplies manufacturing OR Surgical appliance and supplies manufacturing,-0.21296527840086094,-0.030890706374773237,0
+33,Manufacturing,333511,Industrial mold manufacturing OR Industrial mold manufacturing,-0.21292060160421816,-0.030968666451885,0
+33,Manufacturing,334111,Electronic computer manufacturing OR Electronic computer manufacturing,-0.21309673041458035,-0.030973036597470693,0
+33,Manufacturing,335999,Miscellaneous electrical equipment manufacturing OR Miscellaneous electrical equipment manufacturing,-0.21307923975945703,-0.031002905112001874,0
+33,Manufacturing,334417,Electronic connector manufacturing OR Electronic connector manufacturing,-0.21292511717853282,-0.030983215835449,0
+33,Manufacturing,333514,"Special tool, die, jig, and fixture manufacturing OR Special tool, die, jig, and fixture manufacturing",-0.21302649654511135,-0.03099734704303722,0
+33,Manufacturing,333319,Other commercial and service industry machinery manufacturing OR Other commercial and service industry machinery manufacturing,-0.2132555434172473,-0.031140273830710528,0
+33,Manufacturing,339994,"Broom, brush, and mop manufacturing OR Broom, brush, and mop manufacturing",-0.21313738722195602,-0.031000695075708715,0
+31,Manufacturing,315900,Accessories and other apparel manufacturing OR Accessories and other apparel manufacturing,-0.21339036997402727,-0.031125536897740304,0
+33,Manufacturing,33351A,Metal cutting and forming machine tool manufacturing OR Metal cutting and forming machine tool manufacturing,-0.21318150200686034,-0.031054879297366167,0
+33,Manufacturing,333220,Plastics and rubber industry machinery OR Plastics and rubber industry machinery,-0.21317704383069308,-0.031049496200289253,0
+31,Manufacturing,314120,Curtain and linen mills OR Curtain and linen mills,-0.2133587811149444,-0.031118712807534615,0
+33,Manufacturing,33331A,"Vending, commerical, industrial, and office machinery manufacturing OR Vending, commerical, industrial, and office machinery manufacturing",-0.2132448530711649,-0.031097045401361677,0
+31,Manufacturing,312130,Wineries OR Wineries,-0.21320982140677047,-0.030871158227966964,0
+33,Manufacturing,333112,Lawn and garden equipment manufacturing OR Lawn and garden equipment manufacturing,-0.2132574966889326,-0.031064951641248905,0
+31,Manufacturing,315230,Women's and girls' cut and sew apparel manufacturing OR Women's and girls' cut and sew apparel manufacturing,-0.21332306588914615,-0.031035514853075118,0
+33,Manufacturing,337920,Blind and shade manufacturing OR Blind and shade manufacturing,-0.2129878441181854,-0.03053614549781707,0
+33,Manufacturing,334300,Audio and video equipment manufacturing OR Audio and video equipment manufacturing,-0.21293758133313465,-0.030973862801886947,0
+33,Manufacturing,334511,"Search, detection, and navigation instruments OR Search, detection, and navigation instruments",-0.21316640644109322,-0.031062216234248055,0
+31,Manufacturing,311520,Ice cream and frozen dessert manufacturing OR Ice cream and frozen dessert manufacturing,-0.21312638500894837,-0.030932273717609864,0
+33,Manufacturing,334514,Totalizing fluid meters and counting devices OR Totalizing fluid meters and counting devices,-0.21318915133436583,-0.031062185350442303,0
+33,Manufacturing,333912,Air and gas compressor manufacturing OR Air and gas compressor manufacturing,-0.21330903446413083,-0.031096766439094085,0
+51,Information,511130,Book publishers OR Book publishers,-0.21331446552945604,-0.031159433460933042,0
+31,Manufacturing,311320,Confectionery manufacturing from cacao beans OR Confectionery manufacturing from cacao beans,-0.21332960943288626,-0.031061489507792275,0
+33,Manufacturing,334512,Automatic environmental control manufacturing OR Automatic environmental control manufacturing,-0.21317585745925552,-0.031066108738479127,0
+32,Manufacturing,325413,In-vitro diagnostic substance manufacturing OR In-vitro diagnostic substance manufacturing,-0.21296863010285613,-0.03061680423425872,0
+33,Manufacturing,334112,Computer storage device manufacturing OR Computer storage device manufacturing,-0.21267931572920273,-0.03089517936197199,0
+33,Manufacturing,33641A,Other guided missile and space vehicle parts and auxiliary equipment manufacturing OR Other guided missile and space vehicle parts and auxiliary equipment manufacturing,-0.21327365710738672,-0.031073636375305885,0
+33,Manufacturing,335221,Household cooking appliance manufacturing OR Household cooking appliance manufacturing,-0.21341097192066202,-0.031140568364405305,0
+51,Information,512200,Sound recording industries OR Sound recording industries,-0.21323508053004234,-0.03116093859932605,0
+52,Finance and Insurance,524100,Insurance carriers OR Insurance carriers,-0.21230787368464513,-0.030859124336890257,0
+33,Manufacturing,334220,Broadcast and wireless communications equipment OR Broadcast and wireless communications equipment,-0.21319494264689307,-0.03105367746774847,0
+21,"Mining, Quarrying, and Oil and Gas Extraction",213111,Drilling oil and gas wells OR Drilling oil and gas wells,-0.21345871037824407,-0.031227027323043947,0
+33,Manufacturing,336991,"Motorcycle, bicycle, and parts manufacturing OR Motorcycle, bicycle, and parts manufacturing",-0.21338162749591663,-0.03108872939133194,0
+33,Manufacturing,336214,Travel trailer and camper manufacturing OR Travel trailer and camper manufacturing,-0.21340021728257758,-0.031091645346167335,0
+33,Manufacturing,337127,Institutional furniture manufacturing OR Institutional furniture manufacturing,-0.21334739017703883,-0.03100061128006481,0
+33,Manufacturing,334516,Analytical laboratory instrument manufacturing OR Analytical laboratory instrument manufacturing,-0.21335545151285812,-0.031118408424676915,0
+33,Manufacturing,333991,Power-driven handtool manufacturing OR Power-driven handtool manufacturing,-0.21325504119821415,-0.031064653647079415,0
+33,Manufacturing,336211,Motor vehicle body manufacturing OR Motor vehicle body manufacturing,-0.213376676894332,-0.031078483307098732,0
+33,Manufacturing,333994,Industrial process furnace and oven manufacturing OR Industrial process furnace and oven manufacturing,-0.21341123420195476,-0.031137798563125766,0
+33,Manufacturing,335210,Small electrical appliance manufacturing OR Small electrical appliance manufacturing,-0.2133890174627118,-0.03112968885767025,0
+33,Manufacturing,33299B,Ordnance and accessories manufacturing OR Ordnance and accessories manufacturing,-0.21342431218348754,-0.031143194077921953,0
+32,Manufacturing,321992,Prefabricated wood building manufacturing OR Prefabricated wood building manufacturing,-0.21276422319730018,-0.02956135431199107,0
+33,Manufacturing,333295,Semiconductor machinery manufacturing OR Semiconductor machinery manufacturing,-0.21330345395790687,-0.03108125857351124,0
+31,Manufacturing,315100,Hosiery and sock mills OR Hosiery and sock mills,-0.21331883387809536,-0.031076987370506116,0
+33,Manufacturing,336999,All other transportation equipment manufacturing OR All other transportation equipment manufacturing,-0.21343045904215094,-0.031106605901790825,0
+31,Manufacturing,315220,Men's and boys' cut and sew apparel manufacturing OR Men's and boys' cut and sew apparel manufacturing,-0.21333147123775636,-0.03102473940924778,0
+31,Manufacturing,311330,Confectionery manufacturing from purchased chocolate OR Confectionery manufacturing from purchased chocolate,-0.21344548724326967,-0.031131972338213507,0
+33,Manufacturing,336411,Aircraft manufacturing OR Aircraft manufacturing,-0.21337822467248851,-0.031058204518936445,0
+33,Manufacturing,339920,Sporting and athletic goods manufacturing OR Sporting and athletic goods manufacturing,-0.21344968624381339,-0.031141442096301236,0
+33,Manufacturing,33451A,"Watch, clock, and other measuring and controlling device manufacturing OR Watch, clock, and other measuring and controlling device manufacturing",-0.2133728521901984,-0.03112686369074218,0
+33,Manufacturing,337212,Custom architectural woodwork and millwork OR Custom architectural woodwork and millwork,-0.21345592557136628,-0.031087303499021224,0
+33,Manufacturing,33299A,Ammunition manufacturing OR Ammunition manufacturing,-0.21346980100436522,-0.03116040384531837,0
+33,Manufacturing,335228,Other major household appliance manufacturing OR Other major household appliance manufacturing,-0.21347360724142025,-0.03116055721361177,0
+33,Manufacturing,339112,Surgical and medical instrument manufacturing OR Surgical and medical instrument manufacturing,-0.2133941190513175,-0.031110663024074912,0
+33,Manufacturing,33351B,Rolling mill and other metalworking machinery manufacturing OR Rolling mill and other metalworking machinery manufacturing,-0.21345951316473344,-0.031151694634631192,0
+33,Manufacturing,339910,Jewelry and silverware manufacturing OR Jewelry and silverware manufacturing,-0.21347392561297596,-0.031145493611991686,0
+71,"Arts, Entertainment, and Recreation",713A00,Amusement parks and arcades OR Amusement parks and arcades,-0.21348719788992745,-0.03117446952061966,0
+33,Manufacturing,334515,Electricity and signal testing instruments OR Electricity and signal testing instruments,-0.21336172980286555,-0.031119990183309926,0
+33,Manufacturing,336212,Truck trailer manufacturing OR Truck trailer manufacturing,-0.21346162324709453,-0.031138525026862002,0
+33,Manufacturing,339992,Musical instrument manufacturing OR Musical instrument manufacturing,-0.2134715756055801,-0.03115312237723016,0
+33,Manufacturing,336111,Automobile Manufacturing OR Automobile Manufacturing,-0.21346775555923111,-0.031133646058860296,0
+33,Manufacturing,333315,Photographic and photocopying equipment manufacturing OR Photographic and photocopying equipment manufacturing,-0.21344804994962432,-0.031148122196488177,0
+33,Manufacturing,335912,Primary battery manufacturing OR Primary battery manufacturing,-0.2134295459988783,-0.0311406394789459,0
+33,Manufacturing,336112,Light Truck and Utility Vehicle Manufacturing OR Light Truck and Utility Vehicle Manufacturing,-0.21348857672620053,-0.031157183385197372,0
+33,Manufacturing,333993,Packaging machinery manufacturing OR Packaging machinery manufacturing,-0.21347051966128733,-0.031154637133383994,0
+33,Manufacturing,336612,Boat building OR Boat building,-0.21348359070420275,-0.03114994853447063,0
+33,Manufacturing,339930,"Doll, toy, and game manufacturing OR Doll, toy, and game manufacturing",-0.21348283575460103,-0.031158653462968835,0
+31,Manufacturing,311830,Tortilla manufacturing OR Tortilla manufacturing,-0.21350432179617185,-0.031169622099180623,0
+33,Manufacturing,336414,Guided missile and space vehicle manufacturing OR Guided missile and space vehicle manufacturing,-0.21347510229115957,-0.031140734071508393,0
+33,Manufacturing,335222,Household refrigerator and home freezer manufacturing OR Household refrigerator and home freezer manufacturing,-0.2134868491697471,-0.031163837740723767,0
+52,Finance and Insurance,525000,"Funds, trusts, and other financial vehicles OR Funds, trusts, and other financial vehicles",-0.21347073577430015,-0.031171689000629013,0
+33,Manufacturing,339111,Laboratory apparatus and furniture manufacturing OR Laboratory apparatus and furniture manufacturing,-0.21350214301055695,-0.031163890112916464,0
+62,Health Care and Social Assistance,621B00,Healthcare and social assistance OR Healthcare and social assistance,-0.21349975125785595,-0.031174825148422316,0
+33,Manufacturing,337910,Mattress manufacturing OR Mattress manufacturing,-0.21348852558260117,-0.03112804509196677,0
+81,Other Services (except Public Administration),813A00,"Grantmaking, giving and social advocacy organizations OR Grantmaking, giving and social advocacy organizations",-0.2135094449651508,-0.031179134162446626,0
+33,Manufacturing,33721A,Office furniture manufacturing OR Office furniture manufacturing,-0.21301536118308537,-0.03098822649419777,0
+33,Manufacturing,333314,Optical instrument and lens manufacturing OR Optical instrument and lens manufacturing,-0.21347668583851184,-0.03115895737928582,0
+33,Manufacturing,337122,Nonupholstered wood household furniture manufacturing OR Nonupholstered wood household furniture manufacturing,-0.21349364900442203,-0.03115234717010151,0
+33,Manufacturing,335224,Household laundry equipment manufacturing OR Household laundry equipment manufacturing,-0.21350917911922312,-0.031171950784900163,0
+31,Manufacturing,315290,Other cut and sew apparel manufacturing OR Other cut and sew apparel manufacturing,-0.21348604115971617,-0.03115059299025024,0
+62,Health Care and Social Assistance,624A00,Individual and family services OR Individual and family services,-0.21351622087435984,-0.03117684645506279,0
+62,Health Care and Social Assistance,624400,Child day care services OR Child day care services,-0.2135099807275213,-0.031175089677980748,0
+33,Manufacturing,337121,Upholstered household furniture manufacturing OR Upholstered household furniture manufacturing,-0.21349800452172982,-0.031146490502268493,0
+32,Manufacturing,321991,"Manufactured home, mobile home, manufacturing OR Manufactured home, mobile home, manufacturing",-0.21343456444743894,-0.030988461404276267,0
+62,Health Care and Social Assistance,623000,Nursing and residential care facilities OR Nursing and residential care facilities,-0.2135138342809568,-0.031175790041012282,0
+71,"Arts, Entertainment, and Recreation",713950,Bowling centers OR Bowling centers,-0.21350186328608983,-0.031171997931041643,0
+33,Manufacturing,339115,Ophthalmic goods manufacturing OR Ophthalmic goods manufacturing,-0.21349487407736595,-0.031163966127383178,0
+33,Manufacturing,334517,Irradiation apparatus manufacturing OR Irradiation apparatus manufacturing,-0.21350330977077867,-0.031168654764542676,0
+33,Manufacturing,336213,Motor home manufacturing OR Motor home manufacturing,-0.2135133720860743,-0.031167403086883982,0
+53,Real Estate and Rental and Leasing,532230,Video tape and disc rental OR Video tape and disc rental,-0.21351194254719297,-0.031174043811717924,0
+33,Manufacturing,334510,Electromedical apparatus manufacturing OR Electromedical apparatus manufacturing,-0.213516089142003,-0.031173989804020735,0
+31,Manufacturing,3122A0,Tobacco product manufacturing OR Tobacco product manufacturing,-0.21352114600854252,-0.031176117172962526,0
+62,Health Care and Social Assistance,622000,Hospitals OR Hospitals,-0.21351520687222875,-0.031175168260684654,0
+62,Health Care and Social Assistance,621A00,"Offices of physicians, dentists, and other health practitioners OR Offices of physicians, dentists, and other health practitioners",-0.21351915430833157,-0.031175902106572773,0
+33,Manufacturing,336992,Military armored vehicles and tank parts manufacturing OR Military armored vehicles and tank parts manufacturing,-0.2135194093176831,-0.031174668990416404,0
+31,Manufacturing,316200,Footwear manufacturing OR Footwear manufacturing,-0.21352117372785884,-0.03117604043311981,0
+33,Manufacturing,339114,Dental equipment and supplies manufacturing OR Dental equipment and supplies manufacturing,-0.2135205666189276,-0.031175317238937444,0
+62,Health Care and Social Assistance,624200,"Community food, housing, and other relief services, incl rehabilitation services OR Community food, housing, and other relief services, incl rehabilitation services",-0.21352182719122126,-0.03117607941466263,0
+33,Manufacturing,339116,Dental laboratories OR Dental laboratories,-0.21352169530432735,-0.031176032179717483,0
+81,Other Services (except Public Administration),812100,Personal care services OR Personal care services,-0.21352186933340253,-0.03117608516047908,0
